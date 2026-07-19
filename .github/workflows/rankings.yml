@@ -4,19 +4,20 @@ name: Update fund rankings
 on:
   schedule:
     - cron: '0 2 * * 1'      # every Monday 02:00 UTC (auto-refresh)
-  workflow_dispatch: {}       # adds a manual "Run workflow" button
+  workflow_dispatch: {}       # manual "Run workflow" button
 permissions:
   contents: write             # lets the job commit rankings.json back
 jobs:
   rank:
     runs-on: ubuntu-latest
+    timeout-minutes: 25       # SAFETY NET: kill the run if it ever exceeds 25 min
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       - name: Compute rankings
-        run: python rankings.py        # uses only Python stdlib — no pip install needed
+        run: python rankings.py        # stdlib only, parallel fetch — finishes in 1-3 min
       - name: Commit rankings.json
         run: |
           git config user.name  "rankings-bot"
