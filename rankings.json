@@ -1,0 +1,848 @@
+{
+ "generated": "2026-07-19 05:39 UTC",
+ "source": "mfapi.in / AMFI (open NAV data), metrics computed by rankings.py",
+ "categories": {
+  "Flexi Cap": [
+   {
+    "code": "125354",
+    "name": "PGIM India Flexi Cap",
+    "metrics": {
+     "cagr_3y": 0.16879489239746914,
+     "cagr_5y": 0.16958747224598847,
+     "roll5_min": 0.061125024284218066,
+     "roll5_avg": 0.2159130009198608,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.17876201292999233,
+     "sortino": 1.513989275980616,
+     "max_drawdown": -0.3463863337713534,
+     "history_days": 4607
+    },
+    "rag": {
+     "roll5_avg": "green",
+     "roll5_min": "green",
+     "roll5_pos_pct": "red",
+     "sortino": "green",
+     "max_drawdown": "green",
+     "cagr_5y": "amber",
+     "volatility": "amber"
+    },
+    "score": 65.0,
+    "rank": 1
+   },
+   {
+    "code": "122639",
+    "name": "Parag Parikh Flexi Cap",
+    "metrics": {
+     "cagr_3y": 0.14544380949591718,
+     "cagr_5y": 0.13778305497898757,
+     "roll5_min": 0.060552312487531346,
+     "roll5_avg": 0.19258099796102507,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.13025541629147888,
+     "sortino": 1.493423323483241,
+     "max_drawdown": -0.31202149047503647,
+     "history_days": 4798
+    },
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "green",
+     "roll5_pos_pct": "red",
+     "sortino": "green",
+     "max_drawdown": "green",
+     "cagr_5y": "amber",
+     "volatility": "green"
+    },
+    "score": 60.6,
+    "rank": 2
+   },
+   {
+    "code": "120492",
+    "name": "UTI Flexi Cap",
+    "metrics": {
+     "cagr_3y": 0.16832444501332744,
+     "cagr_5y": 0.17775010176450423,
+     "roll5_min": 0.050773163594753035,
+     "roll5_avg": 0.18104479200945633,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.1777652292648208,
+     "sortino": 1.08677260337318,
+     "max_drawdown": -0.34950611676123466,
+     "history_days": 4944
+    },
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "red",
+     "sortino": "amber",
+     "max_drawdown": "amber",
+     "cagr_5y": "green",
+     "volatility": "amber"
+    },
+    "score": 48.8,
+    "rank": 3
+   },
+   {
+    "code": "120843",
+    "name": "Quant Flexi Cap",
+    "metrics": {
+     "cagr_3y": 0.18395868712402752,
+     "cagr_5y": 0.1621765576706693,
+     "roll5_min": 0.022861516435928708,
+     "roll5_avg": 0.2165126529619538,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.20242928868231402,
+     "sortino": 1.2575143391115493,
+     "max_drawdown": -0.4128467780653956,
+     "history_days": 4939
+    },
+    "rag": {
+     "roll5_avg": "green",
+     "roll5_min": "red",
+     "roll5_pos_pct": "red",
+     "sortino": "amber",
+     "max_drawdown": "red",
+     "cagr_5y": "amber",
+     "volatility": "red"
+    },
+    "score": 41.2,
+    "rank": 4
+   },
+   {
+    "code": "118825",
+    "name": "Kotak Flexi Cap",
+    "metrics": {
+     "cagr_3y": 0.10186545720355933,
+     "cagr_5y": 0.10373673900595604,
+     "roll5_min": 0.049977273332727945,
+     "roll5_avg": 0.15791513923542397,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.15732947347672033,
+     "sortino": 0.9652364922157236,
+     "max_drawdown": -0.3744172593323578,
+     "history_days": 4944
+    },
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "red",
+     "sortino": "amber",
+     "max_drawdown": "amber",
+     "cagr_5y": "red",
+     "volatility": "green"
+    },
+    "score": 26.9,
+    "rank": 5
+   },
+   {
+    "code": "118527",
+    "name": "Aditya Birla Flexi Cap",
+    "metrics": {
+     "cagr_3y": 0.13244212359817453,
+     "cagr_5y": 0.13522240541646502,
+     "roll5_min": 0.01442289351878312,
+     "roll5_avg": 0.1671449561910444,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.14905231808088337,
+     "sortino": 0.9453745517517358,
+     "max_drawdown": -0.37952526749476123,
+     "history_days": 4945
+    },
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "red",
+     "roll5_pos_pct": "red",
+     "sortino": "red",
+     "max_drawdown": "red",
+     "cagr_5y": "red",
+     "volatility": "green"
+    },
+    "score": 22.5,
+    "rank": 6
+   },
+   {
+    "code": "118955",
+    "name": "HDFC Flexi Cap",
+    "metrics": {
+     "cagr_3y": 0.17571991288682942,
+     "cagr_5y": 0.18597995406832668,
+     "roll5_min": 0.005862912963902733,
+     "roll5_avg": 0.16672998165316597,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.18297682256262607,
+     "sortino": 0.9624348733169368,
+     "max_drawdown": -0.41839443017840416,
+     "history_days": 4945
+    },
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "red",
+     "roll5_pos_pct": "red",
+     "sortino": "red",
+     "max_drawdown": "red",
+     "cagr_5y": "green",
+     "volatility": "red"
+    },
+    "score": 20.0,
+    "rank": 7
+   },
+   {
+    "code": "112090",
+    "name": "Franklin India Flexi Cap",
+    "metrics": {
+     "cagr_3y": 0.1279336748192681,
+     "cagr_5y": 0.11618698047808063,
+     "roll5_min": 0.027243606735236847,
+     "roll5_avg": 0.154845466143218,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.16184755501923384,
+     "sortino": 0.763751247632421,
+     "max_drawdown": -0.3741970576046414,
+     "history_days": 6147
+    },
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "red",
+     "sortino": "red",
+     "max_drawdown": "amber",
+     "cagr_5y": "red",
+     "volatility": "amber"
+    },
+    "score": 17.5,
+    "rank": 8
+   }
+  ],
+  "Mid Cap": [
+   {
+    "code": "118989",
+    "name": "HDFC Mid-Cap Opportunities",
+    "metrics": {
+     "cagr_3y": 0.2002129306239009,
+     "cagr_5y": 0.2022054716755708,
+     "roll5_min": 0.030516368396292126,
+     "roll5_avg": 0.19654213674155846,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.18173108994612247,
+     "sortino": 1.3252157646551035,
+     "max_drawdown": -0.3951323148061361,
+     "history_days": 4945
+    },
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "green",
+     "roll5_pos_pct": "amber",
+     "sortino": "green",
+     "max_drawdown": "red",
+     "cagr_5y": "green",
+     "volatility": "green"
+    },
+    "score": 57.9,
+    "rank": 1
+   },
+   {
+    "code": "147623",
+    "name": "Edelweiss Mid Cap",
+    "metrics": {
+     "cagr_3y": 0.1820705980113242,
+     "cagr_5y": 0.14932628086529487,
+     "roll5_min": 0.1588002308049159,
+     "roll5_avg": 0.26307362566919906,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.24678194796760666,
+     "sortino": 1.1375921733422845,
+     "max_drawdown": -0.42439840432376785,
+     "history_days": 2501
+    },
+    "rag": {
+     "roll5_avg": "green",
+     "roll5_min": "green",
+     "roll5_pos_pct": "amber",
+     "sortino": "red",
+     "max_drawdown": "red",
+     "cagr_5y": "red",
+     "volatility": "red"
+    },
+    "score": 46.4,
+    "rank": 2
+   },
+   {
+    "code": "120841",
+    "name": "Quant Mid Cap",
+    "metrics": {
+     "cagr_3y": 0.16019836104016094,
+     "cagr_5y": 0.17217686604911075,
+     "roll5_min": -0.0095321851719532,
+     "roll5_avg": 0.19661682062012475,
+     "roll5_pos_pct": 0.9903846153846154,
+     "volatility": 0.16034651522212331,
+     "sortino": 1.1874486501749528,
+     "max_drawdown": -0.33429874666118753,
+     "history_days": 4939
+    },
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "red",
+     "roll5_pos_pct": "red",
+     "sortino": "amber",
+     "max_drawdown": "green",
+     "cagr_5y": "red",
+     "volatility": "green"
+    },
+    "score": 45.7,
+    "rank": 3
+   },
+   {
+    "code": "120841b",
+    "name": "Nippon Growth Mid Cap",
+    "metrics": {
+     "cagr_3y": 0.16019836104016094,
+     "cagr_5y": 0.17217686604911075,
+     "roll5_min": -0.0095321851719532,
+     "roll5_avg": 0.19661682062012475,
+     "roll5_pos_pct": 0.9903846153846154,
+     "volatility": 0.16034651522212331,
+     "sortino": 1.1874486501749528,
+     "max_drawdown": -0.33429874666118753,
+     "history_days": 4939
+    },
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "red",
+     "roll5_pos_pct": "red",
+     "sortino": "amber",
+     "max_drawdown": "green",
+     "cagr_5y": "red",
+     "volatility": "green"
+    },
+    "score": 45.7,
+    "rank": 4
+   },
+   {
+    "code": "118668",
+    "name": "Kotak Emerging Equity",
+    "metrics": {
+     "cagr_3y": 0.22205821275959559,
+     "cagr_5y": 0.2001920664555792,
+     "roll5_min": 0.02436575090726656,
+     "roll5_avg": 0.19362710679450734,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.18872822180702248,
+     "sortino": 1.1079944184656583,
+     "max_drawdown": -0.35323117372404966,
+     "history_days": 4944
+    },
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "amber",
+     "sortino": "red",
+     "max_drawdown": "amber",
+     "cagr_5y": "amber",
+     "volatility": "amber"
+    },
+    "score": 42.1,
+    "rank": 5
+   },
+   {
+    "code": "127039",
+    "name": "Motilal Oswal Midcap",
+    "metrics": {
+     "cagr_3y": 0.1883184992021305,
+     "cagr_5y": 0.2189523929315318,
+     "roll5_min": -0.0022849552360969527,
+     "roll5_avg": 0.18154981109570092,
+     "roll5_pos_pct": 0.9888888888888889,
+     "volatility": 0.19504491989566075,
+     "sortino": 1.1871778591914581,
+     "max_drawdown": -0.3729246751815264,
+     "history_days": 4525
+    },
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "red",
+     "sortino": "amber",
+     "max_drawdown": "red",
+     "cagr_5y": "green",
+     "volatility": "red"
+    },
+    "score": 29.3,
+    "rank": 6
+   },
+   {
+    "code": "125307",
+    "name": "PGIM India Midcap Opp",
+    "metrics": {
+     "cagr_3y": 0.12734767102050482,
+     "cagr_5y": 0.12916113688519681,
+     "roll5_min": -0.003620472635873284,
+     "roll5_avg": 0.19007075085798825,
+     "roll5_pos_pct": 0.989247311827957,
+     "volatility": 0.18246463723295428,
+     "sortino": 1.064436175340888,
+     "max_drawdown": -0.36425648021828094,
+     "history_days": 4607
+    },
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "red",
+     "roll5_pos_pct": "red",
+     "sortino": "red",
+     "max_drawdown": "amber",
+     "cagr_5y": "red",
+     "volatility": "amber"
+    },
+    "score": 18.6,
+    "rank": 7
+   }
+  ],
+  "Small Cap": [
+   {
+    "code": "147946",
+    "name": "Tata Small Cap",
+    "metrics": {
+     "cagr_3y": 0.2807314122227502,
+     "cagr_5y": 0.2030895169160487,
+     "roll5_min": 0.22298459091894474,
+     "roll5_avg": 0.31089438698278765,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.194860397170739,
+     "sortino": 2.49263729583299,
+     "max_drawdown": -0.24336283185840712,
+     "history_days": 2333
+    },
+    "rag": {
+     "roll5_avg": "green",
+     "roll5_min": "green",
+     "roll5_pos_pct": "red",
+     "sortino": "green",
+     "max_drawdown": "green",
+     "cagr_5y": "green",
+     "volatility": "amber"
+    },
+    "score": 73.8,
+    "rank": 1
+   },
+   {
+    "code": "125497",
+    "name": "Axis Small Cap",
+    "metrics": {
+     "cagr_3y": 0.13763039322251336,
+     "cagr_5y": 0.14752792387982017,
+     "roll5_min": 0.08352535199400024,
+     "roll5_avg": 0.2170681832355747,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.19297186295643137,
+     "sortino": 1.6645981679472244,
+     "max_drawdown": -0.4026012761687717,
+     "history_days": 4624
+    },
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "green",
+     "roll5_pos_pct": "red",
+     "sortino": "green",
+     "max_drawdown": "amber",
+     "cagr_5y": "red",
+     "volatility": "amber"
+    },
+    "score": 55.0,
+    "rank": 2
+   },
+   {
+    "code": "118778",
+    "name": "Nippon India Small Cap",
+    "metrics": {
+     "cagr_3y": 0.17953968617590021,
+     "cagr_5y": 0.19733067920691094,
+     "roll5_min": 0.051620153217494025,
+     "roll5_avg": 0.24695319544781652,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.21874611775481223,
+     "sortino": 1.5458350619553565,
+     "max_drawdown": -0.4858371846504487,
+     "history_days": 4944
+    },
+    "rag": {
+     "roll5_avg": "green",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "red",
+     "sortino": "amber",
+     "max_drawdown": "red",
+     "cagr_5y": "amber",
+     "volatility": "red"
+    },
+    "score": 49.4,
+    "rank": 3
+   },
+   {
+    "code": "125350",
+    "name": "SBI Small Cap",
+    "metrics": {
+     "cagr_3y": 0.1564992477045477,
+     "cagr_5y": 0.15569532848978596,
+     "roll5_min": 0.04881071662026071,
+     "roll5_avg": 0.2001388908268533,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.1785456894452941,
+     "sortino": 1.3730342012568757,
+     "max_drawdown": -0.3478138222849083,
+     "history_days": 4607
+    },
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "red",
+     "sortino": "amber",
+     "max_drawdown": "amber",
+     "cagr_5y": "amber",
+     "volatility": "green"
+    },
+    "score": 43.8,
+    "rank": 4
+   },
+   {
+    "code": "118759",
+    "name": "HDFC Small Cap",
+    "metrics": {
+     "cagr_3y": 0.20894638298486745,
+     "cagr_5y": 0.13370503035670667,
+     "roll5_min": 0.0160271707854045,
+     "roll5_avg": 0.16736092166891725,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.1640853095854748,
+     "sortino": 1.4343869263443465,
+     "max_drawdown": -0.24023807640640893,
+     "history_days": 4944
+    },
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "red",
+     "roll5_pos_pct": "red",
+     "sortino": "amber",
+     "max_drawdown": "green",
+     "cagr_5y": "red",
+     "volatility": "green"
+    },
+    "score": 39.4,
+    "rank": 5
+   },
+   {
+    "code": "130503",
+    "name": "Bandhan Small Cap",
+    "metrics": {
+     "cagr_3y": 0.13811656316501142,
+     "cagr_5y": 0.16014400137904028,
+     "roll5_min": 0.017871025862911782,
+     "roll5_avg": 0.19542209766405672,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.19876961737260815,
+     "sortino": 1.0336137133529177,
+     "max_drawdown": -0.4825565334070011,
+     "history_days": 4400
+    },
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "red",
+     "sortino": "red",
+     "max_drawdown": "red",
+     "cagr_5y": "amber",
+     "volatility": "red"
+    },
+    "score": 26.9,
+    "rank": 6
+   },
+   {
+    "code": "120828",
+    "name": "Quant Small Cap",
+    "metrics": {
+     "cagr_3y": 0.20680843874604027,
+     "cagr_5y": 0.1982585528792793,
+     "roll5_min": -0.09964104354392178,
+     "roll5_avg": 0.21073227000359937,
+     "roll5_pos_pct": 0.9423076923076923,
+     "volatility": 0.19165574072226396,
+     "sortino": 1.1616635252784908,
+     "max_drawdown": -0.5159536556942357,
+     "history_days": 4939
+    },
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "red",
+     "roll5_pos_pct": "red",
+     "sortino": "red",
+     "max_drawdown": "red",
+     "cagr_5y": "green",
+     "volatility": "amber"
+    },
+    "score": 25.6,
+    "rank": 7
+   },
+   {
+    "code": "118472",
+    "name": "Kotak Small Cap",
+    "metrics": {
+     "cagr_3y": 0.0195843267407243,
+     "cagr_5y": 0.05064352602786193,
+     "roll5_min": -0.052735257187213724,
+     "roll5_avg": 0.10906314663834617,
+     "roll5_pos_pct": 0.9519230769230769,
+     "volatility": 0.18346404294400095,
+     "sortino": 0.33287186352877873,
+     "max_drawdown": -0.4775387760916381,
+     "history_days": 4944
+    },
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "red",
+     "roll5_pos_pct": "red",
+     "sortino": "red",
+     "max_drawdown": "amber",
+     "cagr_5y": "red",
+     "volatility": "green"
+    },
+    "score": 13.1,
+    "rank": 8
+   }
+  ],
+  "Index (Core)": [
+   {
+    "code": "147794",
+    "name": "Motilal Nifty 500 Index",
+    "metrics": {
+     "cagr_3y": 0.08305476928117916,
+     "cagr_5y": 0.09918979825772589,
+     "roll5_min": 0.10046566837390247,
+     "roll5_avg": 0.1624599561969112,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.17705766384201807,
+     "sortino": 0.6059936464007909,
+     "max_drawdown": -0.3727838860582223,
+     "history_days": 2395
+    },
+    "rag": {
+     "roll5_avg": "green",
+     "roll5_min": "green",
+     "roll5_pos_pct": "red",
+     "sortino": "red",
+     "max_drawdown": "amber",
+     "cagr_5y": "green",
+     "volatility": "red"
+    },
+    "score": 47.5,
+    "rank": 1
+   },
+   {
+    "code": "120716",
+    "name": "HDFC Index Nifty 50",
+    "metrics": {
+     "cagr_3y": 0.08252883696701785,
+     "cagr_5y": 0.09891721771348805,
+     "roll5_min": 0.014413538684059146,
+     "roll5_avg": 0.13468815028892173,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.15761054846032482,
+     "sortino": 0.6278159493450792,
+     "max_drawdown": -0.38417918945898355,
+     "history_days": 4944
+    },
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "red",
+     "sortino": "amber",
+     "max_drawdown": "red",
+     "cagr_5y": "amber",
+     "volatility": "amber"
+    },
+    "score": 35.0,
+    "rank": 2
+   },
+   {
+    "code": "119063",
+    "name": "UTI Nifty 50 Index",
+    "metrics": {
+     "cagr_3y": 0.08199299729652654,
+     "cagr_5y": 0.098429096694709,
+     "roll5_min": 0.01436611220426065,
+     "roll5_avg": 0.1342253077904842,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.1573909331544596,
+     "sortino": 0.631842515642447,
+     "max_drawdown": -0.38359142987643213,
+     "history_days": 4945
+    },
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "red",
+     "roll5_pos_pct": "red",
+     "sortino": "green",
+     "max_drawdown": "red",
+     "cagr_5y": "red",
+     "volatility": "green"
+    },
+    "score": 33.8,
+    "rank": 3
+   },
+   {
+    "code": "125504",
+    "name": "Nippon Nifty 50 Index",
+    "metrics": {
+     "cagr_3y": 0.07306167905973626,
+     "cagr_5y": 0.06217471668436647,
+     "roll5_min": 0.0001513294293771228,
+     "roll5_avg": 0.036089693303882675,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.017024516605932752,
+     "sortino": -1.7475464786745574,
+     "max_drawdown": -0.0355755335208916,
+     "history_days": 4431
+    },
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "red",
+     "roll5_pos_pct": "red",
+     "sortino": "red",
+     "max_drawdown": "green",
+     "cagr_5y": "red",
+     "volatility": "green"
+    },
+    "score": 16.2,
+    "rank": 4
+   }
+  ],
+  "Arbitrage (Education)": [
+   {
+    "code": "119755",
+    "name": "Edelweiss Arbitrage",
+    "metrics": {
+     "cagr_3y": 0.07933505448279354,
+     "cagr_5y": 0.06932390746825678,
+     "roll5_min": 0.06269203680640811,
+     "roll5_avg": 0.08503273062065995,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.02792274960747869,
+     "sortino": 1.2087114786414006,
+     "max_drawdown": -0.03221391800093598,
+     "history_days": 4944
+    },
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "green",
+     "roll5_pos_pct": "red",
+     "sortino": "green",
+     "max_drawdown": "green",
+     "cagr_5y": "amber",
+     "volatility": "green"
+    },
+    "score": 56.0,
+    "rank": 1
+   },
+   {
+    "code": "135800",
+    "name": "Tata Arbitrage",
+    "metrics": {
+     "cagr_3y": 0.061861767135484635,
+     "cagr_5y": 0.06739569162652592,
+     "roll5_min": 0.05711570628452889,
+     "roll5_avg": 0.25136866202131186,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.20057566865565749,
+     "sortino": 0.9531339124614776,
+     "max_drawdown": -0.33272797791517417,
+     "history_days": 3853
+    },
+    "rag": {
+     "roll5_avg": "green",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "red",
+     "sortino": "amber",
+     "max_drawdown": "amber",
+     "cagr_5y": "red",
+     "volatility": "red"
+    },
+    "score": 49.0,
+    "rank": 2
+   },
+   {
+    "code": "102885",
+    "name": "Invesco India Arbitrage",
+    "metrics": {
+     "cagr_3y": 0.12722492909877503,
+     "cagr_5y": 0.10864267239042502,
+     "roll5_min": 0.019775895614755568,
+     "roll5_avg": 0.12675776078405032,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.15687721384881984,
+     "sortino": 0.6166000695214631,
+     "max_drawdown": -0.5218042298334269,
+     "history_days": 7410
+    },
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "red",
+     "sortino": "red",
+     "max_drawdown": "red",
+     "cagr_5y": "green",
+     "volatility": "amber"
+    },
+    "score": 35.0,
+    "rank": 3
+   },
+   {
+    "code": "103174",
+    "name": "SBI Arbitrage",
+    "metrics": {
+     "cagr_3y": 0.10359747691747834,
+     "cagr_5y": 0.10799451780852287,
+     "roll5_min": 0.008162191465266977,
+     "roll5_avg": 0.13615050130355622,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.19729295451582418,
+     "sortino": 0.6845698828076783,
+     "max_drawdown": -0.5636973180076628,
+     "history_days": 7410
+    },
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "red",
+     "roll5_pos_pct": "red",
+     "sortino": "amber",
+     "max_drawdown": "red",
+     "cagr_5y": "amber",
+     "volatility": "amber"
+    },
+    "score": 34.0,
+    "rank": 4
+   },
+   {
+    "code": "118475",
+    "name": "Kotak Equity Arbitrage",
+    "metrics": {
+     "cagr_3y": -0.08063836765506527,
+     "cagr_5y": -0.04474761731485932,
+     "roll5_min": -0.05389775498235472,
+     "roll5_avg": -0.00029738165248961295,
+     "roll5_pos_pct": 0.8269230769230769,
+     "volatility": 0.08184216431221375,
+     "sortino": -0.8459187590277318,
+     "max_drawdown": -0.3024724778920772,
+     "history_days": 4932
+    },
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "red",
+     "roll5_pos_pct": "red",
+     "sortino": "red",
+     "max_drawdown": "amber",
+     "cagr_5y": "red",
+     "volatility": "green"
+    },
+    "score": 13.0,
+    "rank": 5
+   }
+  ]
+ }
+}
