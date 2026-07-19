@@ -27,6 +27,7 @@ WORKERS    = 8         # parallel NAV fetches (I/O-bound; safe for free API)
 TIMEOUT    = 15        # seconds per request (fail fast, do not hang)
 TRIES      = 2         # attempts per request
 TRIM_DAYS  = 2600      # keep ~7 yrs of NAV for 5-yr metrics (speeds compute)
+STALE_DAYS = 45        # if latest NAV older than this -> merged/dead scheme, exclude
 PER_CAT_CAP= 50        # deep-score up to N per category (no serious fund sits below top 50)
 
 # category -> (must contain ALL of, must contain NONE of)   [lower-case name match]
@@ -195,6 +196,8 @@ def _fetch_one(item):
     try:
         s=fetch_nav(code)
         if len(s)<250: return (cat,None,name,"short")
+        if (dt.date.today()-s[-1][0]).days > STALE_DAYS:
+            return (cat,None,name,"stale NAV (merged/renamed/dead scheme)")
         m=metrics(s); ok,why=data_ok(cat,m)
         rec={"code":code,"name":name,"metrics":m,"status":status_for(name)}
         return (cat,(rec if ok else None),name,("" if ok else why))
