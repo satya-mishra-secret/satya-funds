@@ -1,0 +1,26 @@
+# ---- GitHub Actions workflow ----
+# Put this file at:  .github/workflows/rankings.yml
+name: Update fund rankings
+on:
+  schedule:
+    - cron: '0 2 * * 1'      # every Monday 02:00 UTC (auto-refresh)
+  workflow_dispatch: {}       # adds a manual "Run workflow" button
+permissions:
+  contents: write             # lets the job commit rankings.json back
+jobs:
+  rank:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compute rankings
+        run: python rankings.py        # uses only Python stdlib — no pip install needed
+      - name: Commit rankings.json
+        run: |
+          git config user.name  "rankings-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add rankings.json
+          git commit -m "Update rankings $(date -u +%F)" || echo "no changes"
+          git push
