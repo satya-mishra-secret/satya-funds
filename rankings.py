@@ -18,12 +18,16 @@ Only Python standard library. Runs on GitHub Actions / Colab / local.
 import json, sys, time, datetime as dt
 from urllib.request import urlopen, Request
 from urllib.error import URLError
+from concurrent.futures import ThreadPoolExecutor
 
 MFAPI_LIST = "https://api.mfapi.in/mf"
 MFAPI_ONE  = "https://api.mfapi.in/mf/%s"
 RF         = 0.065     # risk-free proxy for Sortino
-SLEEP      = 0.20      # politeness delay between NAV fetches (free API)
-PER_CAT_CAP= 120       # safety cap on deep-scored funds per category
+WORKERS    = 8         # parallel NAV fetches (I/O-bound; safe for free API)
+TIMEOUT    = 15        # seconds per request (fail fast, do not hang)
+TRIES      = 2         # attempts per request
+TRIM_DAYS  = 2600      # keep ~7 yrs of NAV for 5-yr metrics (speeds compute)
+PER_CAT_CAP= 50        # deep-score up to N per category (no serious fund sits below top 50)
 
 # category -> (must contain ALL of, must contain NONE of)   [lower-case name match]
 CATEGORIES = {
@@ -37,19 +41,41 @@ CATEGORIES = {
 }
 EXCLUDE_PLANWORDS = ["idcw","dividend","payout","reinvest","bonus","regular"]
 
+# ------------------------------------------------------------------
+# LAYER 2 (manual truth): subscription-status override list.
+# "Is this fund open to fresh money?" is NOT in any free machine-readable feed,
+# so it is maintained BY HAND here. Any fund NOT listed defaults to "open".
+# Values: "closed" (no fresh money), "sip_only" (SIP ok, no lump-sum), "lump_ok".
+# When you hear a fund restricted/reopened (it's always fund news), add/edit a line
+# and bump STATUS_CHECKED to today's date -> the dashboard tracks that date and
+# nags you if it goes stale.
+# ------------------------------------------------------------------
+STATUS_CHECKED = "2026-07-19"          # <-- update this whenever you review the list
+STATUS_OVERRIDES = {
+    "nippon india small cap": "sip_only",   # closed to lump-sum since Jul 2023 (verified)
+    # "sbi small cap":        "sip_only",    # <- confirm & uncomment if restricted
+    # "axis small cap":       "sip_only",    # <- confirm & uncomment if restricted
+    # "<fund name substring>":"closed",       # <- add new restrictions here
+}
+def status_for(name):
+    n=(name or "").lower()
+    for key,val in STATUS_OVERRIDES.items():
+        if key in n: return val
+    return "open"
+
 def norm(s):
     # normalise so "Mid-Cap" == "mid cap", collapse spaces
     return " ".join(s.lower().replace("-"," ").replace("&"," & ").split())
 
-def get_json(url, timeout=90, tries=3):
+def get_json(url, timeout=TIMEOUT, tries=TRIES):
     last=None
     for _ in range(tries):
         try:
             req=Request(url, headers={"User-Agent":"rankings.py/2"})
             with urlopen(req, timeout=timeout) as r:
                 return json.loads(r.read().decode())
-        except (URLError, TimeoutError, ValueError) as e:
-            last=e; time.sleep(1.0)
+        except Exception as e:
+            last=e; time.sleep(0.4)
     raise last
 
 # ---------- discovery ----------
@@ -74,7 +100,12 @@ def fetch_nav(code):
         try:
             out.append((dt.datetime.strptime(row["date"],"%d-%m-%Y").date(), float(row["nav"])))
         except Exception: pass
-    out.sort(key=lambda x:x[0]); return out
+    out.sort(key=lambda x:x[0])
+    if out:                                   # keep only recent history -> faster metrics
+        cutoff=out[-1][0]-dt.timedelta(days=TRIM_DAYS)
+        trimmed=[x for x in out if x[0]>=cutoff]
+        if len(trimmed)>=250: out=trimmed
+    return out
 
 def nav_before(series, target):
     lo,hi,res=0,len(series)-1,None
@@ -159,32 +190,48 @@ def score(funds):
     for i,f in enumerate(funds): f["rank"]=i+1
     return funds
 
+def _fetch_one(item):
+    cat,code,name=item
+    try:
+        s=fetch_nav(code)
+        if len(s)<250: return (cat,None,name,"short")
+        m=metrics(s); ok,why=data_ok(cat,m)
+        rec={"code":code,"name":name,"metrics":m,"status":status_for(name)}
+        return (cat,(rec if ok else None),name,("" if ok else why))
+    except Exception as e:
+        return (cat,None,name,str(e)[:60])
+
 def build():
+    t0=time.time()
     buckets, total = discover()
-    out={"generated":dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
-         "universe_entries_scanned":total,
-         "source":"mfapi.in / AMFI open NAV data; whole-universe auto-discovery; metrics by rankings.py v2",
-         "stale_after_days":90,"categories":{},"meta":{}}
+    tasks=[]; discovered={}
     for cat, funds in buckets.items():
         seen=set(); cand=[]
         for code,name in funds:
             if code in seen: continue
-            seen.add(code); cand.append((code,name))
-        scored=[]; flagged=[]
-        for code,name in cand[:PER_CAT_CAP]:
-            try:
-                s=fetch_nav(code); time.sleep(SLEEP)
-                if len(s)<60: continue
-                m=metrics(s); ok,why=data_ok(cat,m)
-                if ok: scored.append({"code":code,"name":name,"metrics":m})
-                else:  flagged.append({"name":name,"why":why})
-            except Exception as e:
-                print("skip",name,e,file=sys.stderr)
-        score(scored)
-        out["categories"][cat]=scored
-        out["meta"][cat]={"discovered":len(cand),"scored":len(scored),"flagged":len(flagged),"flagged_detail":flagged[:8]}
-        print("%-16s discovered=%d scored=%d flagged=%d"%(cat,len(cand),len(scored),len(flagged)),file=sys.stderr)
+            seen.add(code); cand.append((cat,code,name))
+        discovered[cat]=len(cand)
+        tasks += cand[:PER_CAT_CAP]
+    print("discovered %d categories, %d funds to fetch (parallel x%d)"%(len(buckets),len(tasks),WORKERS),file=sys.stderr)
+
+    results={c:[] for c in buckets}; flagged={c:[] for c in buckets}
+    with ThreadPoolExecutor(max_workers=WORKERS) as ex:
+        for cat,rec,name,why in ex.map(_fetch_one, tasks):
+            if rec is not None: results[cat].append(rec)
+            elif why not in ("short",""): flagged[cat].append({"name":name,"why":why})
+
+    out={"generated":dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
+         "universe_entries_scanned":total,
+         "status_checked":STATUS_CHECKED,
+         "source":"mfapi.in / AMFI open NAV data; whole-universe auto-discovery; metrics by rankings.py v2",
+         "stale_after_days":90,"categories":{},"meta":{}}
+    for cat in buckets:
+        sc=score(results[cat])
+        out["categories"][cat]=sc
+        out["meta"][cat]={"discovered":discovered[cat],"scored":len(sc),
+                          "flagged":len(flagged[cat]),"flagged_detail":flagged[cat][:8]}
+        print("%-16s discovered=%d scored=%d flagged=%d"%(cat,discovered[cat],len(sc),len(flagged[cat])),file=sys.stderr)
     with open("rankings.json","w") as f: json.dump(out,f,indent=1,default=str)
-    print("wrote rankings.json; scanned",total,"scheme entries")
+    print("done in %.1fs; scanned %d entries"%(time.time()-t0,total))
 
 if __name__=="__main__": build()
