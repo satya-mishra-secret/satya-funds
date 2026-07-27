@@ -316,6 +316,7 @@ def analyse(cat, funds, bench_series):
         for k,wt in CONV_W.items():
             p=pct_rank(feat(f,k),cols[k],higher=(k not in CONV_LOWER)); comp+=wt*p; w+=wt
         f["conviction"]=round(100*comp/w,1) if w else None
+        f["score"]=f["conviction"]   # alias so the current dashboard reads scored mode
         f["heat"]=round(100*pct_rank(f["metrics"].get("cagr_1y"),heatcol),0)
         dc=f["capture"]["down"]
         f["verdict"]=verdict(f["conviction"] or 0, f["heat"] or 0, dc)
