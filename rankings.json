@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-20 05:26 UTC",
- "universe_entries_scanned": 37670,
+ "generated": "2026-07-27 05:35 UTC",
+ "universe_entries_scanned": 37693,
  "status_checked": "2026-07-19",
  "source": "mfapi.in / AMFI open NAV data; whole-universe auto-discovery; metrics by rankings.py v2",
  "stale_after_days": 90,
@@ -10,15 +10,15 @@
     "code": "148404",
     "name": "BANK OF INDIA Flexi Cap Fund Direct Plan -Growth",
     "metrics": {
-     "cagr_3y": 0.22036175779034783,
-     "cagr_5y": 0.1747913365093796,
+     "cagr_3y": 0.2102341623477182,
+     "cagr_5y": 0.17239913027786935,
      "roll5_min": 0.18156248800188157,
      "roll5_avg": 0.23500207844172674,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.16837483233521144,
-     "sortino": 2.2137978427954725,
+     "volatility": 0.1684702645541988,
+     "sortino": 2.1910416867260842,
      "max_drawdown": -0.23729233820976936,
-     "history_days": 2207
+     "history_days": 2214
     },
     "status": "open",
     "rag": {
@@ -30,20 +30,20 @@
      "cagr_5y": "green",
      "volatility": "amber"
     },
-    "score": 80.2,
+    "score": 80.9,
     "rank": 1
    },
    {
     "code": "122639",
     "name": "Parag Parikh Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.14544380949591718,
-     "cagr_5y": 0.13778305497898757,
-     "roll5_min": 0.14998764263961273,
-     "roll5_avg": 0.23801387494107018,
+     "cagr_3y": 0.13908102331268535,
+     "cagr_5y": 0.13244325208157215,
+     "roll5_min": 0.14657842942461463,
+     "roll5_avg": 0.23582089582711657,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.14537031528037364,
-     "sortino": 1.4467279878486872,
+     "volatility": 0.14549812294868436,
+     "sortino": 1.4143198979075275,
      "max_drawdown": -0.31202149047503647,
      "history_days": 2600
     },
@@ -57,20 +57,20 @@
      "cagr_5y": "green",
      "volatility": "green"
     },
-    "score": 74.7,
+    "score": 75.5,
     "rank": 2
    },
    {
     "code": "120843",
     "name": "quant Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.18395868712402752,
-     "cagr_5y": 0.1621765576706693,
-     "roll5_min": 0.1722131672885996,
-     "roll5_avg": 0.29476877529481293,
+     "cagr_3y": 0.1733251130792841,
+     "cagr_5y": 0.15772834390074286,
+     "roll5_min": 0.17060881861077548,
+     "roll5_avg": 0.2932683187752981,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.20390496772186228,
-     "sortino": 1.6299449177129477,
+     "volatility": 0.20415655626690782,
+     "sortino": 1.6062336944732711,
      "max_drawdown": -0.35792356748699394,
      "history_days": 2600
     },
@@ -91,15 +91,15 @@
     "code": "150346",
     "name": "WhiteOak Capital Flexi Cap Fund Direct Plan-Growth",
     "metrics": {
-     "cagr_3y": 0.16625266062170274,
+     "cagr_3y": 0.15934125340002847,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.13589402918840457,
-     "sortino": 1.3303059050376396,
+     "volatility": 0.1357943582447889,
+     "sortino": 1.27372350484061,
      "max_drawdown": -0.15589123867069477,
-     "history_days": 1444
+     "history_days": 1451
     },
     "status": "open",
     "rag": {
@@ -118,15 +118,15 @@
     "code": "151412",
     "name": "Mirae Asset Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.13651466813987723,
+     "cagr_3y": 0.1259713696077962,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.13853606698545115,
-     "sortino": 1.2486650755180275,
+     "volatility": 0.1389538178322544,
+     "sortino": 1.1748552177537115,
      "max_drawdown": -0.16105666808691943,
-     "history_days": 1236
+     "history_days": 1243
     },
     "status": "open",
     "rag": {
@@ -138,7 +138,7 @@
      "cagr_5y": "amber",
      "volatility": "green"
     },
-    "score": 66.3,
+    "score": 65.7,
     "rank": 5
    },
    {
@@ -150,10 +150,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.15337528892709212,
-     "sortino": 1.2908474063598965,
+     "volatility": 0.15361561551840652,
+     "sortino": 1.2126192199908665,
      "max_drawdown": -0.17525298988040472,
-     "history_days": 1066
+     "history_days": 1073
     },
     "status": "open",
     "rag": {
@@ -172,13 +172,13 @@
     "code": "118955",
     "name": "HDFC Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.17571991288682942,
-     "cagr_5y": 0.18597995406832668,
-     "roll5_min": 0.183906778693258,
-     "roll5_avg": 0.25244144757434167,
+     "cagr_3y": 0.16532809918126712,
+     "cagr_5y": 0.18142440392503034,
+     "roll5_min": 0.17998134145937206,
+     "roll5_avg": 0.2518380541442557,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.18716898989669312,
-     "sortino": 0.9821278532955641,
+     "volatility": 0.18720259930745492,
+     "sortino": 0.9585649090574263,
      "max_drawdown": -0.41839443017840416,
      "history_days": 2600
     },
@@ -192,22 +192,22 @@
      "cagr_5y": "green",
      "volatility": "red"
     },
-    "score": 64.5,
+    "score": 63.8,
     "rank": 7
    },
    {
     "code": "151379",
     "name": "ITI Flexi Cap Fund- Direct Plan- Growth",
     "metrics": {
-     "cagr_3y": 0.20084875167964888,
+     "cagr_3y": 0.18988316277612372,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.16595327563508022,
-     "sortino": 1.8486171131805986,
+     "volatility": 0.16652262121911862,
+     "sortino": 1.7777732937396065,
      "max_drawdown": -0.21442751106711055,
-     "history_days": 1241
+     "history_days": 1248
     },
     "status": "open",
     "rag": {
@@ -219,20 +219,20 @@
      "cagr_5y": "amber",
      "volatility": "amber"
     },
-    "score": 62.8,
+    "score": 62.5,
     "rank": 8
    },
    {
     "code": "140353",
     "name": "Edelweiss Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.1591775913319915,
-     "cagr_5y": 0.1448209386185768,
-     "roll5_min": 0.15336416595266633,
-     "roll5_avg": 0.22074296287086198,
+     "cagr_3y": 0.15074243116270925,
+     "cagr_5y": 0.1416122474308561,
+     "roll5_min": 0.14982479574597463,
+     "roll5_avg": 0.21954566655902202,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.178402954985503,
-     "sortino": 0.9405885685604177,
+     "volatility": 0.1785321156305725,
+     "sortino": 0.9177414475238085,
      "max_drawdown": -0.36102178265881923,
      "history_days": 2600
     },
@@ -253,15 +253,15 @@
     "code": "149763",
     "name": "Invesco India Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.19444941902676383,
+     "cagr_3y": 0.18595575405987308,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.16034316945383098,
-     "sortino": 1.231130059019375,
+     "volatility": 0.16063008920557104,
+     "sortino": 1.189595661686365,
      "max_drawdown": -0.19402253797158264,
-     "history_days": 1612
+     "history_days": 1619
     },
     "status": "open",
     "rag": {
@@ -273,7 +273,7 @@
      "cagr_5y": "amber",
      "volatility": "green"
     },
-    "score": 61.5,
+    "score": 62.1,
     "rank": 10
    },
    {
@@ -285,10 +285,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.16427535144158448,
-     "sortino": 1.1689708518240693,
+     "volatility": 0.16490150097703998,
+     "sortino": 1.0603191444868199,
      "max_drawdown": -0.18230206254158354,
-     "history_days": 975
+     "history_days": 982
     },
     "status": "open",
     "rag": {
@@ -307,15 +307,15 @@
     "code": "150387",
     "name": "Baroda BNP Paribas Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.14099413980152553,
+     "cagr_3y": 0.1369601764277275,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.1457135249888138,
-     "sortino": 0.8862381222313144,
+     "volatility": 0.14571371701661498,
+     "sortino": 0.8525170307571591,
      "max_drawdown": -0.20395797561188556,
-     "history_days": 1425
+     "history_days": 1432
     },
     "status": "open",
     "rag": {
@@ -331,43 +331,16 @@
     "rank": 12
    },
    {
-    "code": "149104",
-    "name": "Mahindra Manulife Flexi Cap Fund",
-    "metrics": {
-     "cagr_3y": 0.11920889543199253,
-     "cagr_5y": null,
-     "roll5_min": null,
-     "roll5_avg": null,
-     "roll5_pos_pct": null,
-     "volatility": 0.13921959083919375,
-     "sortino": 0.6846002952808484,
-     "max_drawdown": -0.172352250344464,
-     "history_days": 1787
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "amber",
-     "roll5_min": "amber",
-     "roll5_pos_pct": "amber",
-     "sortino": "amber",
-     "max_drawdown": "green",
-     "cagr_5y": "amber",
-     "volatility": "green"
-    },
-    "score": 56.5,
-    "rank": 13
-   },
-   {
     "code": "118535",
     "name": "Franklin India Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.1426090305141987,
-     "cagr_5y": 0.14254476256417425,
-     "roll5_min": 0.14614210391509386,
-     "roll5_avg": 0.2276468658851999,
+     "cagr_3y": 0.12955555783609518,
+     "cagr_5y": 0.13650547271240798,
+     "roll5_min": 0.1430951561189684,
+     "roll5_avg": 0.2257731988648462,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.18231929361904947,
-     "sortino": 0.899383142631748,
+     "volatility": 0.18246786311544075,
+     "sortino": 0.8697893242258976,
      "max_drawdown": -0.37313667266485295,
      "history_days": 2600
     },
@@ -381,21 +354,21 @@
      "cagr_5y": "green",
      "volatility": "red"
     },
-    "score": 56.2,
-    "rank": 14
+    "score": 56.9,
+    "rank": 13
    },
    {
-    "code": "149094",
-    "name": "Nippon India Flexi Cap Fund",
+    "code": "149104",
+    "name": "Mahindra Manulife Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.13105919808654298,
+     "cagr_3y": 0.11202813406756285,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.14615135637060508,
-     "sortino": 0.6579226517745312,
-     "max_drawdown": -0.19795549440880522,
+     "volatility": 0.13939312916031857,
+     "sortino": 0.6389345631850022,
+     "max_drawdown": -0.172352250344464,
      "history_days": 1794
     },
     "status": "open",
@@ -403,25 +376,25 @@
      "roll5_avg": "amber",
      "roll5_min": "amber",
      "roll5_pos_pct": "amber",
-     "sortino": "red",
+     "sortino": "amber",
      "max_drawdown": "green",
      "cagr_5y": "amber",
      "volatility": "green"
     },
-    "score": 52.9,
-    "rank": 15
+    "score": 56.5,
+    "rank": 14
    },
    {
     "code": "119292",
     "name": "Union Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.126896983196356,
-     "cagr_5y": 0.12233335462373573,
-     "roll5_min": 0.1282404084011235,
-     "roll5_avg": 0.198536231998134,
+     "cagr_3y": 0.11555642648569209,
+     "cagr_5y": 0.11832002119676188,
+     "roll5_min": 0.12400617658857738,
+     "roll5_avg": 0.1976022448871492,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.17478931667383718,
-     "sortino": 0.9007342181078352,
+     "volatility": 0.1749872169049011,
+     "sortino": 0.8723497171057916,
      "max_drawdown": -0.3535936113575865,
      "history_days": 2600
     },
@@ -435,20 +408,74 @@
      "cagr_5y": "amber",
      "volatility": "amber"
     },
-    "score": 51.7,
+    "score": 52.4,
+    "rank": 15
+   },
+   {
+    "code": "149094",
+    "name": "Nippon India Flexi Cap Fund",
+    "metrics": {
+     "cagr_3y": 0.1180002922915886,
+     "cagr_5y": null,
+     "roll5_min": null,
+     "roll5_avg": null,
+     "roll5_pos_pct": null,
+     "volatility": 0.14654345583632408,
+     "sortino": 0.5966023796877876,
+     "max_drawdown": -0.19795549440880522,
+     "history_days": 1801
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "amber",
+     "sortino": "red",
+     "max_drawdown": "green",
+     "cagr_5y": "amber",
+     "volatility": "green"
+    },
+    "score": 50.5,
     "rank": 16
+   },
+   {
+    "code": "153543",
+    "name": "Unifi Flexi Cap Fund",
+    "metrics": {
+     "cagr_3y": null,
+     "cagr_5y": null,
+     "roll5_min": null,
+     "roll5_avg": null,
+     "roll5_pos_pct": null,
+     "volatility": 0.16295190516538519,
+     "sortino": -0.35662722803463887,
+     "max_drawdown": -0.13181852811214378,
+     "history_days": 410
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "amber",
+     "sortino": "red",
+     "max_drawdown": "green",
+     "cagr_5y": "amber",
+     "volatility": "green"
+    },
+    "score": 49.3,
+    "rank": 17
    },
    {
     "code": "120046",
     "name": "HSBC Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.16464572715223724,
-     "cagr_5y": 0.1431758965720118,
-     "roll5_min": 0.15085082527472093,
-     "roll5_avg": 0.20858268229956767,
+     "cagr_3y": 0.15722255445538202,
+     "cagr_5y": 0.1386630084704683,
+     "roll5_min": 0.13745318845978893,
+     "roll5_avg": 0.2085797829303357,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.19113970815729023,
-     "sortino": 0.839797222605258,
+     "volatility": 0.19136169621777746,
+     "sortino": 0.8198932597717327,
      "max_drawdown": -0.38466606650595625,
      "history_days": 2600
     },
@@ -462,34 +489,7 @@
      "cagr_5y": "green",
      "volatility": "red"
     },
-    "score": 50.6,
-    "rank": 17
-   },
-   {
-    "code": "153543",
-    "name": "Unifi Flexi Cap Fund",
-    "metrics": {
-     "cagr_3y": null,
-     "cagr_5y": null,
-     "roll5_min": null,
-     "roll5_avg": null,
-     "roll5_pos_pct": null,
-     "volatility": 0.1633478081110839,
-     "sortino": -0.18722874816169852,
-     "max_drawdown": -0.13181852811214378,
-     "history_days": 403
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "amber",
-     "roll5_min": "amber",
-     "roll5_pos_pct": "amber",
-     "sortino": "red",
-     "max_drawdown": "green",
-     "cagr_5y": "amber",
-     "volatility": "green"
-    },
-    "score": 49.9,
+    "score": 49.1,
     "rank": 18
    },
    {
@@ -501,10 +501,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.15933898698216828,
-     "sortino": 0.33886459532795765,
+     "volatility": 0.15958348794334726,
+     "sortino": 0.2907701371548117,
      "max_drawdown": -0.1887550200803213,
-     "history_days": 809
+     "history_days": 816
     },
     "status": "open",
     "rag": {
@@ -528,10 +528,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.17237637017058455,
-     "sortino": 0.5192380180593418,
+     "volatility": 0.17235924817394008,
+     "sortino": 0.5166960816730775,
      "max_drawdown": -0.26735688185140083,
-     "history_days": 1045
+     "history_days": 1052
     },
     "status": "open",
     "rag": {
@@ -547,43 +547,16 @@
     "rank": 20
    },
    {
-    "code": "119076",
-    "name": "DSP Flexi Cap Fund",
-    "metrics": {
-     "cagr_3y": 0.13674070075803235,
-     "cagr_5y": 0.1170253728284556,
-     "roll5_min": 0.12274088665879956,
-     "roll5_avg": 0.19509756830465055,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.18325045820941638,
-     "sortino": 0.858058601299368,
-     "max_drawdown": -0.3571428571428571,
-     "history_days": 2600
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "amber",
-     "roll5_min": "amber",
-     "roll5_pos_pct": "amber",
-     "sortino": "amber",
-     "max_drawdown": "amber",
-     "cagr_5y": "amber",
-     "volatility": "red"
-    },
-    "score": 44.5,
-    "rank": 21
-   },
-   {
     "code": "120564",
     "name": "Aditya Birla Sun Life Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.16117383336678937,
-     "cagr_5y": 0.13228081375676393,
-     "roll5_min": 0.13507781187701795,
-     "roll5_avg": 0.1936559738097118,
+     "cagr_3y": 0.1567767743458146,
+     "cagr_5y": 0.13043576267206491,
+     "roll5_min": 0.13151742132764177,
+     "roll5_avg": 0.19258669565359865,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.18492055703582547,
-     "sortino": 0.8421026663984131,
+     "volatility": 0.18489068961677602,
+     "sortino": 0.8311055469082934,
      "max_drawdown": -0.38591459528362015,
      "history_days": 2600
     },
@@ -597,21 +570,21 @@
      "cagr_5y": "amber",
      "volatility": "red"
     },
-    "score": 42.3,
-    "rank": 22
+    "score": 44.2,
+    "rank": 21
    },
    {
-    "code": "143793",
-    "name": "Navi Flexi Cap Fund",
+    "code": "119076",
+    "name": "DSP Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.1255339074494115,
-     "cagr_5y": 0.13242635849097373,
-     "roll5_min": 0.13643583918845992,
-     "roll5_avg": 0.1812393073001714,
+     "cagr_3y": 0.12327696296472745,
+     "cagr_5y": 0.11151343266398195,
+     "roll5_min": 0.11807262822045428,
+     "roll5_avg": 0.1937805904185232,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.18013228353395888,
-     "sortino": 0.7645907587429228,
-     "max_drawdown": -0.37893615772304545,
+     "volatility": 0.1834061968764646,
+     "sortino": 0.8292979725186597,
+     "max_drawdown": -0.3571428571428571,
      "history_days": 2600
     },
     "status": "open",
@@ -620,51 +593,24 @@
      "roll5_min": "amber",
      "roll5_pos_pct": "amber",
      "sortino": "amber",
-     "max_drawdown": "red",
-     "cagr_5y": "amber",
-     "volatility": "amber"
-    },
-    "score": 42.0,
-    "rank": 23
-   },
-   {
-    "code": "144546",
-    "name": "Tata Flexi Cap Fund-Direct Plan-Growth",
-    "metrics": {
-     "cagr_3y": 0.12842920802375835,
-     "cagr_5y": 0.11617692754171105,
-     "roll5_min": 0.11598475425182264,
-     "roll5_avg": 0.17570948002569936,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.15637244732655795,
-     "sortino": 0.7957145881882934,
-     "max_drawdown": -0.33490613987530493,
-     "history_days": 2600
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "red",
-     "roll5_min": "red",
-     "roll5_pos_pct": "amber",
-     "sortino": "amber",
      "max_drawdown": "amber",
      "cagr_5y": "red",
-     "volatility": "green"
+     "volatility": "red"
     },
-    "score": 41.9,
-    "rank": 24
+    "score": 43.5,
+    "rank": 22
    },
    {
     "code": "133839",
     "name": "PGIM India Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.10612174700777577,
-     "cagr_5y": 0.10076683412006959,
-     "roll5_min": 0.11014896522178019,
-     "roll5_avg": 0.20252716751648528,
+     "cagr_3y": 0.10199593799391904,
+     "cagr_5y": 0.09566238562620777,
+     "roll5_min": 0.10539422218936845,
+     "roll5_avg": 0.2011123047181543,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.18350375919255296,
-     "sortino": 0.9929478014917241,
+     "volatility": 0.1835838886580776,
+     "sortino": 0.9703747219131286,
      "max_drawdown": -0.36445012787723796,
      "history_days": 2600
     },
@@ -678,22 +624,76 @@
      "cagr_5y": "red",
      "volatility": "red"
     },
-    "score": 41.8,
+    "score": 42.7,
+    "rank": 23
+   },
+   {
+    "code": "144546",
+    "name": "Tata Flexi Cap Fund-Direct Plan-Growth",
+    "metrics": {
+     "cagr_3y": 0.11854149135115843,
+     "cagr_5y": 0.11171745576156833,
+     "roll5_min": 0.11541559650841093,
+     "roll5_avg": 0.17503467684541138,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.15629777044418208,
+     "sortino": 0.7685434975724642,
+     "max_drawdown": -0.33490613987530493,
+     "history_days": 2600
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "amber",
+     "sortino": "amber",
+     "max_drawdown": "amber",
+     "cagr_5y": "red",
+     "volatility": "green"
+    },
+    "score": 42.7,
+    "rank": 24
+   },
+   {
+    "code": "143793",
+    "name": "Navi Flexi Cap Fund",
+    "metrics": {
+     "cagr_3y": 0.12025406816443907,
+     "cagr_5y": 0.1297939479385537,
+     "roll5_min": 0.12372853084000579,
+     "roll5_avg": 0.18019610324913976,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.18022295967138263,
+     "sortino": 0.7524678595885046,
+     "max_drawdown": -0.37893615772304545,
+     "history_days": 2600
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "amber",
+     "sortino": "amber",
+     "max_drawdown": "red",
+     "cagr_5y": "amber",
+     "volatility": "amber"
+    },
+    "score": 39.5,
     "rank": 25
    },
    {
     "code": "149450",
     "name": "Samco Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": -0.012300207494290616,
+     "cagr_3y": -0.013271710819776739,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.18684206663948774,
-     "sortino": -0.2746605885543399,
+     "volatility": 0.18697116474522196,
+     "sortino": -0.2803507659185964,
      "max_drawdown": -0.3015873015873016,
-     "history_days": 1619
+     "history_days": 1626
     },
     "status": "open",
     "rag": {
@@ -705,20 +705,20 @@
      "cagr_5y": "amber",
      "volatility": "red"
     },
-    "score": 38.5,
+    "score": 38.9,
     "rank": 26
    },
    {
     "code": "141925",
     "name": "Axis Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.13608910414514042,
-     "cagr_5y": 0.10867531007368347,
-     "roll5_min": 0.11261683777002185,
-     "roll5_avg": 0.16355609621561149,
+     "cagr_3y": 0.1298652702763945,
+     "cagr_5y": 0.10399339623475923,
+     "roll5_min": 0.09955742384305855,
+     "roll5_avg": 0.16279337006305977,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.16554174044138306,
-     "sortino": 0.7899505071652642,
+     "volatility": 0.16569719327909327,
+     "sortino": 0.7692501316743939,
      "max_drawdown": -0.2987012987012986,
      "history_days": 2600
     },
@@ -732,47 +732,20 @@
      "cagr_5y": "red",
      "volatility": "amber"
     },
-    "score": 37.8,
+    "score": 37.1,
     "rank": 27
-   },
-   {
-    "code": "129046",
-    "name": "Motilal Oswal Flexi cap Fund Direct Plan-Growth Option",
-    "metrics": {
-     "cagr_3y": 0.1918835073504941,
-     "cagr_5y": 0.13095347758919784,
-     "roll5_min": 0.125421438185503,
-     "roll5_avg": 0.18211504573045886,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.18703075437525915,
-     "sortino": 0.6452465669378475,
-     "max_drawdown": -0.3709590773708332,
-     "history_days": 2600
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "amber",
-     "roll5_min": "amber",
-     "roll5_pos_pct": "amber",
-     "sortino": "red",
-     "max_drawdown": "red",
-     "cagr_5y": "amber",
-     "volatility": "red"
-    },
-    "score": 36.1,
-    "rank": 28
    },
    {
     "code": "118424",
     "name": "BANDHAN Flexi Cap Fund-Direct Plan-Growth",
     "metrics": {
-     "cagr_3y": 0.13125727283147826,
-     "cagr_5y": 0.11809575217315782,
-     "roll5_min": 0.12102294612561604,
-     "roll5_avg": 0.17512491026889146,
+     "cagr_3y": 0.12143314873755262,
+     "cagr_5y": 0.11339815926478258,
+     "roll5_min": 0.11702455272856604,
+     "roll5_avg": 0.17427932542500033,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.16797218379555212,
-     "sortino": 0.6554803954116398,
+     "volatility": 0.1679983892419556,
+     "sortino": 0.6334862011373056,
      "max_drawdown": -0.3689338579726438,
      "history_days": 2600
     },
@@ -786,20 +759,47 @@
      "cagr_5y": "amber",
      "volatility": "amber"
     },
-    "score": 34.9,
+    "score": 36.2,
+    "rank": 28
+   },
+   {
+    "code": "129046",
+    "name": "Motilal Oswal Flexi cap Fund Direct Plan-Growth Option",
+    "metrics": {
+     "cagr_3y": 0.1853797169949063,
+     "cagr_5y": 0.1271804847867508,
+     "roll5_min": 0.11301528999015131,
+     "roll5_avg": 0.1831351348331453,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.18683151663139483,
+     "sortino": 0.6188031188331368,
+     "max_drawdown": -0.3709590773708332,
+     "history_days": 2600
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "red",
+     "roll5_pos_pct": "amber",
+     "sortino": "red",
+     "max_drawdown": "red",
+     "cagr_5y": "amber",
+     "volatility": "red"
+    },
+    "score": 34.1,
     "rank": 29
    },
    {
     "code": "120264",
     "name": "LIC MF Flexi Cap Fund-Direct Plan-Growth",
     "metrics": {
-     "cagr_3y": 0.12617413218023188,
-     "cagr_5y": 0.11634624298959828,
-     "roll5_min": 0.112663198783858,
-     "roll5_avg": 0.15581565410261428,
+     "cagr_3y": 0.11711890811818493,
+     "cagr_5y": 0.11285810282473441,
+     "roll5_min": 0.0999766329679952,
+     "roll5_avg": 0.15569346377306145,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.16610296941092553,
-     "sortino": 0.6365402011808073,
+     "volatility": 0.1662056783631765,
+     "sortino": 0.6171072030876434,
      "max_drawdown": -0.34203483757273,
      "history_days": 2600
     },
@@ -810,23 +810,23 @@
      "roll5_pos_pct": "amber",
      "sortino": "red",
      "max_drawdown": "amber",
-     "cagr_5y": "red",
+     "cagr_5y": "amber",
      "volatility": "amber"
     },
-    "score": 29.3,
+    "score": 30.0,
     "rank": 30
    },
    {
     "code": "144905",
     "name": "Shriram Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.09263972966540557,
-     "cagr_5y": 0.09821639109996605,
-     "roll5_min": 0.10209232756728714,
-     "roll5_avg": 0.15854244095722658,
+     "cagr_3y": 0.08822297326049688,
+     "cagr_5y": 0.09656197713350423,
+     "roll5_min": 0.09326037155744804,
+     "roll5_avg": 0.15754631247554787,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.17228136926817184,
-     "sortino": 0.49372423937820203,
+     "volatility": 0.17232381141453948,
+     "sortino": 0.4776349627725479,
      "max_drawdown": -0.32102583077844726,
      "history_days": 2600
     },
@@ -840,20 +840,20 @@
      "cagr_5y": "red",
      "volatility": "amber"
     },
-    "score": 24.8,
+    "score": 25.4,
     "rank": 31
    },
    {
     "code": "120662",
     "name": "UTI",
     "metrics": {
-     "cagr_3y": 0.08812196038396425,
-     "cagr_5y": 0.06784668995130305,
-     "roll5_min": 0.06850925270408692,
-     "roll5_avg": 0.15204540002832953,
+     "cagr_3y": 0.08436194014597853,
+     "cagr_5y": 0.06457993056237599,
+     "roll5_min": 0.05837103587475245,
+     "roll5_avg": 0.1508954793703786,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.18049519460671423,
-     "sortino": 0.6415202873292574,
+     "volatility": 0.1803135984856598,
+     "sortino": 0.6255704655182648,
      "max_drawdown": -0.33859014871280313,
      "history_days": 2600
     },
@@ -867,21 +867,21 @@
      "cagr_5y": "red",
      "volatility": "amber"
     },
-    "score": 20.1,
+    "score": 21.3,
     "rank": 32
    },
    {
     "code": "118883",
     "name": "Taurus Flexi Cap Fund",
     "metrics": {
-     "cagr_3y": 0.12100219088065822,
-     "cagr_5y": 0.10515019538898107,
-     "roll5_min": 0.10490873230152298,
-     "roll5_avg": 0.15632449869917847,
+     "cagr_3y": 0.11836739539919106,
+     "cagr_5y": 0.10545390153112066,
+     "roll5_min": 0.09606311222901631,
+     "roll5_avg": 0.15570654228790382,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.18437321956863467,
-     "sortino": 0.4352930065555284,
-     "max_drawdown": -0.38345046854083,
+     "volatility": 0.18433740594292236,
+     "sortino": 0.4329194351306014,
+     "max_drawdown": -0.3788772757923129,
      "history_days": 2600
     },
     "status": "open",
@@ -894,7 +894,7 @@
      "cagr_5y": "red",
      "volatility": "red"
     },
-    "score": 17.0,
+    "score": 18.1,
     "rank": 33
    }
   ],
@@ -903,13 +903,13 @@
     "code": "120490",
     "name": "JM Large Cap Fund (Direct)",
     "metrics": {
-     "cagr_3y": 0.12334080925713553,
-     "cagr_5y": 0.12388700264214658,
-     "roll5_min": 0.1263638371516671,
-     "roll5_avg": 0.17884035872953438,
+     "cagr_3y": 0.11705916739793554,
+     "cagr_5y": 0.12115663605923777,
+     "roll5_min": 0.1204617367660954,
+     "roll5_avg": 0.17769003444041978,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.1343386797523392,
-     "sortino": 0.9215227492441681,
+     "volatility": 0.13439267110505818,
+     "sortino": 0.8907666190161762,
      "max_drawdown": -0.19798090215702602,
      "history_days": 2600
     },
@@ -923,20 +923,20 @@
      "cagr_5y": "green",
      "volatility": "green"
     },
-    "score": 74.9,
+    "score": 74.4,
     "rank": 1
    },
    {
     "code": "120586",
     "name": "ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund)",
     "metrics": {
-     "cagr_3y": 0.13042465127473024,
-     "cagr_5y": 0.1376301174088259,
-     "roll5_min": 0.1402227423482234,
-     "roll5_avg": 0.2040303846812315,
+     "cagr_3y": 0.12330049430156786,
+     "cagr_5y": 0.13416784456534048,
+     "roll5_min": 0.13737920427370853,
+     "roll5_avg": 0.20287280989354645,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.1671420081037124,
-     "sortino": 0.8289340328626789,
+     "volatility": 0.1672411584733778,
+     "sortino": 0.8034905554672519,
      "max_drawdown": -0.373022481265612,
      "history_days": 2600
     },
@@ -950,22 +950,22 @@
      "cagr_5y": "green",
      "volatility": "amber"
     },
-    "score": 72.6,
+    "score": 73.3,
     "rank": 2
    },
    {
     "code": "150797",
     "name": "WhiteOak Capital Large Cap Fund Direct Plan Growth",
     "metrics": {
-     "cagr_3y": 0.14608593726927643,
+     "cagr_3y": 0.14040967087133938,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.13021996405128797,
-     "sortino": 1.118390659570317,
+     "volatility": 0.13010627817466355,
+     "sortino": 1.0518181005221054,
      "max_drawdown": -0.15248745155346588,
-     "history_days": 1323
+     "history_days": 1330
     },
     "status": "open",
     "rag": {
@@ -984,13 +984,13 @@
     "code": "118479",
     "name": "BANDHAN Large Cap Fund-Direct Plan-Growth",
     "metrics": {
-     "cagr_3y": 0.13463851266373483,
-     "cagr_5y": 0.13024469891198365,
-     "roll5_min": 0.12952646030510184,
-     "roll5_avg": 0.18410951785468652,
+     "cagr_3y": 0.12896177623691218,
+     "cagr_5y": 0.12364830155540063,
+     "roll5_min": 0.12395313330750324,
+     "roll5_avg": 0.1836864619842233,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.16767421345998446,
-     "sortino": 0.8003307787437808,
+     "volatility": 0.1676500698283561,
+     "sortino": 0.7719474841827086,
      "max_drawdown": -0.3514225500526871,
      "history_days": 2600
     },
@@ -1004,48 +1004,48 @@
      "cagr_5y": "green",
      "volatility": "amber"
     },
-    "score": 69.4,
+    "score": 68.5,
     "rank": 4
    },
    {
-    "code": "152354",
-    "name": "Motilal Oswal Large Cap Direct Plan Growth",
+    "code": "118269",
+    "name": "CANARA ROBECO LARGE CAP FUND",
     "metrics": {
-     "cagr_3y": null,
-     "cagr_5y": null,
-     "roll5_min": null,
-     "roll5_avg": null,
-     "roll5_pos_pct": null,
-     "volatility": 0.15186077142941218,
-     "sortino": 0.9465520782645516,
-     "max_drawdown": -0.15817195867366252,
-     "history_days": 886
+     "cagr_3y": 0.10712546444356308,
+     "cagr_5y": 0.1089059215046988,
+     "roll5_min": 0.11168152797043684,
+     "roll5_avg": 0.1839258754394512,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.15860353395630028,
+     "sortino": 0.86448005739234,
+     "max_drawdown": -0.3256041802743306,
+     "history_days": 2600
     },
     "status": "open",
     "rag": {
-     "roll5_avg": "amber",
+     "roll5_avg": "green",
      "roll5_min": "amber",
      "roll5_pos_pct": "amber",
      "sortino": "green",
-     "max_drawdown": "green",
+     "max_drawdown": "amber",
      "cagr_5y": "amber",
      "volatility": "green"
     },
-    "score": 66.9,
+    "score": 66.4,
     "rank": 5
    },
    {
     "code": "118632",
     "name": "Nippon India Large Cap Fund",
     "metrics": {
-     "cagr_3y": 0.1350193663451944,
-     "cagr_5y": 0.15956280020154168,
-     "roll5_min": 0.1627839729061371,
-     "roll5_avg": 0.22339555437757314,
+     "cagr_3y": 0.12291899815663321,
+     "cagr_5y": 0.15529390734643567,
+     "roll5_min": 0.15988499479808005,
+     "roll5_avg": 0.2227915968299078,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.19096550773053342,
-     "sortino": 0.7774885764661462,
-     "max_drawdown": -0.3918009376725091,
+     "volatility": 0.19119135717391456,
+     "sortino": 0.7471886006100831,
+     "max_drawdown": -0.39132295497813485,
      "history_days": 2600
     },
     "status": "open",
@@ -1062,43 +1062,16 @@
     "rank": 6
    },
    {
-    "code": "118269",
-    "name": "CANARA ROBECO LARGE CAP FUND",
-    "metrics": {
-     "cagr_3y": 0.11410174984068533,
-     "cagr_5y": 0.11319090376221808,
-     "roll5_min": 0.11356284865080601,
-     "roll5_avg": 0.18522182328773723,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.15854640247092736,
-     "sortino": 0.8945672203979785,
-     "max_drawdown": -0.3256041802743306,
-     "history_days": 2600
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "green",
-     "roll5_min": "amber",
-     "roll5_pos_pct": "amber",
-     "sortino": "green",
-     "max_drawdown": "amber",
-     "cagr_5y": "amber",
-     "volatility": "green"
-    },
-    "score": 65.1,
-    "rank": 7
-   },
-   {
     "code": "118617",
     "name": "Edelweiss Large Cap Fund",
     "metrics": {
-     "cagr_3y": 0.1139878086113626,
-     "cagr_5y": 0.12235115270584629,
-     "roll5_min": 0.12458545334548576,
-     "roll5_avg": 0.18761879441374063,
+     "cagr_3y": 0.107058600755362,
+     "cagr_5y": 0.11806987586422579,
+     "roll5_min": 0.12246080701513917,
+     "roll5_avg": 0.1866674043528705,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.16971448628403998,
-     "sortino": 0.7670750207662181,
+     "volatility": 0.16974397922515025,
+     "sortino": 0.7445458133180827,
      "max_drawdown": -0.3514634146341463,
      "history_days": 2600
     },
@@ -1112,47 +1085,47 @@
      "cagr_5y": "green",
      "volatility": "amber"
     },
-    "score": 65.0,
-    "rank": 8
+    "score": 65.5,
+    "rank": 7
    },
    {
-    "code": "150187",
-    "name": "BARODA BNP PARIBAS LARGE CAP Fund",
+    "code": "152354",
+    "name": "Motilal Oswal Large Cap Direct Plan Growth",
     "metrics": {
-     "cagr_3y": 0.12813198296962458,
+     "cagr_3y": null,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.13925133722056746,
-     "sortino": 0.7705787682012263,
-     "max_drawdown": -0.18163983364742498,
-     "history_days": 1586
+     "volatility": 0.1521170576144615,
+     "sortino": 0.8427514034039778,
+     "max_drawdown": -0.15817195867366252,
+     "history_days": 893
     },
     "status": "open",
     "rag": {
      "roll5_avg": "amber",
      "roll5_min": "amber",
      "roll5_pos_pct": "amber",
-     "sortino": "amber",
+     "sortino": "green",
      "max_drawdown": "green",
      "cagr_5y": "amber",
      "volatility": "green"
     },
-    "score": 60.8,
-    "rank": 9
+    "score": 65.5,
+    "rank": 8
    },
    {
     "code": "120152",
     "name": "Kotak Large Cap  Fund",
     "metrics": {
-     "cagr_3y": 0.11923224270584276,
-     "cagr_5y": 0.11746827285661166,
-     "roll5_min": 0.11830404206528167,
-     "roll5_avg": 0.18751992785768382,
+     "cagr_3y": 0.11282003899941295,
+     "cagr_5y": 0.11277433074644816,
+     "roll5_min": 0.11689634851271791,
+     "roll5_avg": 0.18669151863426603,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.1692231867785886,
-     "sortino": 0.7972727298026406,
+     "volatility": 0.16927589740948884,
+     "sortino": 0.7700236430044216,
      "max_drawdown": -0.36940773002201066,
      "history_days": 2600
     },
@@ -1166,22 +1139,49 @@
      "cagr_5y": "amber",
      "volatility": "amber"
     },
-    "score": 60.5,
+    "score": 61.9,
+    "rank": 9
+   },
+   {
+    "code": "150187",
+    "name": "BARODA BNP PARIBAS LARGE CAP Fund",
+    "metrics": {
+     "cagr_3y": 0.12229590026656112,
+     "cagr_5y": null,
+     "roll5_min": null,
+     "roll5_avg": null,
+     "roll5_pos_pct": null,
+     "volatility": 0.13931212935444487,
+     "sortino": 0.732057391489739,
+     "max_drawdown": -0.18163983364742498,
+     "history_days": 1593
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "amber",
+     "sortino": "amber",
+     "max_drawdown": "green",
+     "cagr_5y": "amber",
+     "volatility": "green"
+    },
+    "score": 60.1,
     "rank": 10
    },
    {
     "code": "150440",
     "name": "quant Large Cap Fund",
     "metrics": {
-     "cagr_3y": 0.16034669311138505,
+     "cagr_3y": 0.14645847828849323,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.16801158189967105,
-     "sortino": 0.8735856529198556,
+     "volatility": 0.16760790634300435,
+     "sortino": 0.8031951966421563,
      "max_drawdown": -0.21107162432150495,
-     "history_days": 1435
+     "history_days": 1442
     },
     "status": "open",
     "rag": {
@@ -1193,22 +1193,22 @@
      "cagr_5y": "amber",
      "volatility": "amber"
     },
-    "score": 59.2,
+    "score": 58.8,
     "rank": 11
    },
    {
     "code": "148507",
     "name": "Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip Fund)Direct Plan",
     "metrics": {
-     "cagr_3y": 0.08883562028127412,
-     "cagr_5y": 0.10287602446556554,
+     "cagr_3y": 0.08284088628785602,
+     "cagr_5y": 0.0998224414759572,
      "roll5_min": 0.10150593217366888,
      "roll5_avg": 0.13333741702825752,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.13221353907573724,
-     "sortino": 1.2428507488523513,
+     "volatility": 0.13238659438521092,
+     "sortino": 1.2043273241047519,
      "max_drawdown": -0.16170228820433497,
-     "history_days": 2104
+     "history_days": 2111
     },
     "status": "open",
     "rag": {
@@ -1220,20 +1220,20 @@
      "cagr_5y": "red",
      "volatility": "green"
     },
-    "score": 53.8,
+    "score": 54.9,
     "rank": 12
    },
    {
     "code": "119018",
     "name": "HDFC Large Cap Fund",
     "metrics": {
-     "cagr_3y": 0.11345052205011674,
-     "cagr_5y": 0.1315562879775205,
-     "roll5_min": 0.12880096222128556,
-     "roll5_avg": 0.1924361248496093,
+     "cagr_3y": 0.10446114572707099,
+     "cagr_5y": 0.12790575047019836,
+     "roll5_min": 0.12464020614437321,
+     "roll5_avg": 0.19148004503274402,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.17993303304374664,
-     "sortino": 0.6120631163455619,
+     "volatility": 0.17989751372955365,
+     "sortino": 0.5882511352229044,
      "max_drawdown": -0.40811675182884233,
      "history_days": 2600
     },
@@ -1247,35 +1247,8 @@
      "cagr_5y": "green",
      "volatility": "red"
     },
-    "score": 52.4,
+    "score": 53.0,
     "rank": 13
-   },
-   {
-    "code": "146549",
-    "name": "Mahindra Manulife Large Cap Fund",
-    "metrics": {
-     "cagr_3y": 0.1072169042415434,
-     "cagr_5y": 0.1096077913202862,
-     "roll5_min": 0.10932744722556054,
-     "roll5_avg": 0.18360870708480653,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.1665543118059303,
-     "sortino": 0.7586333325662704,
-     "max_drawdown": -0.3526800587064767,
-     "history_days": 2600
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "green",
-     "roll5_min": "amber",
-     "roll5_pos_pct": "amber",
-     "sortino": "amber",
-     "max_drawdown": "amber",
-     "cagr_5y": "amber",
-     "volatility": "amber"
-    },
-    "score": 52.3,
-    "rank": 14
    },
    {
     "code": "153239",
@@ -1286,10 +1259,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.10280387684120869,
-     "sortino": -1.35473014280468,
+     "volatility": 0.10278756248803153,
+     "sortino": -1.3687807480532075,
      "max_drawdown": -0.1259765625000001,
-     "history_days": 476
+     "history_days": 483
     },
     "status": "open",
     "rag": {
@@ -1302,47 +1275,20 @@
      "volatility": "green"
     },
     "score": 51.7,
-    "rank": 15
+    "rank": 14
    },
    {
-    "code": "119160",
-    "name": "Tata Large Cap Fund -Direct Plan Growth Option",
+    "code": "146549",
+    "name": "Mahindra Manulife Large Cap Fund",
     "metrics": {
-     "cagr_3y": 0.12245021390496369,
-     "cagr_5y": 0.12147541293817765,
-     "roll5_min": 0.12239198184218059,
-     "roll5_avg": 0.18319296612374325,
+     "cagr_3y": 0.09970421864812429,
+     "cagr_5y": 0.10551421359674062,
+     "roll5_min": 0.10719176352086057,
+     "roll5_avg": 0.18231166975803956,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.17766249386856034,
-     "sortino": 0.6622692959262639,
-     "max_drawdown": -0.37570682000853994,
-     "history_days": 2600
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "amber",
-     "roll5_min": "green",
-     "roll5_pos_pct": "amber",
-     "sortino": "amber",
-     "max_drawdown": "red",
-     "cagr_5y": "green",
-     "volatility": "red"
-    },
-    "score": 49.4,
-    "rank": 16
-   },
-   {
-    "code": "119598",
-    "name": "SBI Large Cap FUND-DIRECT PLAN -GROWTH",
-    "metrics": {
-     "cagr_3y": 0.1054687510732839,
-     "cagr_5y": 0.11633055943277038,
-     "roll5_min": 0.12018852310411288,
-     "roll5_avg": 0.17818928066646086,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.17462366105235874,
-     "sortino": 0.7182025561853161,
-     "max_drawdown": -0.3707785069456012,
+     "volatility": 0.16655347976022503,
+     "sortino": 0.7303740282596155,
+     "max_drawdown": -0.3526800587064767,
      "history_days": 2600
     },
     "status": "open",
@@ -1351,11 +1297,65 @@
      "roll5_min": "amber",
      "roll5_pos_pct": "amber",
      "sortino": "amber",
-     "max_drawdown": "red",
+     "max_drawdown": "amber",
      "cagr_5y": "amber",
+     "volatility": "amber"
+    },
+    "score": 50.7,
+    "rank": 15
+   },
+   {
+    "code": "148980",
+    "name": "BANK OF INDIA Large Cap Fund Direct Plan Growth",
+    "metrics": {
+     "cagr_3y": 0.13540981959060994,
+     "cagr_5y": 0.11507959471390139,
+     "roll5_min": 0.12220772429787807,
+     "roll5_avg": 0.12220772429787807,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.15272037561211266,
+     "sortino": 0.6129528881066708,
+     "max_drawdown": -0.2258883248730964,
+     "history_days": 1849
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "green",
+     "roll5_pos_pct": "amber",
+     "sortino": "amber",
+     "max_drawdown": "green",
+     "cagr_5y": "green",
+     "volatility": "green"
+    },
+    "score": 50.0,
+    "rank": 16
+   },
+   {
+    "code": "119160",
+    "name": "Tata Large Cap Fund -Direct Plan Growth Option",
+    "metrics": {
+     "cagr_3y": 0.11380456119115823,
+     "cagr_5y": 0.11730628094547901,
+     "roll5_min": 0.11773060332354568,
+     "roll5_avg": 0.18236363387177928,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.17757876891475427,
+     "sortino": 0.634607906238162,
+     "max_drawdown": -0.37570682000853994,
+     "history_days": 2600
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "green",
+     "roll5_min": "green",
+     "roll5_pos_pct": "amber",
+     "sortino": "amber",
+     "max_drawdown": "red",
+     "cagr_5y": "green",
      "volatility": "red"
     },
-    "score": 49.2,
+    "score": 49.6,
     "rank": 17
    },
    {
@@ -1367,10 +1367,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.15033998325490555,
-     "sortino": -0.3458196134681716,
+     "volatility": 0.14947775360750895,
+     "sortino": -0.42349917824183475,
      "max_drawdown": -0.169478672985782,
-     "history_days": 693
+     "history_days": 700
     },
     "status": "open",
     "rag": {
@@ -1386,43 +1386,43 @@
     "rank": 18
    },
    {
-    "code": "148980",
-    "name": "BANK OF INDIA Large Cap Fund Direct Plan Growth",
+    "code": "119598",
+    "name": "SBI Large Cap FUND-DIRECT PLAN -GROWTH",
     "metrics": {
-     "cagr_3y": 0.14503507055290865,
-     "cagr_5y": 0.12041112633851725,
-     "roll5_min": 0.12220772429787807,
-     "roll5_avg": 0.12220772429787807,
+     "cagr_3y": 0.09641790853023036,
+     "cagr_5y": 0.11208274367978732,
+     "roll5_min": 0.11023696988277831,
+     "roll5_avg": 0.17756814278323158,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.1524919367424019,
-     "sortino": 0.6519813273228413,
-     "max_drawdown": -0.2258883248730964,
-     "history_days": 1842
+     "volatility": 0.1748765542065274,
+     "sortino": 0.6888584167502119,
+     "max_drawdown": -0.3707785069456012,
+     "history_days": 2600
     },
     "status": "open",
     "rag": {
-     "roll5_avg": "red",
-     "roll5_min": "green",
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
      "roll5_pos_pct": "amber",
      "sortino": "amber",
-     "max_drawdown": "green",
-     "cagr_5y": "green",
-     "volatility": "green"
+     "max_drawdown": "red",
+     "cagr_5y": "amber",
+     "volatility": "red"
     },
-    "score": 48.7,
+    "score": 46.2,
     "rank": 19
    },
    {
     "code": "119528",
     "name": "Aditya Birla Sun Life Large Cap Fund",
     "metrics": {
-     "cagr_3y": 0.11091645731760691,
-     "cagr_5y": 0.11543373386217337,
-     "roll5_min": 0.1167237451520613,
-     "roll5_avg": 0.1826315164861953,
+     "cagr_3y": 0.10505056967647608,
+     "cagr_5y": 0.1119342329480213,
+     "roll5_min": 0.11495280156336629,
+     "roll5_avg": 0.1816118599446946,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.17474092483113282,
-     "sortino": 0.6739861969963451,
+     "volatility": 0.17468278074801272,
+     "sortino": 0.6535958781274357,
      "max_drawdown": -0.37664193023532677,
      "history_days": 2600
     },
@@ -1436,47 +1436,47 @@
      "cagr_5y": "amber",
      "volatility": "red"
     },
-    "score": 45.1,
+    "score": 46.0,
     "rank": 20
    },
    {
     "code": "148353",
     "name": "ITI Large Cap Fund",
     "metrics": {
-     "cagr_3y": 0.1126904456941904,
-     "cagr_5y": 0.10726304695795741,
+     "cagr_3y": 0.10442196685898009,
+     "cagr_5y": 0.10350836894667714,
      "roll5_min": 0.10303564665069853,
      "roll5_avg": 0.11987364327741405,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.14715442367393575,
-     "sortino": 0.7483084750443114,
+     "volatility": 0.14736396147195077,
+     "sortino": 0.7014632511023348,
      "max_drawdown": -0.20761070385601044,
-     "history_days": 2026
+     "history_days": 2033
     },
     "status": "open",
     "rag": {
      "roll5_avg": "red",
-     "roll5_min": "red",
+     "roll5_min": "amber",
      "roll5_pos_pct": "amber",
      "sortino": "amber",
      "max_drawdown": "green",
      "cagr_5y": "red",
      "volatility": "green"
     },
-    "score": 42.3,
+    "score": 43.5,
     "rank": 21
    },
    {
     "code": "120030",
     "name": "HSBC Large Cap Fund",
     "metrics": {
-     "cagr_3y": 0.11196733870586972,
-     "cagr_5y": 0.11047764354404399,
-     "roll5_min": 0.1113233250389174,
-     "roll5_avg": 0.1707645722882343,
+     "cagr_3y": 0.10621115932839253,
+     "cagr_5y": 0.10686913994208402,
+     "roll5_min": 0.10778064689351408,
+     "roll5_avg": 0.1699125970863819,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.17123126535490404,
-     "sortino": 0.6636874082093158,
+     "volatility": 0.17142275655770564,
+     "sortino": 0.6358213313441787,
      "max_drawdown": -0.36046724012036035,
      "history_days": 2600
     },
@@ -1490,20 +1490,20 @@
      "cagr_5y": "amber",
      "volatility": "red"
     },
-    "score": 42.0,
+    "score": 41.5,
     "rank": 22
    },
    {
     "code": "119250",
     "name": "DSP Large Cap Fund",
     "metrics": {
-     "cagr_3y": 0.13044246938949056,
-     "cagr_5y": 0.1140462258995194,
-     "roll5_min": 0.11783643786419629,
-     "roll5_avg": 0.174988430139846,
+     "cagr_3y": 0.11946788608905612,
+     "cagr_5y": 0.10873982789388448,
+     "roll5_min": 0.11546694349570386,
+     "roll5_avg": 0.17409705782149296,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.17952911233962854,
-     "sortino": 0.5988349632900105,
+     "volatility": 0.17962296243790343,
+     "sortino": 0.574353359816214,
      "max_drawdown": -0.40333893278583133,
      "history_days": 2600
     },
@@ -1517,20 +1517,20 @@
      "cagr_5y": "amber",
      "volatility": "red"
     },
-    "score": 35.3,
+    "score": 34.9,
     "rank": 23
    },
    {
     "code": "120656",
     "name": "UTI Large Cap Fund",
     "metrics": {
-     "cagr_3y": 0.08927961014478125,
-     "cagr_5y": 0.09439255157408777,
-     "roll5_min": 0.09309804743204175,
-     "roll5_avg": 0.1660932425389286,
+     "cagr_3y": 0.08188316858335454,
+     "cagr_5y": 0.08858562067678544,
+     "roll5_min": 0.09134366429771013,
+     "roll5_avg": 0.16507549260213542,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.1666189400925167,
-     "sortino": 0.6365227622075801,
+     "volatility": 0.16652842557956615,
+     "sortino": 0.6059231734615518,
      "max_drawdown": -0.34650317695816013,
      "history_days": 2600
     },
@@ -1544,74 +1544,47 @@
      "cagr_5y": "red",
      "volatility": "amber"
     },
-    "score": 34.4,
+    "score": 34.7,
     "rank": 24
-   },
-   {
-    "code": "118825",
-    "name": "Mirae Asset Large Cap Fund",
-    "metrics": {
-     "cagr_3y": 0.10186545720355933,
-     "cagr_5y": 0.10373673900595604,
-     "roll5_min": 0.10421281802557791,
-     "roll5_avg": 0.1661225681282906,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.1710188065447951,
-     "sortino": 0.6398381636070521,
-     "max_drawdown": -0.3744172593323578,
-     "history_days": 2600
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "amber",
-     "roll5_min": "red",
-     "roll5_pos_pct": "amber",
-     "sortino": "amber",
-     "max_drawdown": "red",
-     "cagr_5y": "red",
-     "volatility": "amber"
-    },
-    "score": 32.6,
-    "rank": 25
    },
    {
     "code": "118870",
     "name": "Taurus Large Cap Fund",
     "metrics": {
-     "cagr_3y": 0.13066745001068658,
-     "cagr_5y": 0.10874052532865885,
-     "roll5_min": 0.10476050100093559,
-     "roll5_avg": 0.15674993100750076,
+     "cagr_3y": 0.13016628515149087,
+     "cagr_5y": 0.10930268937122034,
+     "roll5_min": 0.10236595464758214,
+     "roll5_avg": 0.15618667383185025,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.176192303131741,
-     "sortino": 0.5429358912775966,
+     "volatility": 0.1760620203714331,
+     "sortino": 0.5376014230667413,
      "max_drawdown": -0.3512201044069443,
      "history_days": 2600
     },
     "status": "open",
     "rag": {
      "roll5_avg": "red",
-     "roll5_min": "amber",
+     "roll5_min": "red",
      "roll5_pos_pct": "amber",
      "sortino": "red",
      "max_drawdown": "amber",
      "cagr_5y": "amber",
      "volatility": "red"
     },
-    "score": 32.2,
-    "rank": 26
+    "score": 33.6,
+    "rank": 25
    },
    {
     "code": "118531",
     "name": "Franklin India Large Cap Fund- Direct",
     "metrics": {
-     "cagr_3y": 0.1096714382309889,
-     "cagr_5y": 0.09675322301238864,
-     "roll5_min": 0.09666407567725166,
-     "roll5_avg": 0.17248244505194277,
+     "cagr_3y": 0.10240360228445389,
+     "cagr_5y": 0.09199700408644151,
+     "roll5_min": 0.09317056743268437,
+     "roll5_avg": 0.1709294464902526,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.17482774482918742,
-     "sortino": 0.6260237119336761,
+     "volatility": 0.17475524785533728,
+     "sortino": 0.5996614453681537,
      "max_drawdown": -0.36253711146331224,
      "history_days": 2600
     },
@@ -1625,20 +1598,47 @@
      "cagr_5y": "red",
      "volatility": "red"
     },
-    "score": 31.5,
+    "score": 31.7,
+    "rank": 26
+   },
+   {
+    "code": "118825",
+    "name": "Mirae Asset Large Cap Fund",
+    "metrics": {
+     "cagr_3y": 0.09388882220694805,
+     "cagr_5y": 0.0980642525258073,
+     "roll5_min": 0.10111991057677616,
+     "roll5_avg": 0.1655408314811169,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.17105427817788998,
+     "sortino": 0.6077503939345035,
+     "max_drawdown": -0.3744172593323578,
+     "history_days": 2600
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "red",
+     "roll5_pos_pct": "amber",
+     "sortino": "amber",
+     "max_drawdown": "red",
+     "cagr_5y": "red",
+     "volatility": "amber"
+    },
+    "score": 30.8,
     "rank": 27
    },
    {
     "code": "120465",
     "name": "Axis Large Cap Fund",
     "metrics": {
-     "cagr_3y": 0.09595936755141166,
-     "cagr_5y": 0.08221269326491432,
-     "roll5_min": 0.08054735330432217,
-     "roll5_avg": 0.14037404474577406,
+     "cagr_3y": 0.0889163411670495,
+     "cagr_5y": 0.07753992921729269,
+     "roll5_min": 0.07839247418193951,
+     "roll5_avg": 0.13949077569331078,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.15602971089126547,
-     "sortino": 0.5756066740092382,
+     "volatility": 0.15606219337969682,
+     "sortino": 0.5468406904952176,
      "max_drawdown": -0.30103995621237,
      "history_days": 2600
     },
@@ -1659,13 +1659,13 @@
     "code": "120267",
     "name": "LIC MF Large Cap Fund-Direct Plan-Growth",
     "metrics": {
-     "cagr_3y": 0.08438528278248936,
-     "cagr_5y": 0.08742336646162863,
-     "roll5_min": 0.0896440863338046,
-     "roll5_avg": 0.15161740951803054,
+     "cagr_3y": 0.07944521441067987,
+     "cagr_5y": 0.08389184577039299,
+     "roll5_min": 0.08765076325860122,
+     "roll5_avg": 0.1507017762835282,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.1668666876105496,
-     "sortino": 0.5162060483250546,
+     "volatility": 0.16699405044539728,
+     "sortino": 0.4955841561486587,
      "max_drawdown": -0.33092154666207085,
      "history_days": 2600
     },
@@ -1686,13 +1686,13 @@
     "code": "138312",
     "name": "PGIM India Large Cap Fund",
     "metrics": {
-     "cagr_3y": 0.08587830791915696,
-     "cagr_5y": 0.08822507730116125,
-     "roll5_min": 0.08792400221524788,
-     "roll5_avg": 0.15200906853131754,
+     "cagr_3y": 0.08067044366256759,
+     "cagr_5y": 0.08574145402170785,
+     "roll5_min": 0.08723744930273103,
+     "roll5_avg": 0.15122000166243382,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.16580836565620868,
-     "sortino": 0.533936948981395,
+     "volatility": 0.16580924792459384,
+     "sortino": 0.5120166783271999,
      "max_drawdown": -0.37381346994123854,
      "history_days": 2600
     },
@@ -1715,15 +1715,15 @@
     "code": "150584",
     "name": "WhiteOak Capital Mid Cap Fund Direct Plan Growth",
     "metrics": {
-     "cagr_3y": 0.24249940392812253,
+     "cagr_3y": 0.23620787721469605,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.16000879122769618,
-     "sortino": 2.049599673841739,
+     "volatility": 0.16010881400053215,
+     "sortino": 2.004089082011085,
      "max_drawdown": -0.1932992226704714,
-     "history_days": 1408
+     "history_days": 1415
     },
     "status": "open",
     "rag": {
@@ -1739,43 +1739,16 @@
     "rank": 1
    },
    {
-    "code": "153326",
-    "name": "Helios Mid Cap Fund",
-    "metrics": {
-     "cagr_3y": null,
-     "cagr_5y": null,
-     "roll5_min": null,
-     "roll5_avg": null,
-     "roll5_pos_pct": null,
-     "volatility": 0.18932989316613677,
-     "sortino": 1.8571929550471709,
-     "max_drawdown": -0.16742424242424236,
-     "history_days": 487
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "amber",
-     "roll5_min": "amber",
-     "roll5_pos_pct": "amber",
-     "sortino": "green",
-     "max_drawdown": "green",
-     "cagr_5y": "amber",
-     "volatility": "green"
-    },
-    "score": 66.7,
-    "rank": 2
-   },
-   {
     "code": "142110",
     "name": "Mahindra Manulife Mid Cap Fund",
     "metrics": {
-     "cagr_3y": 0.22542393504595548,
-     "cagr_5y": 0.19138739068733002,
-     "roll5_min": 0.2065661672584005,
-     "roll5_avg": 0.2826047226427192,
+     "cagr_3y": 0.21665834328764721,
+     "cagr_5y": 0.18864484609765597,
+     "roll5_min": 0.19940902999912935,
+     "roll5_avg": 0.281431811175855,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.18833795191803637,
-     "sortino": 1.4975024686578866,
+     "volatility": 0.18860304707184342,
+     "sortino": 1.4776227719776738,
      "max_drawdown": -0.3309945895641543,
      "history_days": 2600
     },
@@ -1789,20 +1762,47 @@
      "cagr_5y": "green",
      "volatility": "green"
     },
-    "score": 65.2,
+    "score": 66.4,
+    "rank": 2
+   },
+   {
+    "code": "153326",
+    "name": "Helios Mid Cap Fund",
+    "metrics": {
+     "cagr_3y": null,
+     "cagr_5y": null,
+     "roll5_min": null,
+     "roll5_avg": null,
+     "roll5_pos_pct": null,
+     "volatility": 0.19130139860896428,
+     "sortino": 1.6560723498374763,
+     "max_drawdown": -0.16742424242424236,
+     "history_days": 494
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "amber",
+     "sortino": "green",
+     "max_drawdown": "green",
+     "cagr_5y": "amber",
+     "volatility": "amber"
+    },
+    "score": 66.2,
     "rank": 3
    },
    {
     "code": "120841",
     "name": "quant Mid Cap Fund",
     "metrics": {
-     "cagr_3y": 0.16019836104016094,
-     "cagr_5y": 0.17217686604911075,
-     "roll5_min": 0.17975646843190796,
-     "roll5_avg": 0.30550259567325067,
+     "cagr_3y": 0.1468159977374237,
+     "cagr_5y": 0.16968291737336472,
+     "roll5_min": 0.17927695683620115,
+     "roll5_avg": 0.3034488458639058,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.20294329289550123,
-     "sortino": 1.5834590907153716,
+     "volatility": 0.20317196148021183,
+     "sortino": 1.5552503081154267,
      "max_drawdown": -0.33429874666118753,
      "history_days": 2600
     },
@@ -1823,15 +1823,15 @@
     "code": "150817",
     "name": "Canara Robeco Mid Cap Fund- Direct Plan- Growth Option",
     "metrics": {
-     "cagr_3y": 0.19743997896857923,
+     "cagr_3y": 0.1858407251045735,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.1613391521560531,
-     "sortino": 1.537738878475979,
+     "volatility": 0.161731197552384,
+     "sortino": 1.4702750178039077,
      "max_drawdown": -0.212403951701427,
-     "history_days": 1319
+     "history_days": 1326
     },
     "status": "open",
     "rag": {
@@ -1843,22 +1843,22 @@
      "cagr_5y": "amber",
      "volatility": "green"
     },
-    "score": 63.6,
+    "score": 62.4,
     "rank": 5
    },
    {
     "code": "150212",
     "name": "BARODA BNP PARIBAS Mid Cap Fund",
     "metrics": {
-     "cagr_3y": 0.2031690535759687,
+     "cagr_3y": 0.1946193459322949,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.1485832222606896,
-     "sortino": 1.3680710382298653,
+     "volatility": 0.1488511514240268,
+     "sortino": 1.3250725805405874,
      "max_drawdown": -0.1863500446738806,
-     "history_days": 1586
+     "history_days": 1593
     },
     "status": "open",
     "rag": {
@@ -1874,43 +1874,16 @@
     "rank": 6
    },
    {
-    "code": "140228",
-    "name": "Edelweiss Mid Cap Fund",
-    "metrics": {
-     "cagr_3y": 0.23707215889678457,
-     "cagr_5y": 0.19599303105689492,
-     "roll5_min": 0.2108731515211153,
-     "roll5_avg": 0.2966541952996116,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.20345024661103683,
-     "sortino": 1.43110186576364,
-     "max_drawdown": -0.3683596950028357,
-     "history_days": 2600
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "green",
-     "roll5_min": "green",
-     "roll5_pos_pct": "amber",
-     "sortino": "green",
-     "max_drawdown": "red",
-     "cagr_5y": "green",
-     "volatility": "red"
-    },
-    "score": 61.2,
-    "rank": 7
-   },
-   {
     "code": "118668",
     "name": "Nippon India Growth Mid Cap Fund",
     "metrics": {
-     "cagr_3y": 0.22205821275959559,
-     "cagr_5y": 0.2001920664555792,
-     "roll5_min": 0.21921580886881142,
-     "roll5_avg": 0.28851548872659405,
+     "cagr_3y": 0.21416060374553747,
+     "cagr_5y": 0.19828234045503756,
+     "roll5_min": 0.20685568534935128,
+     "roll5_avg": 0.28722762509551353,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.2041621259071375,
-     "sortino": 1.303846197875672,
+     "volatility": 0.2043044473883682,
+     "sortino": 1.2903814160581748,
      "max_drawdown": -0.35323117372404966,
      "history_days": 2600
     },
@@ -1925,19 +1898,46 @@
      "volatility": "red"
     },
     "score": 60.4,
+    "rank": 7
+   },
+   {
+    "code": "140228",
+    "name": "Edelweiss Mid Cap Fund",
+    "metrics": {
+     "cagr_3y": 0.22979359220906015,
+     "cagr_5y": 0.1941355704570893,
+     "roll5_min": 0.20366944437613155,
+     "roll5_avg": 0.2954444844052275,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.20358744477106264,
+     "sortino": 1.41766163758362,
+     "max_drawdown": -0.3683596950028357,
+     "history_days": 2600
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "green",
+     "roll5_min": "green",
+     "roll5_pos_pct": "amber",
+     "sortino": "green",
+     "max_drawdown": "red",
+     "cagr_5y": "green",
+     "volatility": "red"
+    },
+    "score": 59.9,
     "rank": 8
    },
    {
     "code": "118989",
     "name": "HDFC Mid Cap Fund",
     "metrics": {
-     "cagr_3y": 0.2002129306239009,
-     "cagr_5y": 0.2022054716755708,
-     "roll5_min": 0.20980336276527645,
-     "roll5_avg": 0.2851520048490052,
+     "cagr_3y": 0.19370167875003852,
+     "cagr_5y": 0.20035237978417664,
+     "roll5_min": 0.20579331351627705,
+     "roll5_avg": 0.2841982595584897,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.19489321480490282,
-     "sortino": 1.2798565690953496,
+     "volatility": 0.19496436345510132,
+     "sortino": 1.2689669537547386,
      "max_drawdown": -0.3649231576702915,
      "history_days": 2600
     },
@@ -1951,7 +1951,7 @@
      "cagr_5y": "green",
      "volatility": "amber"
     },
-    "score": 58.0,
+    "score": 59.3,
     "rank": 9
    },
    {
@@ -1963,10 +1963,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.18915282665318103,
-     "sortino": 1.0854182233649556,
+     "volatility": 0.189541975666956,
+     "sortino": 1.0401675328033957,
      "max_drawdown": -0.21467475879240583,
-     "history_days": 1082
+     "history_days": 1089
     },
     "status": "open",
     "rag": {
@@ -1985,15 +1985,15 @@
     "code": "148733",
     "name": "ITI Mid Cap Fund",
     "metrics": {
-     "cagr_3y": 0.22922144070498396,
-     "cagr_5y": 0.1704305250811362,
+     "cagr_3y": 0.22268227789549044,
+     "cagr_5y": 0.16867349342802385,
      "roll5_min": 0.16830418897498434,
      "roll5_avg": 0.17951694342780358,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.1658784275016994,
-     "sortino": 1.39785304136145,
+     "volatility": 0.16601783577731777,
+     "sortino": 1.3746386301066589,
      "max_drawdown": -0.22660106241283673,
-     "history_days": 1955
+     "history_days": 1962
     },
     "status": "open",
     "rag": {
@@ -2005,20 +2005,20 @@
      "cagr_5y": "amber",
      "volatility": "green"
     },
-    "score": 45.3,
+    "score": 47.5,
     "rank": 11
    },
    {
     "code": "119178",
     "name": "Tata Mid Cap Fund",
     "metrics": {
-     "cagr_3y": 0.19227719327253423,
-     "cagr_5y": 0.1708645133079547,
-     "roll5_min": 0.17731511512167542,
-     "roll5_avg": 0.24954381366263095,
+     "cagr_3y": 0.18186563413741652,
+     "cagr_5y": 0.16582639810706978,
+     "roll5_min": 0.1680112205773927,
+     "roll5_avg": 0.24843673482372913,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.19125712850118726,
-     "sortino": 1.1585776607301035,
+     "volatility": 0.19123165736258171,
+     "sortino": 1.1435611744918677,
      "max_drawdown": -0.3509643843574819,
      "history_days": 2600
     },
@@ -2030,22 +2030,22 @@
      "sortino": "amber",
      "max_drawdown": "amber",
      "cagr_5y": "amber",
-     "volatility": "amber"
+     "volatility": "green"
     },
-    "score": 44.9,
+    "score": 43.1,
     "rank": 12
    },
    {
     "code": "119581",
     "name": "Sundaram Mid Cap Fund Direct Plan",
     "metrics": {
-     "cagr_3y": 0.21855686872147406,
-     "cagr_5y": 0.18683379429503155,
-     "roll5_min": 0.19891879495333065,
-     "roll5_avg": 0.252204894328134,
+     "cagr_3y": 0.2118950987012027,
+     "cagr_5y": 0.18440398276097492,
+     "roll5_min": 0.18403471612933053,
+     "roll5_avg": 0.2514905627877863,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.202263502742962,
-     "sortino": 1.0160293669069944,
+     "volatility": 0.20230178276253924,
+     "sortino": 1.005506249209085,
      "max_drawdown": -0.3948836448782008,
      "history_days": 2600
     },
@@ -2066,13 +2066,13 @@
     "code": "141950",
     "name": "BANK OF INDIA Mid Cap Tax Fund Series 1 Direct Plan Growth",
     "metrics": {
-     "cagr_3y": 0.15663786451545025,
-     "cagr_5y": 0.1279745277108868,
-     "roll5_min": 0.14636450106508048,
-     "roll5_avg": 0.22337224435456624,
+     "cagr_3y": 0.15157285689801459,
+     "cagr_5y": 0.12458033918443356,
+     "roll5_min": 0.1352696609097066,
+     "roll5_avg": 0.22194810585201827,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.1961828841544336,
-     "sortino": 1.1558172363662536,
+     "volatility": 0.1963852882984059,
+     "sortino": 1.1384405692893866,
      "max_drawdown": -0.31599607458292445,
      "history_days": 2600
     },
@@ -2093,13 +2093,13 @@
     "code": "120726",
     "name": "UTI Mid Cap Fund-Growth Option- Direct",
     "metrics": {
-     "cagr_3y": 0.13907172622542685,
-     "cagr_5y": 0.13434410388032836,
-     "roll5_min": 0.14862751444655786,
-     "roll5_avg": 0.23423002816841892,
+     "cagr_3y": 0.13239652200640717,
+     "cagr_5y": 0.13135896516025403,
+     "roll5_min": 0.1386751413026075,
+     "roll5_avg": 0.23304303240194418,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.19560429360732096,
-     "sortino": 1.0420776923437474,
+     "volatility": 0.1957197014039283,
+     "sortino": 1.0281539283446732,
      "max_drawdown": -0.3517373272692421,
      "history_days": 2600
     },
@@ -2120,13 +2120,13 @@
     "code": "118533",
     "name": "Franklin India Mid Cap Fund",
     "metrics": {
-     "cagr_3y": 0.18688851474686596,
-     "cagr_5y": 0.1543486063924293,
-     "roll5_min": 0.15900549344823522,
-     "roll5_avg": 0.23320655142652258,
+     "cagr_3y": 0.17863400958766618,
+     "cagr_5y": 0.15186927914081783,
+     "roll5_min": 0.1495190991833184,
+     "roll5_avg": 0.2323289343067163,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.19844080338736075,
-     "sortino": 0.9661568424559959,
+     "volatility": 0.19838308738516794,
+     "sortino": 0.9475441614927274,
      "max_drawdown": -0.3573098447702979,
      "history_days": 2600
     },
@@ -2147,13 +2147,13 @@
     "code": "118872",
     "name": "Taurus Mid Cap Fund",
     "metrics": {
-     "cagr_3y": 0.11779913525142072,
-     "cagr_5y": 0.11697456451244692,
-     "roll5_min": 0.12230047972820479,
-     "roll5_avg": 0.2095310100129926,
+     "cagr_3y": 0.11408987550776328,
+     "cagr_5y": 0.12059811208968862,
+     "roll5_min": 0.11684413783523184,
+     "roll5_avg": 0.20786886646512365,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.1975567813254222,
-     "sortino": 0.8988127639967467,
+     "volatility": 0.19770103247497034,
+     "sortino": 0.9078160088137216,
      "max_drawdown": -0.32804555623347575,
      "history_days": 2600
     },
@@ -2176,15 +2176,15 @@
     "code": "147946",
     "name": "BANDHAN SMALL CAP FUND",
     "metrics": {
-     "cagr_3y": 0.2807314122227502,
-     "cagr_5y": 0.2030895169160487,
-     "roll5_min": 0.22298459091894474,
-     "roll5_avg": 0.31089438698278765,
+     "cagr_3y": 0.27178625958943403,
+     "cagr_5y": 0.20082386642493533,
+     "roll5_min": 0.2071818599185551,
+     "roll5_avg": 0.3051325799236636,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.194860397170739,
-     "sortino": 2.49263729583299,
+     "volatility": 0.19492537860034387,
+     "sortino": 2.478036316164102,
      "max_drawdown": -0.24336283185840712,
-     "history_days": 2333
+     "history_days": 2340
     },
     "status": "open",
     "rag": {
@@ -2196,20 +2196,20 @@
      "cagr_5y": "green",
      "volatility": "green"
     },
-    "score": 85.3,
+    "score": 83.8,
     "rank": 1
    },
    {
     "code": "145678",
     "name": "BANK OF INDIA Small Cap Fund Direct Plan Growth",
     "metrics": {
-     "cagr_3y": 0.22934859972402388,
-     "cagr_5y": 0.19761640597608388,
-     "roll5_min": 0.20613839973928938,
-     "roll5_avg": 0.3184966463362477,
+     "cagr_3y": 0.2254009724196404,
+     "cagr_5y": 0.19756648144593436,
+     "roll5_min": 0.19436976779358806,
+     "roll5_avg": 0.31807069086845335,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.22138100177475584,
-     "sortino": 1.7907154667869905,
+     "volatility": 0.22140647698108915,
+     "sortino": 1.7862554156765342,
      "max_drawdown": -0.32367149758454106,
      "history_days": 2600
     },
@@ -2223,21 +2223,21 @@
      "cagr_5y": "green",
      "volatility": "amber"
     },
-    "score": 73.4,
+    "score": 74.0,
     "rank": 2
    },
    {
     "code": "120828",
     "name": "quant Small Cap Fund",
     "metrics": {
-     "cagr_3y": 0.20680843874604027,
-     "cagr_5y": 0.1982585528792793,
-     "roll5_min": 0.2124789996203087,
-     "roll5_avg": 0.3914267757662534,
+     "cagr_3y": 0.19098735328565297,
+     "cagr_5y": 0.19072485220397262,
+     "roll5_min": 0.210195929486779,
+     "roll5_avg": 0.39013727797404285,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.2546789399489399,
-     "sortino": 1.875797078275742,
-     "max_drawdown": -0.3959686138632641,
+     "volatility": 0.2549816933885207,
+     "sortino": 1.846242400411799,
+     "max_drawdown": -0.38601102870290627,
      "history_days": 2600
     },
     "status": "open",
@@ -2250,7 +2250,7 @@
      "cagr_5y": "green",
      "volatility": "red"
     },
-    "score": 69.9,
+    "score": 69.4,
     "rank": 3
    },
    {
@@ -2262,10 +2262,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.1778154863211816,
-     "sortino": 2.0994320512154574,
+     "volatility": 0.17830230899623972,
+     "sortino": 2.037493286923048,
      "max_drawdown": -0.15106488360574544,
-     "history_days": 529
+     "history_days": 536
     },
     "status": "open",
     "rag": {
@@ -2284,13 +2284,13 @@
     "code": "118778",
     "name": "Nippon India Small Cap Fund",
     "metrics": {
-     "cagr_3y": 0.17953968617590021,
-     "cagr_5y": 0.19733067920691094,
-     "roll5_min": 0.21715312620393523,
-     "roll5_avg": 0.3297203124667259,
+     "cagr_3y": 0.16875447692597922,
+     "cagr_5y": 0.19336466563715837,
+     "roll5_min": 0.2119937203493818,
+     "roll5_avg": 0.3285105345520733,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.2277149302242294,
-     "sortino": 1.4224645966938267,
+     "volatility": 0.2279862990451007,
+     "sortino": 1.402993595203297,
      "max_drawdown": -0.4030259327511151,
      "history_days": 2600
     },
@@ -2304,20 +2304,20 @@
      "cagr_5y": "green",
      "volatility": "red"
     },
-    "score": 66.5,
+    "score": 67.9,
     "rank": 5
    },
    {
     "code": "146196",
     "name": "Edelweiss Small Cap Fund",
     "metrics": {
-     "cagr_3y": 0.18379475097014675,
-     "cagr_5y": 0.18319896185950313,
-     "roll5_min": 0.19396096050213685,
-     "roll5_avg": 0.30417438659031126,
+     "cagr_3y": 0.1717388417816157,
+     "cagr_5y": 0.17786261357372446,
+     "roll5_min": 0.18813315978156964,
+     "roll5_avg": 0.3029005334074561,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.2108743425799245,
-     "sortino": 1.4807761810887476,
+     "volatility": 0.21105287181925786,
+     "sortino": 1.4569293229278732,
      "max_drawdown": -0.3708625079567155,
      "history_days": 2600
     },
@@ -2331,22 +2331,22 @@
      "cagr_5y": "green",
      "volatility": "amber"
     },
-    "score": 66.4,
+    "score": 65.8,
     "rank": 6
    },
    {
     "code": "150915",
     "name": "Mahindra Manulife Small Cap Fund",
     "metrics": {
-     "cagr_3y": 0.22801070084840913,
+     "cagr_3y": 0.21799230745815845,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.1875903334540903,
-     "sortino": 1.9572644921599192,
+     "volatility": 0.18779025270050154,
+     "sortino": 1.9333757908971643,
      "max_drawdown": -0.25996360861654044,
-     "history_days": 1311
+     "history_days": 1318
     },
     "status": "open",
     "rag": {
@@ -2370,10 +2370,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.21206001100688976,
-     "sortino": 1.3962336769415826,
+     "volatility": 0.21208889686491655,
+     "sortino": 1.3797937945712926,
      "max_drawdown": -0.23693867194107932,
-     "history_days": 931
+     "history_days": 938
     },
     "status": "open",
     "rag": {
@@ -2392,13 +2392,13 @@
     "code": "146130",
     "name": "CANARA ROBECO SMALL CAP FUND",
     "metrics": {
-     "cagr_3y": 0.14704988055227464,
-     "cagr_5y": 0.16434167976198255,
-     "roll5_min": 0.18204517147938426,
-     "roll5_avg": 0.3023978956248988,
+     "cagr_3y": 0.13487174732388874,
+     "cagr_5y": 0.16137324959836685,
+     "roll5_min": 0.17739281368112358,
+     "roll5_avg": 0.3013304453188772,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.21154313637844133,
-     "sortino": 1.3931989967158387,
+     "volatility": 0.21168677977197148,
+     "sortino": 1.3732009836806363,
      "max_drawdown": -0.3618361836183618,
      "history_days": 2600
     },
@@ -2407,13 +2407,40 @@
      "roll5_avg": "green",
      "roll5_min": "amber",
      "roll5_pos_pct": "amber",
-     "sortino": "green",
+     "sortino": "amber",
      "max_drawdown": "amber",
      "cagr_5y": "amber",
      "volatility": "amber"
     },
-    "score": 55.6,
+    "score": 54.7,
     "rank": 9
+   },
+   {
+    "code": "119212",
+    "name": "DSP Small Cap Fund",
+    "metrics": {
+     "cagr_3y": 0.17712427641231532,
+     "cagr_5y": 0.17985792996553873,
+     "roll5_min": 0.18624387728465375,
+     "roll5_avg": 0.27921332952185196,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.22963165152060225,
+     "sortino": 1.2565303392508815,
+     "max_drawdown": -0.3661796092595633,
+     "history_days": 2600
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "green",
+     "roll5_pos_pct": "amber",
+     "sortino": "amber",
+     "max_drawdown": "amber",
+     "cagr_5y": "green",
+     "volatility": "red"
+    },
+    "score": 52.3,
+    "rank": 10
    },
    {
     "code": "152107",
@@ -2424,10 +2451,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.17044767864747914,
-     "sortino": 0.7008242365444072,
+     "volatility": 0.1706660461621423,
+     "sortino": 0.674217320653857,
      "max_drawdown": -0.1820987654320988,
-     "history_days": 987
+     "history_days": 994
     },
     "status": "open",
     "rag": {
@@ -2440,21 +2467,21 @@
      "volatility": "green"
     },
     "score": 52.3,
-    "rank": 10
+    "rank": 11
    },
    {
     "code": "149019",
     "name": "PGIM India Small Cap Fund",
     "metrics": {
-     "cagr_3y": 0.15885686758145967,
+     "cagr_3y": 0.15480851875617696,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.1693595169889635,
-     "sortino": 0.8090097578002482,
+     "volatility": 0.16942646976777512,
+     "sortino": 0.798328063428128,
      "max_drawdown": -0.24591503267973858,
-     "history_days": 1810
+     "history_days": 1817
     },
     "status": "open",
     "rag": {
@@ -2467,48 +2494,21 @@
      "volatility": "green"
     },
     "score": 50.9,
-    "rank": 11
-   },
-   {
-    "code": "148618",
-    "name": "UTI Small Cap Fund",
-    "metrics": {
-     "cagr_3y": 0.16819395185711583,
-     "cagr_5y": 0.16434990381893022,
-     "roll5_min": 0.16476443845702105,
-     "roll5_avg": 0.19409086254629387,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.171267803539635,
-     "sortino": 1.6560410681711795,
-     "max_drawdown": -0.22336787213869702,
-     "history_days": 2032
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "red",
-     "roll5_min": "red",
-     "roll5_pos_pct": "amber",
-     "sortino": "green",
-     "max_drawdown": "green",
-     "cagr_5y": "amber",
-     "volatility": "green"
-    },
-    "score": 50.5,
     "rank": 12
    },
    {
     "code": "151130",
     "name": "HSBC Small Cap Fund",
     "metrics": {
-     "cagr_3y": 0.1680760052769783,
+     "cagr_3y": 0.15326054697357772,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.20141101987165633,
-     "sortino": 1.1549144515755012,
+     "volatility": 0.2020826051224178,
+     "sortino": 1.0991821931025854,
      "max_drawdown": -0.2716391483334071,
-     "history_days": 1327
+     "history_days": 1334
     },
     "status": "open",
     "rag": {
@@ -2524,70 +2524,43 @@
     "rank": 13
    },
    {
-    "code": "129649",
-    "name": "Union Small Cap Fund",
+    "code": "148618",
+    "name": "UTI Small Cap Fund",
     "metrics": {
-     "cagr_3y": 0.19509384092484439,
-     "cagr_5y": 0.17138704398702242,
-     "roll5_min": 0.19293481155898506,
-     "roll5_avg": 0.27195994408137963,
+     "cagr_3y": 0.1582345740970752,
+     "cagr_5y": 0.16088317722327639,
+     "roll5_min": 0.16476443845702105,
+     "roll5_avg": 0.19103140516649034,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.21455835508385898,
-     "sortino": 1.3839596332987463,
-     "max_drawdown": -0.37614120511259885,
-     "history_days": 2600
+     "volatility": 0.17160005475202486,
+     "sortino": 1.6042763073421407,
+     "max_drawdown": -0.22336787213869702,
+     "history_days": 2039
     },
     "status": "open",
     "rag": {
-     "roll5_avg": "amber",
-     "roll5_min": "green",
+     "roll5_avg": "red",
+     "roll5_min": "red",
      "roll5_pos_pct": "amber",
-     "sortino": "amber",
-     "max_drawdown": "red",
+     "sortino": "green",
+     "max_drawdown": "green",
      "cagr_5y": "amber",
-     "volatility": "amber"
+     "volatility": "green"
     },
-    "score": 49.7,
+    "score": 49.9,
     "rank": 14
-   },
-   {
-    "code": "119212",
-    "name": "DSP Small Cap Fund",
-    "metrics": {
-     "cagr_3y": 0.19063804077484803,
-     "cagr_5y": 0.18150944110285416,
-     "roll5_min": 0.19122575001798436,
-     "roll5_avg": 0.2798703716360543,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.22959367153150412,
-     "sortino": 1.2663945811707285,
-     "max_drawdown": -0.3661796092595633,
-     "history_days": 2600
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "amber",
-     "roll5_min": "amber",
-     "roll5_pos_pct": "amber",
-     "sortino": "amber",
-     "max_drawdown": "amber",
-     "cagr_5y": "green",
-     "volatility": "red"
-    },
-    "score": 47.6,
-    "rank": 15
    },
    {
     "code": "125354",
     "name": "Axis Small Cap Fund",
     "metrics": {
-     "cagr_3y": 0.16879489239746914,
-     "cagr_5y": 0.16958747224598847,
-     "roll5_min": 0.18114603456319855,
-     "roll5_avg": 0.26983856618203916,
+     "cagr_3y": 0.16434665321226816,
+     "cagr_5y": 0.16670273844488825,
+     "roll5_min": 0.17953630757472983,
+     "roll5_avg": 0.26863027379526316,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.19409145608344788,
-     "sortino": 1.338228974799563,
+     "volatility": 0.1942083262181676,
+     "sortino": 1.3217643993232147,
      "max_drawdown": -0.3463863337713534,
      "history_days": 2600
     },
@@ -2601,7 +2574,34 @@
      "cagr_5y": "amber",
      "volatility": "green"
     },
-    "score": 47.4,
+    "score": 49.0,
+    "rank": 15
+   },
+   {
+    "code": "129649",
+    "name": "Union Small Cap Fund",
+    "metrics": {
+     "cagr_3y": 0.18646671527096403,
+     "cagr_5y": 0.1701090491106485,
+     "roll5_min": 0.17895343120539908,
+     "roll5_avg": 0.2710171000999516,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.21463669991833487,
+     "sortino": 1.3743865658652499,
+     "max_drawdown": -0.37614120511259885,
+     "history_days": 2600
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "amber",
+     "sortino": "green",
+     "max_drawdown": "red",
+     "cagr_5y": "amber",
+     "volatility": "amber"
+    },
+    "score": 47.2,
     "rank": 16
    },
    {
@@ -2613,10 +2613,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.18807837674426986,
-     "sortino": 0.6257911051024561,
+     "volatility": 0.1880778942026721,
+     "sortino": 0.6066098668910082,
      "max_drawdown": -0.24998301930365563,
-     "history_days": 989
+     "history_days": 996
     },
     "status": "open",
     "rag": {
@@ -2632,43 +2632,16 @@
     "rank": 17
    },
    {
-    "code": "152004",
-    "name": "LIC MF Small Cap Fund-Direct Plan-Growth",
-    "metrics": {
-     "cagr_3y": null,
-     "cagr_5y": null,
-     "roll5_min": null,
-     "roll5_avg": null,
-     "roll5_pos_pct": null,
-     "volatility": 0.21572993621838113,
-     "sortino": 1.017750803621966,
-     "max_drawdown": -0.2701344937735326,
-     "history_days": 1082
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "amber",
-     "roll5_min": "amber",
-     "roll5_pos_pct": "amber",
-     "sortino": "red",
-     "max_drawdown": "amber",
-     "cagr_5y": "amber",
-     "volatility": "amber"
-    },
-    "score": 46.3,
-    "rank": 18
-   },
-   {
     "code": "145206",
     "name": "Tata Small Cap Fund-Direct Plan-Growth",
     "metrics": {
-     "cagr_3y": 0.13068703857933595,
-     "cagr_5y": 0.15985400759024704,
-     "roll5_min": 0.16874402222161144,
-     "roll5_avg": 0.30013231126035395,
+     "cagr_3y": 0.1272004698420599,
+     "cagr_5y": 0.1546093631954324,
+     "roll5_min": 0.16570892771825907,
+     "roll5_avg": 0.29889202247143404,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.2134304904618901,
-     "sortino": 1.2856863927959095,
+     "volatility": 0.21351837397504148,
+     "sortino": 1.2702484649917472,
      "max_drawdown": -0.3660510852620219,
      "history_days": 2600
     },
@@ -2682,7 +2655,34 @@
      "cagr_5y": "red",
      "volatility": "amber"
     },
-    "score": 45.5,
+    "score": 46.3,
+    "rank": 18
+   },
+   {
+    "code": "152004",
+    "name": "LIC MF Small Cap Fund-Direct Plan-Growth",
+    "metrics": {
+     "cagr_3y": null,
+     "cagr_5y": null,
+     "roll5_min": null,
+     "roll5_avg": null,
+     "roll5_pos_pct": null,
+     "volatility": 0.21661631499576484,
+     "sortino": 0.9611146262210225,
+     "max_drawdown": -0.2701344937735326,
+     "history_days": 1089
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "amber",
+     "sortino": "red",
+     "max_drawdown": "amber",
+     "cagr_5y": "amber",
+     "volatility": "amber"
+    },
+    "score": 46.3,
     "rank": 19
    },
    {
@@ -2694,10 +2694,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.24822343958581986,
-     "sortino": 0.8001138633677298,
+     "volatility": 0.24853752261646228,
+     "sortino": 0.7574558685263038,
      "max_drawdown": -0.24021838034576892,
-     "history_days": 619
+     "history_days": 626
     },
     "status": "open",
     "rag": {
@@ -2713,44 +2713,17 @@
     "rank": 20
    },
    {
-    "code": "139527",
-    "name": "BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND",
-    "metrics": {
-     "cagr_3y": 0.19993410652187693,
-     "cagr_5y": 0.15165947447008987,
-     "roll5_min": 0.17288430935613697,
-     "roll5_avg": 0.24490098565226864,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.17313108975721975,
-     "sortino": 1.3608341109398554,
-     "max_drawdown": -0.2807017543859649,
-     "history_days": 2600
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "red",
-     "roll5_min": "amber",
-     "roll5_pos_pct": "amber",
-     "sortino": "amber",
-     "max_drawdown": "amber",
-     "cagr_5y": "red",
-     "volatility": "green"
-    },
-    "score": 43.9,
-    "rank": 21
-   },
-   {
     "code": "118525",
     "name": "Franklin India Small Cap Fund",
     "metrics": {
-     "cagr_3y": 0.16413519898166706,
-     "cagr_5y": 0.17433566522525057,
-     "roll5_min": 0.1917174285676171,
-     "roll5_avg": 0.2831721476168135,
+     "cagr_3y": 0.15175313839468396,
+     "cagr_5y": 0.1711990319295833,
+     "roll5_min": 0.18033290339075325,
+     "roll5_avg": 0.2820821625042907,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.22395093693901133,
-     "sortino": 1.0493683649887122,
-     "max_drawdown": -0.41963197866464497,
+     "volatility": 0.2240647974595991,
+     "sortino": 1.0268421965587138,
+     "max_drawdown": -0.41357365018406766,
      "history_days": 2600
     },
     "status": "open",
@@ -2763,8 +2736,8 @@
      "cagr_5y": "amber",
      "volatility": "amber"
     },
-    "score": 42.4,
-    "rank": 22
+    "score": 41.8,
+    "rank": 21
    },
    {
     "code": "152614",
@@ -2775,10 +2748,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.23905230934192362,
-     "sortino": 0.2959448568109633,
+     "volatility": 0.2392143687239551,
+     "sortino": 0.2595103319685972,
      "max_drawdown": -0.24360035258774226,
-     "history_days": 753
+     "history_days": 760
     },
     "status": "open",
     "rag": {
@@ -2791,20 +2764,47 @@
      "volatility": "red"
     },
     "score": 41.7,
+    "rank": 22
+   },
+   {
+    "code": "139527",
+    "name": "BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND",
+    "metrics": {
+     "cagr_3y": 0.19042671820042156,
+     "cagr_5y": 0.15035470399783124,
+     "roll5_min": 0.16510009796341962,
+     "roll5_avg": 0.24395468538524773,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.17317858933056032,
+     "sortino": 1.35555175678791,
+     "max_drawdown": -0.2807017543859649,
+     "history_days": 2600
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "red",
+     "roll5_pos_pct": "amber",
+     "sortino": "amber",
+     "max_drawdown": "amber",
+     "cagr_5y": "red",
+     "volatility": "green"
+    },
+    "score": 41.3,
     "rank": 23
    },
    {
     "code": "119589",
     "name": "Sundaram Small Cap Fund Direct Plan",
     "metrics": {
-     "cagr_3y": 0.19255241620547414,
-     "cagr_5y": 0.17498714227609624,
-     "roll5_min": 0.19213656272264612,
-     "roll5_avg": 0.2729839114862404,
+     "cagr_3y": 0.1791109056170912,
+     "cagr_5y": 0.17214057440813102,
+     "roll5_min": 0.18249289796080914,
+     "roll5_avg": 0.2727085050544514,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.23197338111580482,
-     "sortino": 1.0767049812991343,
-     "max_drawdown": -0.41813150190066495,
+     "volatility": 0.23223254792876297,
+     "sortino": 1.0531856750370976,
+     "max_drawdown": -0.41073117350611943,
      "history_days": 2600
     },
     "status": "open",
@@ -2821,43 +2821,16 @@
     "rank": 24
    },
    {
-    "code": "130503",
-    "name": "HDFC Small Cap Fund",
-    "metrics": {
-     "cagr_3y": 0.13811656316501142,
-     "cagr_5y": 0.16014400137904028,
-     "roll5_min": 0.17655823634899237,
-     "roll5_avg": 0.2854081787948479,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.2238111440181036,
-     "sortino": 1.0320459672442197,
-     "max_drawdown": -0.44219438003871436,
-     "history_days": 2600
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "amber",
-     "roll5_min": "amber",
-     "roll5_pos_pct": "amber",
-     "sortino": "red",
-     "max_drawdown": "red",
-     "cagr_5y": "red",
-     "volatility": "amber"
-    },
-    "score": 35.6,
-    "rank": 25
-   },
-   {
     "code": "125497",
     "name": "SBI Small Cap Fund",
     "metrics": {
-     "cagr_3y": 0.13763039322251336,
-     "cagr_5y": 0.14752792387982017,
-     "roll5_min": 0.14877214986720788,
-     "roll5_avg": 0.25178222105565223,
+     "cagr_3y": 0.12680121653162568,
+     "cagr_5y": 0.14432900897830403,
+     "roll5_min": 0.1445158849941628,
+     "roll5_avg": 0.2505322580461578,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.19550790919020747,
-     "sortino": 1.268927061680236,
+     "volatility": 0.1957525042750884,
+     "sortino": 1.2420343604162676,
      "max_drawdown": -0.33849264181284444,
      "history_days": 2600
     },
@@ -2871,20 +2844,74 @@
      "cagr_5y": "red",
      "volatility": "green"
     },
-    "score": 34.9,
+    "score": 35.0,
+    "rank": 25
+   },
+   {
+    "code": "130503",
+    "name": "HDFC Small Cap Fund",
+    "metrics": {
+     "cagr_3y": 0.12587154009289403,
+     "cagr_5y": 0.15517330672332807,
+     "roll5_min": 0.1675804606078748,
+     "roll5_avg": 0.2848798911058005,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.223842348114821,
+     "sortino": 1.0120726258517152,
+     "max_drawdown": -0.43427609863439265,
+     "history_days": 2600
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "amber",
+     "sortino": "red",
+     "max_drawdown": "red",
+     "cagr_5y": "red",
+     "volatility": "amber"
+    },
+    "score": 34.8,
     "rank": 26
+   },
+   {
+    "code": "147919",
+    "name": "ITI Small Cap Fund",
+    "metrics": {
+     "cagr_3y": 0.2528597371717305,
+     "cagr_5y": 0.17133396387251754,
+     "roll5_min": 0.16901784076232684,
+     "roll5_avg": 0.24401762198662785,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.24091295115462755,
+     "sortino": 1.2324309141760503,
+     "max_drawdown": -0.39860349725901323,
+     "history_days": 2347
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "amber",
+     "sortino": "amber",
+     "max_drawdown": "red",
+     "cagr_5y": "amber",
+     "volatility": "red"
+    },
+    "score": 34.3,
+    "rank": 27
    },
    {
     "code": "120164",
     "name": "Kotak-Small Cap Fund",
     "metrics": {
-     "cagr_3y": 0.14060538519425436,
-     "cagr_5y": 0.14252886909494045,
-     "roll5_min": 0.1525815824234733,
-     "roll5_avg": 0.2799572974318921,
+     "cagr_3y": 0.13039606110903446,
+     "cagr_5y": 0.13642674435878743,
+     "roll5_min": 0.1449146540926307,
+     "roll5_avg": 0.27809708126308935,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.22437471347515664,
-     "sortino": 1.2151015571471757,
+     "volatility": 0.22454431069687433,
+     "sortino": 1.195659072503419,
      "max_drawdown": -0.3854521966752411,
      "history_days": 2600
     },
@@ -2898,48 +2925,21 @@
      "cagr_5y": "red",
      "volatility": "red"
     },
-    "score": 32.4,
-    "rank": 27
-   },
-   {
-    "code": "147919",
-    "name": "ITI Small Cap Fund",
-    "metrics": {
-     "cagr_3y": 0.26155539912401005,
-     "cagr_5y": 0.17300834467820825,
-     "roll5_min": 0.16901784076232684,
-     "roll5_avg": 0.24401762198662785,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.24073438284083987,
-     "sortino": 1.2520901743389854,
-     "max_drawdown": -0.39860349725901323,
-     "history_days": 2340
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "red",
-     "roll5_min": "red",
-     "roll5_pos_pct": "amber",
-     "sortino": "amber",
-     "max_drawdown": "red",
-     "cagr_5y": "amber",
-     "volatility": "red"
-    },
-    "score": 31.0,
+    "score": 31.3,
     "rank": 28
    },
    {
     "code": "119556",
     "name": "Aditya Birla Sun Life Small Cap Fund",
     "metrics": {
-     "cagr_3y": 0.16986370507937965,
-     "cagr_5y": 0.1344391424698661,
-     "roll5_min": 0.15215936411115116,
-     "roll5_avg": 0.2303884714493571,
+     "cagr_3y": 0.16217466739074626,
+     "cagr_5y": 0.13506413164957132,
+     "roll5_min": 0.1373222617773282,
+     "roll5_avg": 0.2297689586840897,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.23308985734229828,
-     "sortino": 0.8609806812972304,
-     "max_drawdown": -0.45478586566786183,
+     "volatility": 0.23316698287820034,
+     "sortino": 0.8532165112505652,
+     "max_drawdown": -0.43814508042471945,
      "history_days": 2600
     },
     "status": "open",
@@ -2952,7 +2952,7 @@
      "cagr_5y": "red",
      "volatility": "red"
     },
-    "score": 13.6,
+    "score": 12.9,
     "rank": 29
    }
   ],
@@ -2961,13 +2961,13 @@
     "code": "120401",
     "name": "Invesco India Arbitrage Fund",
     "metrics": {
-     "cagr_3y": 0.07620708274112631,
-     "cagr_5y": 0.06960875458869942,
-     "roll5_min": 0.06078883601916174,
-     "roll5_avg": 0.06445494972364199,
+     "cagr_3y": 0.07608025123849194,
+     "cagr_5y": 0.06941456108811717,
+     "roll5_min": 0.06123877398538302,
+     "roll5_avg": 0.06461076682976054,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.006974667078861016,
-     "sortino": -0.13808606203198068,
+     "volatility": 0.006967757068563045,
+     "sortino": -0.1219392407101482,
      "max_drawdown": -0.005223529969164198,
      "history_days": 2600
     },
@@ -2988,15 +2988,15 @@
     "code": "148401",
     "name": "Mirae Asset Arbitrage Fund Direct Growth",
     "metrics": {
-     "cagr_3y": 0.07545928673586277,
-     "cagr_5y": 0.06698356482774459,
+     "cagr_3y": 0.07542301067717383,
+     "cagr_5y": 0.0665624013995747,
      "roll5_min": 0.06163698869074197,
      "roll5_avg": 0.06443431630045551,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.006684983195536507,
-     "sortino": -0.526586306412535,
+     "volatility": 0.006686213039977406,
+     "sortino": -0.5142421496447405,
      "max_drawdown": -0.0027609879859711306,
-     "history_days": 2216
+     "history_days": 2223
     },
     "status": "open",
     "rag": {
@@ -3015,13 +3015,13 @@
     "code": "145724",
     "name": "Tata Arbitrage Fund-Direct Plan-Growth",
     "metrics": {
-     "cagr_3y": 0.07624380119440155,
-     "cagr_5y": 0.0678169175641663,
-     "roll5_min": 0.061277007413311324,
-     "roll5_avg": 0.06387119633368091,
+     "cagr_3y": 0.07620451637155412,
+     "cagr_5y": 0.06756082043165046,
+     "roll5_min": 0.061550242182126125,
+     "roll5_avg": 0.06403229119997313,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.007124516647214549,
-     "sortino": -0.08570800765003958,
+     "volatility": 0.007116201363020916,
+     "sortino": -0.07232889985019011,
      "max_drawdown": -0.00571818418477732,
      "history_days": 2600
     },
@@ -3047,10 +3047,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.004312465248455415,
-     "sortino": 1.636366431709819,
+     "volatility": 0.004285577055860665,
+     "sortino": 1.701689340174448,
      "max_drawdown": -0.0021668654359765505,
-     "history_days": 987
+     "history_days": 994
     },
     "status": "open",
     "rag": {
@@ -3074,10 +3074,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.005018900682094515,
-     "sortino": 2.573661498851422,
+     "volatility": 0.00501824640046723,
+     "sortino": 2.659398359332582,
      "max_drawdown": -0.002279851809632305,
-     "history_days": 675
+     "history_days": 682
     },
     "status": "open",
     "rag": {
@@ -3096,13 +3096,13 @@
     "code": "130206",
     "name": "Edelweiss Arbitrage Fund- Direct Plan- Growth Option",
     "metrics": {
-     "cagr_3y": 0.07578760573512033,
-     "cagr_5y": 0.06832812934027,
-     "roll5_min": 0.06075796419399371,
-     "roll5_avg": 0.06378421759581485,
+     "cagr_3y": 0.07579846619556307,
+     "cagr_5y": 0.06805374906994821,
+     "roll5_min": 0.061058108704480585,
+     "roll5_avg": 0.06393070749540951,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.007078286434952732,
-     "sortino": -0.1799585456766935,
+     "volatility": 0.007073472446889675,
+     "sortino": -0.16511784865130172,
      "max_drawdown": -0.005272865923207859,
      "history_days": 2600
     },
@@ -3128,10 +3128,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.005970645016927445,
-     "sortino": 1.7647507869511607,
+     "volatility": 0.005925595822997451,
+     "sortino": 1.895528610227104,
      "max_drawdown": -0.0021187264315980503,
-     "history_days": 567
+     "history_days": 574
     },
     "status": "open",
     "rag": {
@@ -3143,7 +3143,7 @@
      "cagr_5y": "amber",
      "volatility": "green"
     },
-    "score": 66.6,
+    "score": 66.8,
     "rank": 7
    },
    {
@@ -3155,10 +3155,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.0060363873848464904,
-     "sortino": 1.8965107415908569,
+     "volatility": 0.006031925304983363,
+     "sortino": 2.055022600638723,
      "max_drawdown": -0.0022515597258452313,
-     "history_days": 466
+     "history_days": 473
     },
     "status": "open",
     "rag": {
@@ -3177,15 +3177,15 @@
     "code": "151138",
     "name": "HSBC Arbitrage Fund",
     "metrics": {
-     "cagr_3y": 0.07377554621870552,
+     "cagr_3y": 0.0737482533577083,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.005086172673857422,
-     "sortino": 2.952753831905125,
+     "volatility": 0.005036089368505183,
+     "sortino": 3.065274523978875,
      "max_drawdown": -0.003147773043700952,
-     "history_days": 1327
+     "history_days": 1334
     },
     "status": "open",
     "rag": {
@@ -3209,10 +3209,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.004783992278695711,
-     "sortino": 1.5204611820969445,
+     "volatility": 0.004738958420923018,
+     "sortino": 1.6045455405748104,
      "max_drawdown": -0.0024132478988100337,
-     "history_days": 1033
+     "history_days": 1040
     },
     "status": "open",
     "rag": {
@@ -3231,13 +3231,13 @@
     "code": "119771",
     "name": "Kotak Arbitrage Fund",
     "metrics": {
-     "cagr_3y": 0.07624703594626658,
-     "cagr_5y": 0.0685841826490039,
-     "roll5_min": 0.05992144334395655,
-     "roll5_avg": 0.06380478606318188,
+     "cagr_3y": 0.07623760332685836,
+     "cagr_5y": 0.06837533450842814,
+     "roll5_min": 0.06039667059492082,
+     "roll5_avg": 0.06396989511464249,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.007270229968876202,
-     "sortino": -0.2551570432886162,
+     "volatility": 0.00726337805852956,
+     "sortino": -0.24053838948026407,
      "max_drawdown": -0.005683687207295174,
      "history_days": 2600
     },
@@ -3258,15 +3258,15 @@
     "code": "149550",
     "name": "Sundaram Arbitrage Fund (Formerly Known as Prinicpal Arbitrage Fund)",
     "metrics": {
-     "cagr_3y": 0.07378627556479023,
+     "cagr_3y": 0.07364377452657922,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.005984957430965525,
-     "sortino": 0.41807318911801694,
+     "volatility": 0.005983382828828033,
+     "sortino": 0.42224008606983243,
      "max_drawdown": -0.0019002847116467159,
-     "history_days": 1656
+     "history_days": 1663
     },
     "status": "open",
     "rag": {
@@ -3285,15 +3285,15 @@
     "code": "150251",
     "name": "BARODA BNP PARIBAS ARBITRAGE FUND-DIRECT PLAN-GROWTH OPTION",
     "metrics": {
-     "cagr_3y": 0.07446685319257118,
+     "cagr_3y": 0.0743285324984353,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.005960793526101377,
-     "sortino": 1.007444892814512,
+     "volatility": 0.005927032649104399,
+     "sortino": 1.0571242396924228,
      "max_drawdown": -0.0028890394835395794,
-     "history_days": 1586
+     "history_days": 1593
     },
     "status": "open",
     "rag": {
@@ -3305,22 +3305,22 @@
      "cagr_5y": "amber",
      "volatility": "green"
     },
-    "score": 60.2,
+    "score": 60.0,
     "rank": 13
    },
    {
     "code": "150367",
     "name": "NJ Arbitrage Fund",
     "metrics": {
-     "cagr_3y": 0.06982908047211844,
+     "cagr_3y": 0.06983025817164523,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.004978297449305239,
-     "sortino": 1.083474086998696,
+     "volatility": 0.0049537816353858,
+     "sortino": 1.134821935106673,
      "max_drawdown": -0.003440606910660393,
-     "history_days": 1445
+     "history_days": 1452
     },
     "status": "open",
     "rag": {
@@ -3344,10 +3344,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.00644175025016235,
-     "sortino": 1.266074746291542,
+     "volatility": 0.006380511907371334,
+     "sortino": 1.3662689742810943,
      "max_drawdown": -0.003267854867192166,
-     "history_days": 605
+     "history_days": 612
     },
     "status": "open",
     "rag": {
@@ -3366,13 +3366,13 @@
     "code": "118585",
     "name": "Nippon India Arbitrage Fund",
     "metrics": {
-     "cagr_3y": 0.0746820795702492,
-     "cagr_5y": 0.0671526008564336,
-     "roll5_min": 0.05934590596063227,
-     "roll5_avg": 0.0625856982843019,
+     "cagr_3y": 0.0745746230591513,
+     "cagr_5y": 0.06689555773861966,
+     "roll5_min": 0.05957744112005692,
+     "roll5_avg": 0.0627357461341859,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.006985561662882827,
-     "sortino": -0.40136886169534625,
+     "volatility": 0.0069807742666211136,
+     "sortino": -0.3927888829073946,
      "max_drawdown": -0.006214921548567176,
      "history_days": 2600
     },
@@ -3386,20 +3386,47 @@
      "cagr_5y": "green",
      "volatility": "amber"
     },
-    "score": 56.5,
+    "score": 55.9,
     "rank": 16
+   },
+   {
+    "code": "130773",
+    "name": "Axis Arbitrage Fund",
+    "metrics": {
+     "cagr_3y": 0.074842636698502,
+     "cagr_5y": 0.06726520370983047,
+     "roll5_min": 0.05937023533145558,
+     "roll5_avg": 0.06259832968598632,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.007038872340853525,
+     "sortino": -0.3880484110672713,
+     "max_drawdown": -0.006443220801628402,
+     "history_days": 2600
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "green",
+     "roll5_min": "green",
+     "roll5_pos_pct": "amber",
+     "sortino": "amber",
+     "max_drawdown": "red",
+     "cagr_5y": "green",
+     "volatility": "amber"
+    },
+    "score": 55.0,
+    "rank": 17
    },
    {
     "code": "119526",
     "name": "Aditya Birla Sun Life Arbitrage Fund",
     "metrics": {
-     "cagr_3y": 0.07578248867109871,
-     "cagr_5y": 0.06730191534759156,
-     "roll5_min": 0.058654727535168094,
-     "roll5_avg": 0.0623588487799316,
+     "cagr_3y": 0.07569024071586794,
+     "cagr_5y": 0.06705075056500354,
+     "roll5_min": 0.05891850705452062,
+     "roll5_avg": 0.06252119874040347,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.007151339031136163,
-     "sortino": -0.40432866179773547,
+     "volatility": 0.007147735104398415,
+     "sortino": -0.393595969397959,
      "max_drawdown": -0.005365827996996697,
      "history_days": 2600
     },
@@ -3414,33 +3441,6 @@
      "volatility": "amber"
     },
     "score": 54.7,
-    "rank": 17
-   },
-   {
-    "code": "130773",
-    "name": "Axis Arbitrage Fund",
-    "metrics": {
-     "cagr_3y": 0.07497688219073462,
-     "cagr_5y": 0.06753274413763655,
-     "roll5_min": 0.059011802981319805,
-     "roll5_avg": 0.06243546883228195,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.007046513642900387,
-     "sortino": -0.4024019326755084,
-     "max_drawdown": -0.006443220801628402,
-     "history_days": 2600
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "green",
-     "roll5_min": "green",
-     "roll5_pos_pct": "amber",
-     "sortino": "amber",
-     "max_drawdown": "red",
-     "cagr_5y": "green",
-     "volatility": "amber"
-    },
-    "score": 54.3,
     "rank": 18
    },
    {
@@ -3452,10 +3452,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.004460564734421867,
-     "sortino": -2.0940822212700043,
+     "volatility": 0.004357771611272676,
+     "sortino": -2.1829642447974247,
      "max_drawdown": -0.0029211295034079487,
-     "history_days": 595
+     "history_days": 602
     },
     "status": "open",
     "rag": {
@@ -3474,13 +3474,13 @@
     "code": "120795",
     "name": "UTI Arbitrage Fund",
     "metrics": {
-     "cagr_3y": 0.0748362146679109,
-     "cagr_5y": 0.06628312440058393,
-     "roll5_min": 0.05802410064711028,
-     "roll5_avg": 0.06175914894758001,
+     "cagr_3y": 0.07481225974721006,
+     "cagr_5y": 0.06607512143204497,
+     "roll5_min": 0.05850169025044605,
+     "roll5_avg": 0.061906934948408786,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.007023414894538912,
-     "sortino": -0.515616879656815,
+     "volatility": 0.007016158135837764,
+     "sortino": -0.5012031280794184,
      "max_drawdown": -0.0069613809973707585,
      "history_days": 2600
     },
@@ -3501,13 +3501,13 @@
     "code": "120364",
     "name": "ICICI Prudential Arbitrage Fund",
     "metrics": {
-     "cagr_3y": 0.0747411443756576,
-     "cagr_5y": 0.06653817505355142,
-     "roll5_min": 0.05781531080752522,
-     "roll5_avg": 0.061694308088938096,
+     "cagr_3y": 0.07474710761502701,
+     "cagr_5y": 0.06633899097012597,
+     "roll5_min": 0.05814744445892139,
+     "roll5_avg": 0.06184540362200204,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.007266664718252426,
-     "sortino": -0.52209807479885,
+     "volatility": 0.007262965164024669,
+     "sortino": -0.5088664708358104,
      "max_drawdown": -0.0060011907414374566,
      "history_days": 2600
     },
@@ -3528,13 +3528,13 @@
     "code": "118474",
     "name": "BANDHAN Arbitrage Fund-Direct Plan- Growth",
     "metrics": {
-     "cagr_3y": 0.07462111817389849,
-     "cagr_5y": 0.06666747614998259,
-     "roll5_min": 0.05762775848280777,
-     "roll5_avg": 0.06165306530861633,
+     "cagr_3y": 0.07462043545863684,
+     "cagr_5y": 0.06642212884447996,
+     "roll5_min": 0.05796670466854015,
+     "roll5_avg": 0.061828550033442016,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.0072773558915340255,
-     "sortino": -0.5650665393157466,
+     "volatility": 0.0072698093883842045,
+     "sortino": -0.5508135610392627,
      "max_drawdown": -0.007493761666556797,
      "history_days": 2600
     },
@@ -3555,13 +3555,13 @@
     "code": "142283",
     "name": "DSP Arbitrage Fund",
     "metrics": {
-     "cagr_3y": 0.07365610227462649,
-     "cagr_5y": 0.06556824119971316,
-     "roll5_min": 0.05694651444934018,
-     "roll5_avg": 0.06048973349697963,
+     "cagr_3y": 0.0736847246720751,
+     "cagr_5y": 0.06539803493155882,
+     "roll5_min": 0.05709975034166703,
+     "roll5_avg": 0.060658017959711895,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.007292808994272648,
-     "sortino": -0.6698795211233531,
+     "volatility": 0.0072872044318512946,
+     "sortino": -0.6572898714219976,
      "max_drawdown": -0.005981276005547764,
      "history_days": 2600
     },
@@ -3582,13 +3582,13 @@
     "code": "129052",
     "name": "HDFC ARBITRAGE FUND -Direct Plan",
     "metrics": {
-     "cagr_3y": 0.07446203649314787,
-     "cagr_5y": 0.0659037276057588,
-     "roll5_min": 0.05499861438883702,
-     "roll5_avg": 0.06052210227313736,
+     "cagr_3y": 0.07442210811094752,
+     "cagr_5y": 0.06559480484116631,
+     "roll5_min": 0.056710481109167876,
+     "roll5_avg": 0.060755279886635545,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.007229080321153043,
-     "sortino": -0.700132494123685,
+     "volatility": 0.007223770373938362,
+     "sortino": -0.6905496295107039,
      "max_drawdown": -0.00815677966101691,
      "history_days": 2600
     },
@@ -3609,13 +3609,13 @@
     "code": "146297",
     "name": "Union Arbitrage Fund",
     "metrics": {
-     "cagr_3y": 0.07322919904368685,
-     "cagr_5y": 0.06460631377108528,
-     "roll5_min": 0.05636759668218927,
-     "roll5_avg": 0.059583907606803974,
+     "cagr_3y": 0.07318454825611864,
+     "cagr_5y": 0.06431468080516178,
+     "roll5_min": 0.05679373809091892,
+     "roll5_avg": 0.059751430170633064,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.0073124465999302906,
-     "sortino": -0.7704631612577428,
+     "volatility": 0.0073088583922393474,
+     "sortino": -0.7624532494926897,
      "max_drawdown": -0.005907501692494543,
      "history_days": 2600
     },
@@ -3636,15 +3636,15 @@
     "code": "148468",
     "name": "Mahindra Manulife Arbitrage Fund",
     "metrics": {
-     "cagr_3y": 0.0654253004794696,
-     "cagr_5y": 0.05746527256455525,
+     "cagr_3y": 0.06558301931033839,
+     "cagr_5y": 0.05717726784542321,
      "roll5_min": 0.05299101586920041,
-     "roll5_avg": 0.05522154450001859,
+     "roll5_avg": 0.05539072477264081,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.005837779128025041,
-     "sortino": -1.6835793865449848,
+     "volatility": 0.005838406174668078,
+     "sortino": -1.6766267546086968,
      "max_drawdown": -0.0024605244685488303,
-     "history_days": 2152
+     "history_days": 2159
     },
     "status": "open",
     "rag": {
@@ -3663,13 +3663,13 @@
     "code": "138875",
     "name": "PGIM India Arbitrage Fund",
     "metrics": {
-     "cagr_3y": 0.07205973239084584,
-     "cagr_5y": 0.06392213401757241,
-     "roll5_min": 0.05490562361287066,
-     "roll5_avg": 0.058874236611405374,
+     "cagr_3y": 0.07204468292103128,
+     "cagr_5y": 0.06357552970673708,
+     "roll5_min": 0.05530536296385602,
+     "roll5_avg": 0.05908443063566148,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.006934316270440555,
-     "sortino": -0.9085183061776886,
+     "volatility": 0.006933653072533693,
+     "sortino": -0.8977603907275312,
      "max_drawdown": -0.0071310536817492665,
      "history_days": 2600
     },
@@ -3690,13 +3690,13 @@
     "code": "145895",
     "name": "LIC MF Arbitrage Fund-Direct Plan-Growth",
     "metrics": {
-     "cagr_3y": 0.07255367611936214,
-     "cagr_5y": 0.06497358331771408,
-     "roll5_min": 0.054856020197428634,
-     "roll5_avg": 0.05882797137477439,
+     "cagr_3y": 0.0724301868638193,
+     "cagr_5y": 0.06471197808551321,
+     "roll5_min": 0.055219951897830466,
+     "roll5_avg": 0.05902748980592062,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.007223427676538095,
-     "sortino": -0.8613378584738116,
+     "volatility": 0.007221438400496984,
+     "sortino": -0.8495192640956075,
      "max_drawdown": -0.006512957212344461,
      "history_days": 2600
     },
@@ -3717,13 +3717,13 @@
     "code": "120482",
     "name": "JM Arbitrage Fund (Direct)",
     "metrics": {
-     "cagr_3y": 0.07129074291285953,
-     "cagr_5y": 0.06284381900804759,
-     "roll5_min": 0.049432570747105053,
-     "roll5_avg": 0.05529059594691911,
+     "cagr_3y": 0.07135147887767301,
+     "cagr_5y": 0.06255535069343465,
+     "roll5_min": 0.04970580739745478,
+     "roll5_avg": 0.055517410822185025,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.007388222934817336,
-     "sortino": -1.3742081150910659,
+     "volatility": 0.007389831262643187,
+     "sortino": -1.368359357172582,
      "max_drawdown": -0.005362895513544186,
      "history_days": 2600
     },
@@ -3737,22 +3737,22 @@
      "cagr_5y": "red",
      "volatility": "red"
     },
-    "score": 22.1,
+    "score": 22.9,
     "rank": 29
    },
    {
     "code": "147617",
     "name": "ITI Arbitrage Fund",
     "metrics": {
-     "cagr_3y": 0.07433449552640448,
-     "cagr_5y": 0.06089344743109959,
+     "cagr_3y": 0.0740007683339059,
+     "cagr_5y": 0.06067288259728243,
      "roll5_min": 0.049485192092849184,
      "roll5_avg": 0.054838416906001705,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.00805208157830203,
-     "sortino": -1.2470919771227602,
+     "volatility": 0.00805348073394343,
+     "sortino": -1.2428793971384835,
      "max_drawdown": -0.005781408614105588,
-     "history_days": 2500
+     "history_days": 2507
     },
     "status": "open",
     "rag": {
@@ -3764,20 +3764,20 @@
      "cagr_5y": "red",
      "volatility": "red"
     },
-    "score": 18.7,
+    "score": 18.0,
     "rank": 30
    },
    {
     "code": "143614",
     "name": "BANK OF INDIA Arbitrage Fund Direct Plan Growth",
     "metrics": {
-     "cagr_3y": 0.06895648019063394,
-     "cagr_5y": 0.0575437580827427,
-     "roll5_min": 0.046623239033186215,
-     "roll5_avg": 0.05140553596932193,
+     "cagr_3y": 0.06883800862659295,
+     "cagr_5y": 0.05734091742764513,
+     "roll5_min": 0.04712107617135364,
+     "roll5_avg": 0.05159029898084112,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.007147067956083241,
-     "sortino": -1.6177635559863421,
+     "volatility": 0.007146226583119752,
+     "sortino": -1.6112073913909877,
      "max_drawdown": -0.00587764066283214,
      "history_days": 2600
     },
@@ -3800,13 +3800,13 @@
     "code": "118482",
     "name": "BANDHAN Nifty 50 Index Fund-Direct Plan-Growth",
     "metrics": {
-     "cagr_3y": 0.08266745941297149,
-     "cagr_5y": 0.09942378216468883,
-     "roll5_min": 0.09801981199490784,
-     "roll5_avg": 0.16507121177247924,
+     "cagr_3y": 0.07561574190679887,
+     "cagr_5y": 0.09527436769071018,
+     "roll5_min": 0.09667357708662694,
+     "roll5_avg": 0.16406740699952838,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.1735839392083312,
-     "sortino": 0.5863681252124404,
+     "volatility": 0.17361380093611,
+     "sortino": 0.5562785852626655,
      "max_drawdown": -0.3757653733471811,
      "history_days": 2600
     },
@@ -3820,49 +3820,22 @@
      "cagr_5y": "green",
      "volatility": "red"
     },
-    "score": 69.3,
+    "score": 71.3,
     "rank": 1
-   },
-   {
-    "code": "148721",
-    "name": "Nippon India Nifty 50 Value 20 Index Fund",
-    "metrics": {
-     "cagr_3y": 0.07285725804228793,
-     "cagr_5y": 0.10020648626335338,
-     "roll5_min": 0.10117023785491464,
-     "roll5_avg": 0.12220389442642529,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.13681359100695878,
-     "sortino": 0.7431941317234658,
-     "max_drawdown": -0.1917517026842317,
-     "history_days": 1970
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "red",
-     "roll5_min": "green",
-     "roll5_pos_pct": "amber",
-     "sortino": "green",
-     "max_drawdown": "amber",
-     "cagr_5y": "green",
-     "volatility": "amber"
-    },
-    "score": 66.5,
-    "rank": 2
    },
    {
     "code": "151471",
     "name": "NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND",
     "metrics": {
-     "cagr_3y": 0.08189799625521088,
+     "cagr_3y": 0.07485139690697662,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.13242628230321943,
-     "sortino": 0.662244571962098,
+     "volatility": 0.1324693817830998,
+     "sortino": 0.5785703265315335,
      "max_drawdown": -0.1548136130202611,
-     "history_days": 1214
+     "history_days": 1221
     },
     "status": "open",
     "rag": {
@@ -3875,21 +3848,21 @@
      "volatility": "green"
     },
     "score": 66.3,
-    "rank": 3
+    "rank": 2
    },
    {
     "code": "147794",
     "name": "Motilal Oswal Nifty 50 Index Fund",
     "metrics": {
-     "cagr_3y": 0.08305476928117916,
-     "cagr_5y": 0.09918979825772589,
-     "roll5_min": 0.10046566837390247,
-     "roll5_avg": 0.1624599561969112,
+     "cagr_3y": 0.07599943210498727,
+     "cagr_5y": 0.0950455924052529,
+     "roll5_min": 0.09918979825772589,
+     "roll5_avg": 0.15929644829995193,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.17705766384201807,
-     "sortino": 0.6059936464007909,
+     "volatility": 0.17709418650450404,
+     "sortino": 0.5741300009440256,
      "max_drawdown": -0.3727838860582223,
-     "history_days": 2395
+     "history_days": 2402
     },
     "status": "open",
     "rag": {
@@ -3901,22 +3874,22 @@
      "cagr_5y": "green",
      "volatility": "red"
     },
-    "score": 61.0,
-    "rank": 4
+    "score": 59.9,
+    "rank": 3
    },
    {
     "code": "151165",
     "name": "360 ONE ELSS Tax Saver Nifty 50 Index Fund",
     "metrics": {
-     "cagr_3y": 0.08158072776336223,
+     "cagr_3y": 0.0745355374416552,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.12954402938105178,
-     "sortino": 0.5406072584785326,
+     "volatility": 0.1295427219458403,
+     "sortino": 0.46056205243460147,
      "max_drawdown": -0.1538787621873675,
-     "history_days": 1292
+     "history_days": 1299
     },
     "status": "open",
     "rag": {
@@ -3929,19 +3902,19 @@
      "volatility": "green"
     },
     "score": 58.2,
-    "rank": 5
+    "rank": 4
    },
    {
     "code": "118741",
     "name": "Nippon India Index Fund",
     "metrics": {
-     "cagr_3y": 0.08284091622735512,
-     "cagr_5y": 0.09896314221534208,
-     "roll5_min": 0.09761019802638726,
-     "roll5_avg": 0.16382407211028044,
+     "cagr_3y": 0.07579351994627626,
+     "cagr_5y": 0.09481200794713707,
+     "roll5_min": 0.09626730705125652,
+     "roll5_avg": 0.162781188776699,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.17405527290244924,
-     "sortino": 0.5680596763604253,
+     "volatility": 0.1740838298577537,
+     "sortino": 0.5383556555188612,
      "max_drawdown": -0.38169377046740094,
      "history_days": 2600
     },
@@ -3952,23 +3925,23 @@
      "roll5_pos_pct": "amber",
      "sortino": "green",
      "max_drawdown": "red",
-     "cagr_5y": "amber",
+     "cagr_5y": "green",
      "volatility": "red"
     },
-    "score": 56.5,
-    "rank": 6
+    "score": 57.5,
+    "rank": 5
    },
    {
     "code": "120716",
     "name": "UTI Nifty 50 Index Fund",
     "metrics": {
-     "cagr_3y": 0.08252883696701785,
-     "cagr_5y": 0.09891721771348805,
-     "roll5_min": 0.09756224508570144,
-     "roll5_avg": 0.16431119501084418,
+     "cagr_3y": 0.07547057314069416,
+     "cagr_5y": 0.09475889501438828,
+     "roll5_min": 0.09620645571450082,
+     "roll5_avg": 0.1632636188109045,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.17540774505759588,
-     "sortino": 0.5683684244764073,
+     "volatility": 0.1754364340208061,
+     "sortino": 0.5388358299287357,
      "max_drawdown": -0.38417918945898355,
      "history_days": 2600
     },
@@ -3982,47 +3955,20 @@
      "cagr_5y": "amber",
      "volatility": "red"
     },
-    "score": 55.4,
-    "rank": 7
-   },
-   {
-    "code": "151157",
-    "name": "HSBC NIFTY 50 INDEX FUND",
-    "metrics": {
-     "cagr_3y": 0.08235374735445533,
-     "cagr_5y": null,
-     "roll5_min": null,
-     "roll5_avg": null,
-     "roll5_pos_pct": null,
-     "volatility": 0.13018835297391976,
-     "sortino": 0.29412222601443083,
-     "max_drawdown": -0.155103232643366,
-     "history_days": 1327
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "amber",
-     "roll5_min": "amber",
-     "roll5_pos_pct": "amber",
-     "sortino": "red",
-     "max_drawdown": "green",
-     "cagr_5y": "amber",
-     "volatility": "green"
-    },
-    "score": 52.6,
-    "rank": 8
+    "score": 55.1,
+    "rank": 6
    },
    {
     "code": "146376",
     "name": "DSP Nifty 50 Index Fund",
     "metrics": {
-     "cagr_3y": 0.08270662156603059,
-     "cagr_5y": 0.09888273971592887,
-     "roll5_min": 0.09756145612170775,
-     "roll5_avg": 0.16342505887517675,
+     "cagr_3y": 0.0756542911660738,
+     "cagr_5y": 0.09472602339639247,
+     "roll5_min": 0.09621054862036682,
+     "roll5_avg": 0.16239291783358054,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.17399361537982663,
-     "sortino": 0.5626140167927682,
+     "volatility": 0.17402045426535842,
+     "sortino": 0.5329100187811362,
      "max_drawdown": -0.3778105482303956,
      "history_days": 2600
     },
@@ -4036,22 +3982,76 @@
      "cagr_5y": "amber",
      "volatility": "red"
     },
-    "score": 51.2,
+    "score": 53.4,
+    "rank": 7
+   },
+   {
+    "code": "149039",
+    "name": "Navi Nifty 50 Index Fund-Direct Plan-Growth",
+    "metrics": {
+     "cagr_3y": 0.07586293355279405,
+     "cagr_5y": 0.09526950502648068,
+     "roll5_min": 0.09704143134148269,
+     "roll5_avg": 0.09704143134148269,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.13566676381918383,
+     "sortino": 0.4535869684906312,
+     "max_drawdown": -0.1659221771798911,
+     "history_days": 1834
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "green",
+     "roll5_pos_pct": "amber",
+     "sortino": "amber",
+     "max_drawdown": "amber",
+     "cagr_5y": "green",
+     "volatility": "green"
+    },
+    "score": 53.0,
+    "rank": 8
+   },
+   {
+    "code": "151157",
+    "name": "HSBC NIFTY 50 INDEX FUND",
+    "metrics": {
+     "cagr_3y": 0.07565960808003025,
+     "cagr_5y": null,
+     "roll5_min": null,
+     "roll5_avg": null,
+     "roll5_pos_pct": null,
+     "volatility": 0.13009089522921943,
+     "sortino": 0.2209115206550553,
+     "max_drawdown": -0.155103232643366,
+     "history_days": 1334
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "amber",
+     "sortino": "red",
+     "max_drawdown": "green",
+     "cagr_5y": "amber",
+     "volatility": "green"
+    },
+    "score": 52.6,
     "rank": 9
    },
    {
     "code": "149373",
     "name": "Axis Nifty 50 Index Fund",
     "metrics": {
-     "cagr_3y": 0.08283453154708909,
+     "cagr_3y": 0.07576104117115268,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.13392223185505317,
-     "sortino": 0.3441070759431554,
+     "volatility": 0.13386706944472931,
+     "sortino": 0.2848737798226687,
      "max_drawdown": -0.15815687640639864,
-     "history_days": 1682
+     "history_days": 1689
     },
     "status": "open",
     "rag": {
@@ -4075,10 +4075,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.14279027750170392,
-     "sortino": -0.38250124348952486,
+     "volatility": 0.14203914715733915,
+     "sortino": -0.5001242105190948,
      "max_drawdown": -0.15078077004190404,
-     "history_days": 630
+     "history_days": 637
     },
     "status": "open",
     "rag": {
@@ -4094,6 +4094,60 @@
     "rank": 11
    },
    {
+    "code": "119648",
+    "name": "Aditya Birla Sun Life Nifty 50 Index Fund",
+    "metrics": {
+     "cagr_3y": 0.07542773205301545,
+     "cagr_5y": 0.09411955355734913,
+     "roll5_min": 0.09554337335013563,
+     "roll5_avg": 0.16164560319319266,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.1733558569120687,
+     "sortino": 0.5320012588583743,
+     "max_drawdown": -0.37621319497864125,
+     "history_days": 2600
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "amber",
+     "sortino": "amber",
+     "max_drawdown": "red",
+     "cagr_5y": "amber",
+     "volatility": "amber"
+    },
+    "score": 48.8,
+    "rank": 12
+   },
+   {
+    "code": "152329",
+    "name": "Baroda BNP Paribas Nifty 50 Index Fund",
+    "metrics": {
+     "cagr_3y": null,
+     "cagr_5y": null,
+     "roll5_min": null,
+     "roll5_avg": null,
+     "roll5_pos_pct": null,
+     "volatility": 0.13543585399552707,
+     "sortino": -0.08570964682513064,
+     "max_drawdown": -0.1552369999178509,
+     "history_days": 906
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "amber",
+     "roll5_pos_pct": "amber",
+     "sortino": "red",
+     "max_drawdown": "green",
+     "cagr_5y": "amber",
+     "volatility": "green"
+    },
+    "score": 48.1,
+    "rank": 13
+   },
+   {
     "code": "153506",
     "name": "Bajaj Finserv Nifty 50 Index Fund",
     "metrics": {
@@ -4102,10 +4156,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.14922972314523272,
-     "sortino": -0.5093326088210158,
+     "volatility": 0.1478977243171068,
+     "sortino": -0.6719588269857701,
      "max_drawdown": -0.14915893461924556,
-     "history_days": 424
+     "history_days": 431
     },
     "status": "open",
     "rag": {
@@ -4118,48 +4172,21 @@
      "volatility": "amber"
     },
     "score": 48.0,
-    "rank": 12
-   },
-   {
-    "code": "152329",
-    "name": "Baroda BNP Paribas Nifty 50 Index Fund",
-    "metrics": {
-     "cagr_3y": null,
-     "cagr_5y": null,
-     "roll5_min": null,
-     "roll5_avg": null,
-     "roll5_pos_pct": null,
-     "volatility": 0.1357221098521812,
-     "sortino": 0.008573386510939574,
-     "max_drawdown": -0.1552369999178509,
-     "history_days": 899
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "amber",
-     "roll5_min": "amber",
-     "roll5_pos_pct": "amber",
-     "sortino": "red",
-     "max_drawdown": "green",
-     "cagr_5y": "amber",
-     "volatility": "green"
-    },
-    "score": 47.7,
-    "rank": 13
+    "rank": 14
    },
    {
     "code": "149250",
     "name": "Edelweiss Nifty 50 Index Fund Direct Plan Growth",
     "metrics": {
-     "cagr_3y": 0.08267491513618097,
+     "cagr_3y": 0.07563872856247933,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.13365692235716944,
-     "sortino": 0.25266459072867986,
+     "volatility": 0.1335730846785979,
+     "sortino": 0.19660103161519057,
      "max_drawdown": -0.16600805604871816,
-     "history_days": 1744
+     "history_days": 1751
     },
     "status": "open",
     "rag": {
@@ -4172,7 +4199,7 @@
      "volatility": "green"
     },
     "score": 47.3,
-    "rank": 14
+    "rank": 15
    },
    {
     "code": "153529",
@@ -4183,10 +4210,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.15147205864037394,
-     "sortino": -0.47880759589059724,
+     "volatility": 0.1501726053819608,
+     "sortino": -0.6396756083798624,
      "max_drawdown": -0.15138151297953728,
-     "history_days": 415
+     "history_days": 422
     },
     "status": "open",
     "rag": {
@@ -4199,127 +4226,127 @@
      "volatility": "amber"
     },
     "score": 47.1,
-    "rank": 15
-   },
-   {
-    "code": "119648",
-    "name": "Aditya Birla Sun Life Nifty 50 Index Fund",
-    "metrics": {
-     "cagr_3y": 0.08248498836584339,
-     "cagr_5y": 0.09827420199384074,
-     "roll5_min": 0.09691176129062828,
-     "roll5_avg": 0.16269758237744178,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.17332784595589887,
-     "sortino": 0.5619340112690872,
-     "max_drawdown": -0.37621319497864125,
-     "history_days": 2600
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "amber",
-     "roll5_min": "red",
-     "roll5_pos_pct": "amber",
-     "sortino": "amber",
-     "max_drawdown": "red",
-     "cagr_5y": "amber",
-     "volatility": "amber"
-    },
-    "score": 45.3,
     "rank": 16
    },
    {
-    "code": "149039",
-    "name": "Navi Nifty 50 Index Fund-Direct Plan-Growth",
+    "code": "148721",
+    "name": "Nippon India Nifty 50 Value 20 Index Fund",
     "metrics": {
-     "cagr_3y": 0.08291597857676791,
-     "cagr_5y": 0.09943937705113548,
-     "roll5_min": 0.09704143134148269,
-     "roll5_avg": 0.09704143134148269,
+     "cagr_3y": 0.07113024705587168,
+     "cagr_5y": 0.0932986934418003,
+     "roll5_min": 0.09344692163046942,
+     "roll5_avg": 0.11741106562709931,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.13567833000722754,
-     "sortino": 0.5095689897947447,
-     "max_drawdown": -0.1659221771798911,
-     "history_days": 1827
+     "volatility": 0.1368509475286398,
+     "sortino": 0.6735266855872781,
+     "max_drawdown": -0.1917517026842317,
+     "history_days": 1977
     },
     "status": "open",
     "rag": {
      "roll5_avg": "red",
-     "roll5_min": "amber",
+     "roll5_min": "red",
      "roll5_pos_pct": "amber",
-     "sortino": "amber",
-     "max_drawdown": "amber",
-     "cagr_5y": "green",
-     "volatility": "green"
-    },
-    "score": 44.2,
-    "rank": 17
-   },
-   {
-    "code": "148978",
-    "name": "Kotak Nifty 50 Index Fund",
-    "metrics": {
-     "cagr_3y": 0.08190943969213249,
-     "cagr_5y": 0.09813936807477663,
-     "roll5_min": 0.09713402210675182,
-     "roll5_avg": 0.09713402210675182,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.134132923456408,
-     "sortino": 0.48746115456287625,
-     "max_drawdown": -0.1645084341455102,
-     "history_days": 1849
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "red",
-     "roll5_min": "amber",
-     "roll5_pos_pct": "amber",
-     "sortino": "amber",
+     "sortino": "green",
      "max_drawdown": "amber",
      "cagr_5y": "red",
-     "volatility": "green"
+     "volatility": "amber"
     },
-    "score": 40.2,
-    "rank": 18
+    "score": 45.0,
+    "rank": 17
    },
    {
     "code": "118581",
     "name": "Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND- Direct",
     "metrics": {
-     "cagr_3y": 0.08220274586838139,
-     "cagr_5y": 0.09805837955226693,
-     "roll5_min": 0.09668397238094584,
-     "roll5_avg": 0.1621172461118809,
+     "cagr_3y": 0.07568948551149401,
+     "cagr_5y": 0.0938979956165289,
+     "roll5_min": 0.09532112869271869,
+     "roll5_avg": 0.1611023141833714,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.17315751517590625,
-     "sortino": 0.5544167232927468,
+     "volatility": 0.17318479689703922,
+     "sortino": 0.524579239656034,
      "max_drawdown": -0.37604393830863814,
      "history_days": 2600
     },
     "status": "open",
     "rag": {
      "roll5_avg": "amber",
-     "roll5_min": "red",
+     "roll5_min": "amber",
      "roll5_pos_pct": "amber",
      "sortino": "amber",
      "max_drawdown": "red",
      "cagr_5y": "red",
      "volatility": "amber"
     },
-    "score": 38.9,
+    "score": 44.0,
+    "rank": 18
+   },
+   {
+    "code": "148978",
+    "name": "Kotak Nifty 50 Index Fund",
+    "metrics": {
+     "cagr_3y": 0.07487927750433121,
+     "cagr_5y": 0.09395428017991625,
+     "roll5_min": 0.09395428017991625,
+     "roll5_avg": 0.09554415114333403,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.13410795659387187,
+     "sortino": 0.43197121681312023,
+     "max_drawdown": -0.1645084341455102,
+     "history_days": 1856
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "red",
+     "roll5_min": "red",
+     "roll5_pos_pct": "amber",
+     "sortino": "amber",
+     "max_drawdown": "amber",
+     "cagr_5y": "amber",
+     "volatility": "green"
+    },
+    "score": 35.8,
     "rank": 19
+   },
+   {
+    "code": "120307",
+    "name": "LIC MF Nifty 50 Index Fund-Direct Plan-Growth",
+    "metrics": {
+     "cagr_3y": 0.0732900727499548,
+     "cagr_5y": 0.0932717859094434,
+     "roll5_min": 0.09481426154269745,
+     "roll5_avg": 0.1610784791724014,
+     "roll5_pos_pct": 1.0,
+     "volatility": 0.1748193070192349,
+     "sortino": 0.5200203930097143,
+     "max_drawdown": -0.3811456796132302,
+     "history_days": 2600
+    },
+    "status": "open",
+    "rag": {
+     "roll5_avg": "amber",
+     "roll5_min": "red",
+     "roll5_pos_pct": "amber",
+     "sortino": "amber",
+     "max_drawdown": "red",
+     "cagr_5y": "red",
+     "volatility": "red"
+    },
+    "score": 34.1,
+    "rank": 20
    },
    {
     "code": "118881",
     "name": "Taurus Nifty 50 Index Fund",
     "metrics": {
-     "cagr_3y": 0.07397534586520438,
-     "cagr_5y": 0.09019824148414624,
-     "roll5_min": 0.0892504465602213,
-     "roll5_avg": 0.1590967034898441,
+     "cagr_3y": 0.06706912225734407,
+     "cagr_5y": 0.08589476614971026,
+     "roll5_min": 0.08747542774332828,
+     "roll5_avg": 0.15807978951732662,
      "roll5_pos_pct": 1.0,
-     "volatility": 0.17047505521295722,
-     "sortino": 0.5478210872855229,
+     "volatility": 0.17050712892341263,
+     "sortino": 0.5174323787153435,
      "max_drawdown": -0.36997678638910003,
      "history_days": 2600
     },
@@ -4334,33 +4361,6 @@
      "volatility": "amber"
     },
     "score": 31.6,
-    "rank": 20
-   },
-   {
-    "code": "120307",
-    "name": "LIC MF Nifty 50 Index Fund-Direct Plan-Growth",
-    "metrics": {
-     "cagr_3y": 0.08035057218685271,
-     "cagr_5y": 0.09743674563164162,
-     "roll5_min": 0.09610805959817004,
-     "roll5_avg": 0.1621057964031278,
-     "roll5_pos_pct": 1.0,
-     "volatility": 0.1747886268305506,
-     "sortino": 0.5496269049232437,
-     "max_drawdown": -0.3811456796132302,
-     "history_days": 2600
-    },
-    "status": "open",
-    "rag": {
-     "roll5_avg": "amber",
-     "roll5_min": "red",
-     "roll5_pos_pct": "amber",
-     "sortino": "amber",
-     "max_drawdown": "red",
-     "cagr_5y": "red",
-     "volatility": "red"
-    },
-    "score": 29.9,
     "rank": 21
    }
   ],
@@ -4374,10 +4374,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.1369983291526103,
-     "sortino": -0.14774376046043042,
+     "volatility": 0.13729088484618507,
+     "sortino": -0.12995620332351293,
      "max_drawdown": -0.12233085095118768,
-     "history_days": 435
+     "history_days": 442
     },
     "status": "open",
     "rag": {
@@ -4389,7 +4389,7 @@
      "cagr_5y": "amber",
      "volatility": "green"
     },
-    "score": 64.8,
+    "score": 66.6,
     "rank": 1
    },
    {
@@ -4401,10 +4401,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.1709077315583999,
-     "sortino": -0.14178556077011797,
+     "volatility": 0.17069702979160323,
+     "sortino": -0.2338082869148128,
      "max_drawdown": -0.14745762711864407,
-     "history_days": 571
+     "history_days": 578
     },
     "status": "open",
     "rag": {
@@ -4416,7 +4416,7 @@
      "cagr_5y": "amber",
      "volatility": "green"
     },
-    "score": 63.1,
+    "score": 61.3,
     "rank": 2
    },
    {
@@ -4428,10 +4428,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.19379422651938602,
-     "sortino": 0.1897394464219477,
+     "volatility": 0.19407179577978767,
+     "sortino": 0.1664626886180395,
      "max_drawdown": -0.1825149793790365,
-     "history_days": 625
+     "history_days": 632
     },
     "status": "open",
     "rag": {
@@ -4455,10 +4455,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.16489224535288902,
-     "sortino": -0.2394914059881341,
+     "volatility": 0.16463074586327492,
+     "sortino": -0.3247665069011512,
      "max_drawdown": -0.16098577734183417,
-     "history_days": 651
+     "history_days": 658
     },
     "status": "open",
     "rag": {
@@ -4477,15 +4477,15 @@
     "code": "151739",
     "name": "UTI Nifty 500 Value 50 Index Fund",
     "metrics": {
-     "cagr_3y": 0.2678483315217046,
+     "cagr_3y": 0.2555257472190986,
      "cagr_5y": null,
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.20461987369733448,
-     "sortino": 2.2139759314200336,
+     "volatility": 0.20488498459799467,
+     "sortino": 2.191429122469725,
      "max_drawdown": -0.22630602608304595,
-     "history_days": 1162
+     "history_days": 1169
     },
     "status": "open",
     "rag": {
@@ -4509,10 +4509,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.19375901161356768,
-     "sortino": -0.29959464035719546,
+     "volatility": 0.19320818804105622,
+     "sortino": -0.399123250943428,
      "max_drawdown": -0.16767359540095284,
-     "history_days": 435
+     "history_days": 442
     },
     "status": "open",
     "rag": {
@@ -4536,10 +4536,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.16204226266817967,
-     "sortino": -0.3891384752787022,
+     "volatility": 0.16171511774768146,
+     "sortino": -0.46073082951936356,
      "max_drawdown": -0.18573381735891747,
-     "history_days": 731
+     "history_days": 738
     },
     "status": "open",
     "rag": {
@@ -4563,10 +4563,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.21552468830460803,
-     "sortino": -0.3624120094990808,
+     "volatility": 0.21527359242607558,
+     "sortino": -0.41971250410852945,
      "max_drawdown": -0.2390336622742225,
-     "history_days": 674
+     "history_days": 681
     },
     "status": "open",
     "rag": {
@@ -4590,10 +4590,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.22345172358360837,
-     "sortino": -0.6010807439527289,
+     "volatility": 0.2239012225217077,
+     "sortino": -0.6260565256462752,
      "max_drawdown": -0.29222361292911536,
-     "history_days": 625
+     "history_days": 632
     },
     "status": "open",
     "rag": {
@@ -4617,10 +4617,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.223381340670852,
-     "sortino": -0.5782755881294515,
+     "volatility": 0.22383614525674073,
+     "sortino": -0.6035701214507836,
      "max_drawdown": -0.3167334629578191,
-     "history_days": 654
+     "history_days": 661
     },
     "status": "open",
     "rag": {
@@ -4644,10 +4644,10 @@
      "roll5_min": null,
      "roll5_avg": null,
      "roll5_pos_pct": null,
-     "volatility": 0.22456551485388637,
-     "sortino": -0.7715427102820619,
+     "volatility": 0.22491853349112645,
+     "sortino": -0.7933295079827701,
      "max_drawdown": -0.3161953727506426,
-     "history_days": 655
+     "history_days": 662
     },
     "status": "open",
     "rag": {
