@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-27 18:14 UTC",
+ "generated": "2026-07-27 18:22 UTC",
  "engine": "rankings.py v3 (conviction+capture+regimes)",
  "universe_entries_scanned": 37693,
  "status_checked": "2026-07-19",
@@ -110,6 +110,7 @@
      "volatility": "green"
     },
     "conviction": 74.9,
+    "score": 74.9,
     "heat": 68.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall.",
     "rank": 1
@@ -269,6 +270,7 @@
      "volatility": "green"
     },
     "conviction": 74.7,
+    "score": 74.7,
     "heat": 17.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall.",
     "rank": 2
@@ -384,6 +386,7 @@
      "volatility": "green"
     },
     "conviction": 70.5,
+    "score": 70.5,
     "heat": 35.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall.",
     "rank": 3
@@ -475,6 +478,7 @@
      "volatility": "green"
     },
     "conviction": 70.2,
+    "score": 70.2,
     "heat": 83.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 4
@@ -562,6 +566,7 @@
      "volatility": "green"
     },
     "conviction": 69.2,
+    "score": 69.2,
     "heat": 80.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 5
@@ -705,6 +710,7 @@
      "volatility": "amber"
     },
     "conviction": 67.0,
+    "score": 67.0,
     "heat": 95.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 6
@@ -804,6 +810,7 @@
      "volatility": "green"
     },
     "conviction": 64.5,
+    "score": 64.5,
     "heat": 65.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 7
@@ -963,6 +970,7 @@
      "volatility": "red"
     },
     "conviction": 62.9,
+    "score": 62.9,
     "heat": 59.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 8
@@ -1062,6 +1070,7 @@
      "volatility": "amber"
     },
     "conviction": 62.5,
+    "score": 62.5,
     "heat": 89.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 9
@@ -1145,6 +1154,7 @@
      "volatility": "green"
     },
     "conviction": 61.1,
+    "score": 61.1,
     "heat": 74.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 10
@@ -1208,6 +1218,7 @@
      "volatility": "green"
     },
     "conviction": 55.5,
+    "score": 55.5,
     "heat": 53.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 11
@@ -1331,6 +1342,7 @@
      "volatility": "green"
     },
     "conviction": 55.1,
+    "score": 55.1,
     "heat": 20.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 12
@@ -1490,6 +1502,7 @@
      "volatility": "red"
     },
     "conviction": 54.4,
+    "score": 54.4,
     "heat": 98.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 13
@@ -1649,6 +1662,7 @@
      "volatility": "amber"
     },
     "conviction": 53.4,
+    "score": 53.4,
     "heat": 62.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 14
@@ -1808,6 +1822,7 @@
      "volatility": "red"
     },
     "conviction": 53.3,
+    "score": 53.3,
     "heat": 5.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 15
@@ -1967,6 +1982,7 @@
      "volatility": "amber"
     },
     "conviction": 52.1,
+    "score": 52.1,
     "heat": 44.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 16
@@ -2074,6 +2090,7 @@
      "volatility": "green"
     },
     "conviction": 52.0,
+    "score": 52.0,
     "heat": 50.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 17
@@ -2233,6 +2250,7 @@
      "volatility": "red"
     },
     "conviction": 50.5,
+    "score": 50.5,
     "heat": 86.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall. Running hot on recent gains \u2014 be cautious.",
     "rank": 18
@@ -2356,6 +2374,7 @@
      "volatility": "green"
     },
     "conviction": 47.2,
+    "score": 47.2,
     "heat": 29.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 19
@@ -2515,6 +2534,7 @@
      "volatility": "green"
     },
     "conviction": 46.9,
+    "score": 46.9,
     "heat": 14.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 20
@@ -2674,6 +2694,7 @@
      "volatility": "red"
     },
     "conviction": 46.7,
+    "score": 46.7,
     "heat": 11.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 21
@@ -2833,6 +2854,7 @@
      "volatility": "red"
     },
     "conviction": 45.2,
+    "score": 45.2,
     "heat": 32.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 22
@@ -2992,6 +3014,7 @@
      "volatility": "red"
     },
     "conviction": 44.7,
+    "score": 44.7,
     "heat": 41.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 23
@@ -3083,6 +3106,7 @@
      "volatility": "amber"
     },
     "conviction": 44.3,
+    "score": 44.3,
     "heat": 26.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 24
@@ -3242,6 +3266,7 @@
      "volatility": "amber"
     },
     "conviction": 42.4,
+    "score": 42.4,
     "heat": 38.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 25
@@ -3401,6 +3426,7 @@
      "volatility": "red"
     },
     "conviction": 41.7,
+    "score": 41.7,
     "heat": 56.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 26
@@ -3560,6 +3586,7 @@
      "volatility": "amber"
     },
     "conviction": 40.1,
+    "score": 40.1,
     "heat": 47.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 27
@@ -3719,6 +3746,7 @@
      "volatility": "amber"
     },
     "conviction": 40.1,
+    "score": 40.1,
     "heat": 92.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall. Running hot on recent gains \u2014 be cautious.",
     "rank": 28
@@ -3878,6 +3906,7 @@
      "volatility": "amber"
     },
     "conviction": 35.0,
+    "score": 35.0,
     "heat": 8.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 29
@@ -4037,6 +4066,7 @@
      "volatility": "amber"
     },
     "conviction": 31.9,
+    "score": 31.9,
     "heat": 77.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall. Running hot on recent gains \u2014 be cautious.",
     "rank": 30
@@ -4152,6 +4182,7 @@
      "volatility": "red"
     },
     "conviction": 28.0,
+    "score": 28.0,
     "heat": 2.0,
     "verdict": "Weak on the measures that last \u2014 falls as hard as the market or harder.",
     "rank": 31
@@ -4311,6 +4342,7 @@
      "volatility": "amber"
     },
     "conviction": 22.9,
+    "score": 22.9,
     "heat": 23.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 32
@@ -4470,6 +4502,7 @@
      "volatility": "red"
     },
     "conviction": 19.0,
+    "score": 19.0,
     "heat": 71.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 33
@@ -4577,6 +4610,7 @@
      "volatility": "green"
     },
     "conviction": 80.5,
+    "score": 80.5,
     "heat": 78.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 1
@@ -4662,6 +4696,7 @@
      "volatility": "green"
     },
     "conviction": 76.8,
+    "score": 76.8,
     "heat": 22.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall.",
     "rank": 2
@@ -4823,6 +4858,7 @@
      "volatility": "green"
     },
     "conviction": 72.3,
+    "score": 72.3,
     "heat": 68.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall.",
     "rank": 3
@@ -4964,6 +5000,7 @@
      "volatility": "green"
     },
     "conviction": 69.6,
+    "score": 69.6,
     "heat": 42.0,
     "verdict": "Middling on the measures that last.",
     "rank": 4
@@ -5125,6 +5162,7 @@
      "volatility": "amber"
     },
     "conviction": 69.2,
+    "score": 69.2,
     "heat": 45.0,
     "verdict": "Middling on the measures that last.",
     "rank": 5
@@ -5286,6 +5324,7 @@
      "volatility": "green"
     },
     "conviction": 67.8,
+    "score": 67.8,
     "heat": 18.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 6
@@ -5447,6 +5486,7 @@
      "volatility": "amber"
     },
     "conviction": 67.8,
+    "score": 67.8,
     "heat": 82.0,
     "verdict": "Middling on the measures that last. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 7
@@ -5564,6 +5604,7 @@
      "volatility": "green"
     },
     "conviction": 67.3,
+    "score": 67.3,
     "heat": 65.0,
     "verdict": "Middling on the measures that last.",
     "rank": 8
@@ -5725,6 +5766,7 @@
      "volatility": "amber"
     },
     "conviction": 62.8,
+    "score": 62.8,
     "heat": 72.0,
     "verdict": "Middling on the measures that last.",
     "rank": 9
@@ -5794,6 +5836,7 @@
      "volatility": "green"
     },
     "conviction": 61.6,
+    "score": 61.6,
     "heat": 2.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 10
@@ -5955,6 +5998,7 @@
      "volatility": "amber"
     },
     "conviction": 56.3,
+    "score": 56.3,
     "heat": 58.0,
     "verdict": "Middling on the measures that last.",
     "rank": 11
@@ -6116,6 +6160,7 @@
      "volatility": "amber"
     },
     "conviction": 52.7,
+    "score": 52.7,
     "heat": 15.0,
     "verdict": "Middling on the measures that last.",
     "rank": 12
@@ -6245,6 +6290,7 @@
      "volatility": "green"
     },
     "conviction": 52.5,
+    "score": 52.5,
     "heat": 95.0,
     "verdict": "Middling on the measures that last \u2014 falls as hard as the market or harder. Running hot on recent gains \u2014 be cautious.",
     "rank": 13
@@ -6354,6 +6400,7 @@
      "volatility": "amber"
     },
     "conviction": 52.5,
+    "score": 52.5,
     "heat": 98.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 14
@@ -6515,6 +6562,7 @@
      "volatility": "red"
     },
     "conviction": 51.1,
+    "score": 51.1,
     "heat": 48.0,
     "verdict": "Middling on the measures that last.",
     "rank": 15
@@ -6592,6 +6640,7 @@
      "volatility": "green"
     },
     "conviction": 50.5,
+    "score": 50.5,
     "heat": 85.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 16
@@ -6729,6 +6778,7 @@
      "volatility": "green"
     },
     "conviction": 48.4,
+    "score": 48.4,
     "heat": 32.0,
     "verdict": "Middling on the measures that last \u2014 falls as hard as the market or harder.",
     "rank": 17
@@ -6890,6 +6940,7 @@
      "volatility": "red"
     },
     "conviction": 46.7,
+    "score": 46.7,
     "heat": 75.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 18
@@ -7051,6 +7102,7 @@
      "volatility": "red"
     },
     "conviction": 43.7,
+    "score": 43.7,
     "heat": 25.0,
     "verdict": "Weak on the measures that last.",
     "rank": 19
@@ -7212,6 +7264,7 @@
      "volatility": "red"
     },
     "conviction": 43.2,
+    "score": 43.2,
     "heat": 88.0,
     "verdict": "Weak on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 20
@@ -7373,6 +7426,7 @@
      "volatility": "red"
     },
     "conviction": 42.5,
+    "score": 42.5,
     "heat": 55.0,
     "verdict": "Weak on the measures that last.",
     "rank": 21
@@ -7534,6 +7588,7 @@
      "volatility": "red"
     },
     "conviction": 40.8,
+    "score": 40.8,
     "heat": 28.0,
     "verdict": "Weak on the measures that last.",
     "rank": 22
@@ -7695,6 +7750,7 @@
      "volatility": "red"
     },
     "conviction": 40.6,
+    "score": 40.6,
     "heat": 62.0,
     "verdict": "Weak on the measures that last.",
     "rank": 23
@@ -7856,6 +7912,7 @@
      "volatility": "amber"
     },
     "conviction": 36.7,
+    "score": 36.7,
     "heat": 8.0,
     "verdict": "Weak on the measures that last.",
     "rank": 24
@@ -8017,6 +8074,7 @@
      "volatility": "amber"
     },
     "conviction": 34.9,
+    "score": 34.9,
     "heat": 52.0,
     "verdict": "Weak on the measures that last.",
     "rank": 25
@@ -8178,6 +8236,7 @@
      "volatility": "red"
     },
     "conviction": 34.7,
+    "score": 34.7,
     "heat": 12.0,
     "verdict": "Weak on the measures that last.",
     "rank": 26
@@ -8339,6 +8398,7 @@
      "volatility": "green"
     },
     "conviction": 32.7,
+    "score": 32.7,
     "heat": 38.0,
     "verdict": "Weak on the measures that last.",
     "rank": 27
@@ -8500,6 +8560,7 @@
      "volatility": "red"
     },
     "conviction": 28.6,
+    "score": 28.6,
     "heat": 92.0,
     "verdict": "Weak on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 28
@@ -8661,6 +8722,7 @@
      "volatility": "amber"
     },
     "conviction": 27.9,
+    "score": 27.9,
     "heat": 35.0,
     "verdict": "Weak on the measures that last.",
     "rank": 29
@@ -8822,6 +8884,7 @@
      "volatility": "amber"
     },
     "conviction": 21.4,
+    "score": 21.4,
     "heat": 5.0,
     "verdict": "Weak on the measures that last.",
     "rank": 30
@@ -8983,6 +9046,7 @@
      "volatility": "green"
     },
     "conviction": 71.2,
+    "score": 71.2,
     "heat": 76.0,
     "verdict": "Solid and consistent. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 1
@@ -9142,6 +9206,7 @@
      "volatility": "amber"
     },
     "conviction": 70.4,
+    "score": 70.4,
     "heat": 60.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall.",
     "rank": 2
@@ -9229,6 +9294,7 @@
      "volatility": "green"
     },
     "conviction": 69.7,
+    "score": 69.7,
     "heat": 82.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 3
@@ -9368,6 +9434,7 @@
      "volatility": "green"
     },
     "conviction": 68.5,
+    "score": 68.5,
     "heat": 37.0,
     "verdict": "Middling on the measures that last.",
     "rank": 4
@@ -9527,6 +9594,7 @@
      "volatility": "green"
     },
     "conviction": 66.4,
+    "score": 66.4,
     "heat": 44.0,
     "verdict": "Middling on the measures that last.",
     "rank": 5
@@ -9686,6 +9754,7 @@
      "volatility": "amber"
     },
     "conviction": 65.9,
+    "score": 65.9,
     "heat": 73.0,
     "verdict": "Middling on the measures that last.",
     "rank": 6
@@ -9845,6 +9914,7 @@
      "volatility": "green"
     },
     "conviction": 64.2,
+    "score": 64.2,
     "heat": 63.0,
     "verdict": "Middling on the measures that last.",
     "rank": 7
@@ -10004,6 +10074,7 @@
      "volatility": "amber"
     },
     "conviction": 62.5,
+    "score": 62.5,
     "heat": 89.0,
     "verdict": "Middling on the measures that last \u2014 falls as hard as the market or harder. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 8
@@ -10087,6 +10158,7 @@
      "volatility": "green"
     },
     "conviction": 62.2,
+    "score": 62.2,
     "heat": 21.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 9
@@ -10246,6 +10318,7 @@
      "volatility": "green"
     },
     "conviction": 61.1,
+    "score": 61.1,
     "heat": 56.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 10
@@ -10405,6 +10478,7 @@
      "volatility": "red"
     },
     "conviction": 61.0,
+    "score": 61.0,
     "heat": 95.0,
     "verdict": "Middling on the measures that last \u2014 falls as hard as the market or harder. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 11
@@ -10564,6 +10638,7 @@
      "volatility": "amber"
     },
     "conviction": 60.5,
+    "score": 60.5,
     "heat": 40.0,
     "verdict": "Middling on the measures that last.",
     "rank": 12
@@ -10715,6 +10790,7 @@
      "volatility": "green"
     },
     "conviction": 59.8,
+    "score": 59.8,
     "heat": 31.0,
     "verdict": "Middling on the measures that last.",
     "rank": 13
@@ -10798,6 +10874,7 @@
      "volatility": "green"
     },
     "conviction": 58.1,
+    "score": 58.1,
     "heat": 15.0,
     "verdict": "Middling on the measures that last.",
     "rank": 14
@@ -10953,6 +11030,7 @@
      "volatility": "red"
     },
     "conviction": 54.4,
+    "score": 54.4,
     "heat": 66.0,
     "verdict": "Middling on the measures that last \u2014 falls as hard as the market or harder.",
     "rank": 15
@@ -11112,6 +11190,7 @@
      "volatility": "amber"
     },
     "conviction": 52.2,
+    "score": 52.2,
     "heat": 98.0,
     "verdict": "Middling on the measures that last \u2014 falls as hard as the market or harder. Running hot on recent gains \u2014 be cautious.",
     "rank": 16
@@ -11271,6 +11350,7 @@
      "volatility": "amber"
     },
     "conviction": 51.4,
+    "score": 51.4,
     "heat": 27.0,
     "verdict": "Middling on the measures that last.",
     "rank": 17
@@ -11430,6 +11510,7 @@
      "volatility": "red"
     },
     "conviction": 48.9,
+    "score": 48.9,
     "heat": 24.0,
     "verdict": "Middling on the measures that last.",
     "rank": 18
@@ -11581,6 +11662,7 @@
      "volatility": "amber"
     },
     "conviction": 48.2,
+    "score": 48.2,
     "heat": 69.0,
     "verdict": "Middling on the measures that last.",
     "rank": 19
@@ -11740,6 +11822,7 @@
      "volatility": "amber"
     },
     "conviction": 46.8,
+    "score": 46.8,
     "heat": 34.0,
     "verdict": "Middling on the measures that last.",
     "rank": 20
@@ -11899,6 +11982,7 @@
      "volatility": "green"
     },
     "conviction": 46.6,
+    "score": 46.6,
     "heat": 11.0,
     "verdict": "Middling on the measures that last \u2014 falls as hard as the market or harder.",
     "rank": 21
@@ -12058,6 +12142,7 @@
      "volatility": "green"
     },
     "conviction": 45.4,
+    "score": 45.4,
     "heat": 92.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 22
@@ -12129,6 +12214,7 @@
      "volatility": "red"
     },
     "conviction": 45.0,
+    "score": 45.0,
     "heat": 79.0,
     "verdict": "Middling on the measures that last \u2014 falls as hard as the market or harder. Running hot on recent gains \u2014 be cautious.",
     "rank": 23
@@ -12288,6 +12374,7 @@
      "volatility": "amber"
     },
     "conviction": 41.9,
+    "score": 41.9,
     "heat": 53.0,
     "verdict": "Weak on the measures that last.",
     "rank": 24
@@ -12447,6 +12534,7 @@
      "volatility": "green"
     },
     "conviction": 40.3,
+    "score": 40.3,
     "heat": 8.0,
     "verdict": "Weak on the measures that last.",
     "rank": 25
@@ -12522,6 +12610,7 @@
      "volatility": "red"
     },
     "conviction": 38.6,
+    "score": 38.6,
     "heat": 18.0,
     "verdict": "Weak on the measures that last \u2014 falls as hard as the market or harder.",
     "rank": 26
@@ -12681,6 +12770,7 @@
      "volatility": "red"
     },
     "conviction": 33.2,
+    "score": 33.2,
     "heat": 85.0,
     "verdict": "Weak on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 27
@@ -12840,6 +12930,7 @@
      "volatility": "red"
     },
     "conviction": 25.6,
+    "score": 25.6,
     "heat": 5.0,
     "verdict": "Weak on the measures that last.",
     "rank": 28
@@ -12999,6 +13090,7 @@
      "volatility": "amber"
     },
     "conviction": 24.2,
+    "score": 24.2,
     "heat": 2.0,
     "verdict": "Weak on the measures that last \u2014 falls as hard as the market or harder.",
     "rank": 29
@@ -13158,6 +13250,7 @@
      "volatility": "red"
     },
     "conviction": 21.1,
+    "score": 21.1,
     "heat": 50.0,
     "verdict": "Weak on the measures that last \u2014 falls as hard as the market or harder.",
     "rank": 30
@@ -13317,6 +13410,7 @@
      "volatility": "red"
     },
     "conviction": 16.2,
+    "score": 16.2,
     "heat": 47.0,
     "verdict": "Weak on the measures that last.",
     "rank": 31
@@ -13427,6 +13521,7 @@
      "volatility": "green"
     },
     "conviction": 75.6,
+    "score": 75.6,
     "heat": 97.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 1
@@ -13495,6 +13590,7 @@
      "volatility": "amber"
     },
     "conviction": 70.5,
+    "score": 70.5,
     "heat": 91.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 2
@@ -13599,6 +13695,7 @@
      "volatility": "green"
     },
     "conviction": 70.2,
+    "score": 70.2,
     "heat": 32.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall.",
     "rank": 3
@@ -13759,6 +13856,7 @@
      "volatility": "amber"
     },
     "conviction": 67.0,
+    "score": 67.0,
     "heat": 38.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 4
@@ -13875,6 +13973,7 @@
      "volatility": "green"
     },
     "conviction": 66.6,
+    "score": 66.6,
     "heat": 85.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 5
@@ -14035,6 +14134,7 @@
      "volatility": "green"
     },
     "conviction": 62.6,
+    "score": 62.6,
     "heat": 79.0,
     "verdict": "Middling on the measures that last. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 6
@@ -14195,6 +14295,7 @@
      "volatility": "red"
     },
     "conviction": 60.7,
+    "score": 60.7,
     "heat": 15.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 7
@@ -14327,6 +14428,7 @@
      "volatility": "green"
     },
     "conviction": 57.1,
+    "score": 57.1,
     "heat": 74.0,
     "verdict": "Middling on the measures that last.",
     "rank": 8
@@ -14487,6 +14589,7 @@
      "volatility": "red"
     },
     "conviction": 56.6,
+    "score": 56.6,
     "heat": 50.0,
     "verdict": "Middling on the measures that last.",
     "rank": 9
@@ -14647,6 +14750,7 @@
      "volatility": "red"
     },
     "conviction": 55.2,
+    "score": 55.2,
     "heat": 62.0,
     "verdict": "Middling on the measures that last.",
     "rank": 10
@@ -14807,6 +14911,7 @@
      "volatility": "green"
     },
     "conviction": 53.3,
+    "score": 53.3,
     "heat": 56.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 11
@@ -14903,6 +15008,7 @@
      "volatility": "green"
     },
     "conviction": 46.4,
+    "score": 46.4,
     "heat": 26.0,
     "verdict": "Middling on the measures that last.",
     "rank": 12
@@ -15063,6 +15169,7 @@
      "volatility": "red"
     },
     "conviction": 40.0,
+    "score": 40.0,
     "heat": 68.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 13
@@ -15223,6 +15330,7 @@
      "volatility": "amber"
     },
     "conviction": 28.9,
+    "score": 28.9,
     "heat": 44.0,
     "verdict": "Weak on the measures that last \u2014 falls as hard as the market or harder.",
     "rank": 14
@@ -15383,6 +15491,7 @@
      "volatility": "amber"
     },
     "conviction": 27.6,
+    "score": 27.6,
     "heat": 9.0,
     "verdict": "Weak on the measures that last.",
     "rank": 15
@@ -15543,6 +15652,7 @@
      "volatility": "red"
     },
     "conviction": 24.5,
+    "score": 24.5,
     "heat": 3.0,
     "verdict": "Weak on the measures that last.",
     "rank": 16
@@ -15703,6 +15813,7 @@
      "volatility": "amber"
     },
     "conviction": 17.3,
+    "score": 17.3,
     "heat": 21.0,
     "verdict": "Weak on the measures that last \u2014 falls as hard as the market or harder.",
     "rank": 17
@@ -15772,6 +15883,7 @@
      "volatility": "green"
     },
     "conviction": 80.3,
+    "score": 80.3,
     "heat": 50.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall.",
     "rank": 1
@@ -15919,6 +16031,7 @@
      "volatility": "green"
     },
     "conviction": 70.5,
+    "score": 70.5,
     "heat": 47.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall.",
     "rank": 2
@@ -16006,6 +16119,7 @@
      "volatility": "amber"
     },
     "conviction": 70.0,
+    "score": 70.0,
     "heat": 88.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 3
@@ -16109,6 +16223,7 @@
      "volatility": "green"
     },
     "conviction": 67.3,
+    "score": 67.3,
     "heat": 78.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 4
@@ -16268,6 +16383,7 @@
      "volatility": "amber"
     },
     "conviction": 64.5,
+    "score": 64.5,
     "heat": 33.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 5
@@ -16427,6 +16543,7 @@
      "volatility": "amber"
     },
     "conviction": 64.0,
+    "score": 64.0,
     "heat": 91.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 6
@@ -16586,6 +16703,7 @@
      "volatility": "red"
     },
     "conviction": 61.5,
+    "score": 61.5,
     "heat": 29.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 7
@@ -16673,6 +16791,7 @@
      "volatility": "green"
     },
     "conviction": 61.3,
+    "score": 61.3,
     "heat": 43.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 8
@@ -16832,6 +16951,7 @@
      "volatility": "green"
     },
     "conviction": 60.2,
+    "score": 60.2,
     "heat": 36.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 9
@@ -16967,6 +17087,7 @@
      "volatility": "green"
     },
     "conviction": 58.7,
+    "score": 58.7,
     "heat": 22.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 10
@@ -17126,6 +17247,7 @@
      "volatility": "amber"
     },
     "conviction": 53.8,
+    "score": 53.8,
     "heat": 95.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall. Running hot on recent gains \u2014 be cautious.",
     "rank": 11
@@ -17285,6 +17407,7 @@
      "volatility": "amber"
     },
     "conviction": 53.7,
+    "score": 53.7,
     "heat": 16.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 12
@@ -17444,6 +17567,7 @@
      "volatility": "green"
     },
     "conviction": 53.1,
+    "score": 53.1,
     "heat": 74.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 13
@@ -17603,6 +17727,7 @@
      "volatility": "red"
     },
     "conviction": 52.8,
+    "score": 52.8,
     "heat": 60.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 14
@@ -17674,6 +17799,7 @@
      "volatility": "red"
     },
     "conviction": 48.6,
+    "score": 48.6,
     "heat": 98.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall. Running hot on recent gains \u2014 be cautious.",
     "rank": 15
@@ -17833,6 +17959,7 @@
      "volatility": "green"
     },
     "conviction": 48.5,
+    "score": 48.5,
     "heat": 19.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 16
@@ -17992,6 +18119,7 @@
      "volatility": "red"
     },
     "conviction": 46.7,
+    "score": 46.7,
     "heat": 71.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 17
@@ -18151,6 +18279,7 @@
      "volatility": "amber"
     },
     "conviction": 46.6,
+    "score": 46.6,
     "heat": 12.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 18
@@ -18310,6 +18439,7 @@
      "volatility": "amber"
     },
     "conviction": 46.5,
+    "score": 46.5,
     "heat": 2.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 19
@@ -18397,6 +18527,7 @@
      "volatility": "green"
     },
     "conviction": 46.1,
+    "score": 46.1,
     "heat": 40.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 20
@@ -18500,6 +18631,7 @@
      "volatility": "green"
     },
     "conviction": 44.4,
+    "score": 44.4,
     "heat": 26.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 21
@@ -18623,6 +18755,7 @@
      "volatility": "green"
     },
     "conviction": 43.8,
+    "score": 43.8,
     "heat": 57.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 22
@@ -18782,6 +18915,7 @@
      "volatility": "red"
     },
     "conviction": 42.2,
+    "score": 42.2,
     "heat": 64.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 23
@@ -18877,6 +19011,7 @@
      "volatility": "amber"
     },
     "conviction": 41.5,
+    "score": 41.5,
     "heat": 53.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 24
@@ -18956,6 +19091,7 @@
      "volatility": "red"
     },
     "conviction": 38.1,
+    "score": 38.1,
     "heat": 84.0,
     "verdict": "Weak on the measures that last \u2014 falls as hard as the market or harder. Running hot on recent gains \u2014 be cautious.",
     "rank": 25
@@ -19103,6 +19239,7 @@
      "volatility": "red"
     },
     "conviction": 38.0,
+    "score": 38.0,
     "heat": 81.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall. Running hot on recent gains \u2014 be cautious.",
     "rank": 26
@@ -19262,6 +19399,7 @@
      "volatility": "amber"
     },
     "conviction": 37.0,
+    "score": 37.0,
     "heat": 5.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 27
@@ -19421,6 +19559,7 @@
      "volatility": "red"
     },
     "conviction": 33.9,
+    "score": 33.9,
     "heat": 9.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 28
@@ -19580,6 +19719,7 @@
      "volatility": "red"
     },
     "conviction": 11.1,
+    "score": 11.1,
     "heat": 67.0,
     "verdict": "Weak on the measures that last.",
     "rank": 29
@@ -19721,6 +19861,7 @@
      "volatility": "green"
     },
     "conviction": 83.9,
+    "score": 83.9,
     "heat": 38.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall.",
     "rank": 1
@@ -19880,6 +20021,7 @@
      "volatility": "green"
     },
     "conviction": 77.5,
+    "score": 77.5,
     "heat": 66.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall.",
     "rank": 2
@@ -20007,6 +20149,7 @@
      "volatility": "green"
     },
     "conviction": 74.1,
+    "score": 74.1,
     "heat": 16.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall.",
     "rank": 3
@@ -20142,6 +20285,7 @@
      "volatility": "green"
     },
     "conviction": 73.9,
+    "score": 73.9,
     "heat": 59.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall.",
     "rank": 4
@@ -20301,6 +20445,7 @@
      "volatility": "amber"
     },
     "conviction": 66.9,
+    "score": 66.9,
     "heat": 55.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 5
@@ -20460,6 +20605,7 @@
      "volatility": "amber"
     },
     "conviction": 66.8,
+    "score": 66.8,
     "heat": 98.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 6
@@ -20603,6 +20749,7 @@
      "volatility": "green"
     },
     "conviction": 65.6,
+    "score": 65.6,
     "heat": 73.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 7
@@ -20762,6 +20909,7 @@
      "volatility": "amber"
     },
     "conviction": 64.4,
+    "score": 64.4,
     "heat": 84.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 8
@@ -20857,6 +21005,7 @@
      "volatility": "green"
     },
     "conviction": 58.6,
+    "score": 58.6,
     "heat": 80.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall. Running hot on recent gains \u2014 be cautious.",
     "rank": 9
@@ -20976,6 +21125,7 @@
      "volatility": "green"
     },
     "conviction": 57.2,
+    "score": 57.2,
     "heat": 52.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 10
@@ -21083,6 +21233,7 @@
      "volatility": "green"
     },
     "conviction": 56.9,
+    "score": 56.9,
     "heat": 48.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 11
@@ -21170,6 +21321,7 @@
      "volatility": "amber"
     },
     "conviction": 56.8,
+    "score": 56.8,
     "heat": 95.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall. Running hot on recent gains \u2014 be cautious.",
     "rank": 12
@@ -21329,6 +21481,7 @@
      "volatility": "amber"
     },
     "conviction": 53.0,
+    "score": 53.0,
     "heat": 27.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 13
@@ -21488,6 +21641,7 @@
      "volatility": "amber"
     },
     "conviction": 50.9,
+    "score": 50.9,
     "heat": 70.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 14
@@ -21647,6 +21801,7 @@
      "volatility": "amber"
     },
     "conviction": 47.5,
+    "score": 47.5,
     "heat": 41.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 15
@@ -21770,6 +21925,7 @@
      "volatility": "green"
     },
     "conviction": 46.0,
+    "score": 46.0,
     "heat": 23.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 16
@@ -21929,6 +22085,7 @@
      "volatility": "red"
     },
     "conviction": 45.8,
+    "score": 45.8,
     "heat": 88.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 17
@@ -22084,6 +22241,7 @@
      "volatility": "amber"
     },
     "conviction": 44.5,
+    "score": 44.5,
     "heat": 77.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall. Running hot on recent gains \u2014 be cautious.",
     "rank": 18
@@ -22235,6 +22393,7 @@
      "volatility": "red"
     },
     "conviction": 44.5,
+    "score": 44.5,
     "heat": 45.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 19
@@ -22350,6 +22509,7 @@
      "volatility": "green"
     },
     "conviction": 41.9,
+    "score": 41.9,
     "heat": 9.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 20
@@ -22445,6 +22605,7 @@
      "volatility": "green"
     },
     "conviction": 41.0,
+    "score": 41.0,
     "heat": 30.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 21
@@ -22604,6 +22765,7 @@
      "volatility": "red"
     },
     "conviction": 38.5,
+    "score": 38.5,
     "heat": 62.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 22
@@ -22763,6 +22925,7 @@
      "volatility": "red"
     },
     "conviction": 38.3,
+    "score": 38.3,
     "heat": 34.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 23
@@ -22922,6 +23085,7 @@
      "volatility": "red"
     },
     "conviction": 34.1,
+    "score": 34.1,
     "heat": 2.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 24
@@ -23081,6 +23245,7 @@
      "volatility": "red"
     },
     "conviction": 31.4,
+    "score": 31.4,
     "heat": 20.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 25
@@ -23240,6 +23405,7 @@
      "volatility": "amber"
     },
     "conviction": 27.5,
+    "score": 27.5,
     "heat": 5.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 26
@@ -23399,6 +23565,7 @@
      "volatility": "red"
     },
     "conviction": 24.6,
+    "score": 24.6,
     "heat": 91.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall. Running hot on recent gains \u2014 be cautious.",
     "rank": 27
@@ -23558,6 +23725,7 @@
      "volatility": "red"
     },
     "conviction": 21.2,
+    "score": 21.2,
     "heat": 12.0,
     "verdict": "Weak on the measures that last \u2014 cushions well when markets fall.",
     "rank": 28
@@ -23719,6 +23887,7 @@
      "volatility": "amber"
     },
     "conviction": 70.3,
+    "score": 70.3,
     "heat": 50.0,
     "verdict": "Solid and consistent \u2014 cushions well when markets fall.",
     "rank": 1
@@ -23878,6 +24047,7 @@
      "volatility": "green"
     },
     "conviction": 56.7,
+    "score": 56.7,
     "heat": 17.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall.",
     "rank": 2
@@ -24037,6 +24207,7 @@
      "volatility": "green"
     },
     "conviction": 53.0,
+    "score": 53.0,
     "heat": 83.0,
     "verdict": "Middling on the measures that last \u2014 cushions well when markets fall. Running hot on recent gains \u2014 be cautious.",
     "rank": 3
@@ -24197,6 +24368,7 @@
      "volatility": "green"
     },
     "conviction": 74.0,
+    "score": 74.0,
     "heat": 88.0,
     "verdict": "Solid and consistent. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 1
@@ -24263,6 +24435,7 @@
      "volatility": "green"
     },
     "conviction": 67.1,
+    "score": 67.1,
     "heat": 93.0,
     "verdict": "Middling on the measures that last. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 2
@@ -24421,6 +24594,7 @@
      "volatility": "amber"
     },
     "conviction": 66.2,
+    "score": 66.2,
     "heat": 74.0,
     "verdict": "Middling on the measures that last.",
     "rank": 3
@@ -24579,6 +24753,7 @@
      "volatility": "green"
     },
     "conviction": 63.3,
+    "score": 63.3,
     "heat": 40.0,
     "verdict": "Middling on the measures that last.",
     "rank": 4
@@ -24697,6 +24872,7 @@
      "volatility": "green"
     },
     "conviction": 59.5,
+    "score": 59.5,
     "heat": 7.0,
     "verdict": "Middling on the measures that last.",
     "rank": 5
@@ -24799,6 +24975,7 @@
      "volatility": "amber"
     },
     "conviction": 59.1,
+    "score": 59.1,
     "heat": 98.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 6
@@ -24957,6 +25134,7 @@
      "volatility": "green"
     },
     "conviction": 57.5,
+    "score": 57.5,
     "heat": 55.0,
     "verdict": "Middling on the measures that last.",
     "rank": 7
@@ -24998,6 +25176,7 @@
      "volatility": "amber"
     },
     "conviction": 57.2,
+    "score": 57.2,
     "heat": 50.0,
     "verdict": "Middling on the measures that last.",
     "rank": 8
@@ -25156,6 +25335,7 @@
      "volatility": "red"
     },
     "conviction": 57.0,
+    "score": 57.0,
     "heat": 60.0,
     "verdict": "Middling on the measures that last.",
     "rank": 9
@@ -25314,6 +25494,7 @@
      "volatility": "amber"
     },
     "conviction": 52.8,
+    "score": 52.8,
     "heat": 31.0,
     "verdict": "Middling on the measures that last.",
     "rank": 10
@@ -25472,6 +25653,7 @@
      "volatility": "red"
     },
     "conviction": 52.8,
+    "score": 52.8,
     "heat": 83.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 11
@@ -25566,6 +25748,7 @@
      "volatility": "amber"
     },
     "conviction": 52.3,
+    "score": 52.3,
     "heat": 12.0,
     "verdict": "Middling on the measures that last.",
     "rank": 12
@@ -25724,6 +25907,7 @@
      "volatility": "amber"
     },
     "conviction": 51.1,
+    "score": 51.1,
     "heat": 2.0,
     "verdict": "Middling on the measures that last.",
     "rank": 13
@@ -25882,6 +26066,7 @@
      "volatility": "red"
     },
     "conviction": 48.6,
+    "score": 48.6,
     "heat": 69.0,
     "verdict": "Middling on the measures that last.",
     "rank": 14
@@ -26040,6 +26225,7 @@
      "volatility": "red"
     },
     "conviction": 47.8,
+    "score": 47.8,
     "heat": 21.0,
     "verdict": "Middling on the measures that last.",
     "rank": 15
@@ -26198,6 +26384,7 @@
      "volatility": "red"
     },
     "conviction": 43.2,
+    "score": 43.2,
     "heat": 17.0,
     "verdict": "Weak on the measures that last.",
     "rank": 16
@@ -26356,6 +26543,7 @@
      "volatility": "amber"
     },
     "conviction": 40.9,
+    "score": 40.9,
     "heat": 50.0,
     "verdict": "Weak on the measures that last.",
     "rank": 17
@@ -26514,6 +26702,7 @@
      "volatility": "green"
     },
     "conviction": 34.1,
+    "score": 34.1,
     "heat": 45.0,
     "verdict": "Weak on the measures that last.",
     "rank": 18
@@ -26672,6 +26861,7 @@
      "volatility": "green"
     },
     "conviction": 34.0,
+    "score": 34.0,
     "heat": 64.0,
     "verdict": "Weak on the measures that last.",
     "rank": 19
@@ -26830,6 +27020,7 @@
      "volatility": "green"
     },
     "conviction": 34.0,
+    "score": 34.0,
     "heat": 26.0,
     "verdict": "Weak on the measures that last.",
     "rank": 20
@@ -26988,6 +27179,7 @@
      "volatility": "amber"
     },
     "conviction": 33.7,
+    "score": 33.7,
     "heat": 79.0,
     "verdict": "Weak on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 21
@@ -27146,6 +27338,7 @@
      "volatility": "red"
     },
     "conviction": 21.7,
+    "score": 21.7,
     "heat": 36.0,
     "verdict": "Weak on the measures that last.",
     "rank": 22
@@ -27232,6 +27425,7 @@
      "volatility": "green"
     },
     "conviction": 65.7,
+    "score": 65.7,
     "heat": 21.0,
     "verdict": "Middling on the measures that last.",
     "rank": 1
@@ -27304,6 +27498,7 @@
      "volatility": "green"
     },
     "conviction": 65.2,
+    "score": 65.2,
     "heat": 95.0,
     "verdict": "Middling on the measures that last. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 2
@@ -27372,6 +27567,7 @@
      "volatility": "green"
     },
     "conviction": 64.9,
+    "score": 64.9,
     "heat": 92.0,
     "verdict": "Middling on the measures that last. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 3
@@ -27436,6 +27632,7 @@
      "volatility": "green"
     },
     "conviction": 63.6,
+    "score": 63.6,
     "heat": 98.0,
     "verdict": "Middling on the measures that last. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 4
@@ -27524,6 +27721,7 @@
      "volatility": "green"
     },
     "conviction": 63.3,
+    "score": 63.3,
     "heat": 50.0,
     "verdict": "Middling on the measures that last.",
     "rank": 5
@@ -27624,6 +27822,7 @@
      "volatility": "green"
     },
     "conviction": 62.5,
+    "score": 62.5,
     "heat": 44.0,
     "verdict": "Middling on the measures that last.",
     "rank": 6
@@ -27740,6 +27939,7 @@
      "volatility": "green"
     },
     "conviction": 62.0,
+    "score": 62.0,
     "heat": 82.0,
     "verdict": "Middling on the measures that last. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 7
@@ -27896,6 +28096,7 @@
      "volatility": "amber"
     },
     "conviction": 61.9,
+    "score": 61.9,
     "heat": 85.0,
     "verdict": "Middling on the measures that last. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 8
@@ -28036,6 +28237,7 @@
      "volatility": "amber"
     },
     "conviction": 60.3,
+    "score": 60.3,
     "heat": 76.0,
     "verdict": "Middling on the measures that last. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 9
@@ -28148,6 +28350,7 @@
      "volatility": "green"
     },
     "conviction": 58.8,
+    "score": 58.8,
     "heat": 27.0,
     "verdict": "Middling on the measures that last.",
     "rank": 10
@@ -28252,6 +28455,7 @@
      "volatility": "green"
     },
     "conviction": 58.7,
+    "score": 58.7,
     "heat": 15.0,
     "verdict": "Middling on the measures that last.",
     "rank": 11
@@ -28408,6 +28612,7 @@
      "volatility": "amber"
     },
     "conviction": 58.6,
+    "score": 58.6,
     "heat": 63.0,
     "verdict": "Middling on the measures that last.",
     "rank": 12
@@ -28564,6 +28769,7 @@
      "volatility": "amber"
     },
     "conviction": 58.3,
+    "score": 58.3,
     "heat": 79.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 13
@@ -28632,6 +28838,7 @@
      "volatility": "green"
     },
     "conviction": 57.6,
+    "score": 57.6,
     "heat": 89.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 14
@@ -28788,6 +28995,7 @@
      "volatility": "red"
     },
     "conviction": 54.5,
+    "score": 54.5,
     "heat": 73.0,
     "verdict": "Middling on the measures that last.",
     "rank": 15
@@ -28944,6 +29152,7 @@
      "volatility": "amber"
     },
     "conviction": 51.2,
+    "score": 51.2,
     "heat": 69.0,
     "verdict": "Middling on the measures that last.",
     "rank": 16
@@ -29100,6 +29309,7 @@
      "volatility": "amber"
     },
     "conviction": 50.4,
+    "score": 50.4,
     "heat": 66.0,
     "verdict": "Middling on the measures that last.",
     "rank": 17
@@ -29256,6 +29466,7 @@
      "volatility": "amber"
     },
     "conviction": 49.9,
+    "score": 49.9,
     "heat": 60.0,
     "verdict": "Middling on the measures that last.",
     "rank": 18
@@ -29324,6 +29535,7 @@
      "volatility": "green"
     },
     "conviction": 49.5,
+    "score": 49.5,
     "heat": 2.0,
     "verdict": "Middling on the measures that last.",
     "rank": 19
@@ -29480,6 +29692,7 @@
      "volatility": "amber"
     },
     "conviction": 44.3,
+    "score": 44.3,
     "heat": 40.0,
     "verdict": "Weak on the measures that last.",
     "rank": 20
@@ -29636,6 +29849,7 @@
      "volatility": "red"
     },
     "conviction": 43.4,
+    "score": 43.4,
     "heat": 47.0,
     "verdict": "Weak on the measures that last.",
     "rank": 21
@@ -29772,6 +29986,7 @@
      "volatility": "green"
     },
     "conviction": 42.9,
+    "score": 42.9,
     "heat": 8.0,
     "verdict": "Weak on the measures that last.",
     "rank": 22
@@ -29928,6 +30143,7 @@
      "volatility": "red"
     },
     "conviction": 39.3,
+    "score": 39.3,
     "heat": 34.0,
     "verdict": "Weak on the measures that last.",
     "rank": 23
@@ -30084,6 +30300,7 @@
      "volatility": "red"
     },
     "conviction": 38.7,
+    "score": 38.7,
     "heat": 31.0,
     "verdict": "Weak on the measures that last.",
     "rank": 24
@@ -30240,6 +30457,7 @@
      "volatility": "red"
     },
     "conviction": 37.2,
+    "score": 37.2,
     "heat": 24.0,
     "verdict": "Weak on the measures that last.",
     "rank": 25
@@ -30396,6 +30614,7 @@
      "volatility": "amber"
     },
     "conviction": 35.1,
+    "score": 35.1,
     "heat": 11.0,
     "verdict": "Weak on the measures that last.",
     "rank": 26
@@ -30552,6 +30771,7 @@
      "volatility": "red"
     },
     "conviction": 35.0,
+    "score": 35.0,
     "heat": 53.0,
     "verdict": "Weak on the measures that last.",
     "rank": 27
@@ -30708,6 +30928,7 @@
      "volatility": "red"
     },
     "conviction": 34.3,
+    "score": 34.3,
     "heat": 56.0,
     "verdict": "Weak on the measures that last.",
     "rank": 28
@@ -30864,6 +31085,7 @@
      "volatility": "red"
     },
     "conviction": 34.0,
+    "score": 34.0,
     "heat": 18.0,
     "verdict": "Weak on the measures that last.",
     "rank": 29
@@ -31016,6 +31238,7 @@
      "volatility": "red"
     },
     "conviction": 31.3,
+    "score": 31.3,
     "heat": 37.0,
     "verdict": "Weak on the measures that last.",
     "rank": 30
@@ -31172,6 +31395,7 @@
      "volatility": "amber"
     },
     "conviction": 25.4,
+    "score": 25.4,
     "heat": 5.0,
     "verdict": "Weak on the measures that last.",
     "rank": 31
@@ -31274,6 +31498,7 @@
      "volatility": "green"
     },
     "conviction": 64.1,
+    "score": 64.1,
     "heat": 26.0,
     "verdict": "Middling on the measures that last.",
     "rank": 1
@@ -31378,6 +31603,7 @@
      "volatility": "green"
     },
     "conviction": 58.5,
+    "score": 58.5,
     "heat": 60.0,
     "verdict": "Middling on the measures that last.",
     "rank": 2
@@ -31506,6 +31732,7 @@
      "volatility": "green"
     },
     "conviction": 58.3,
+    "score": 58.3,
     "heat": 79.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 3
@@ -31658,6 +31885,7 @@
      "volatility": "red"
     },
     "conviction": 58.1,
+    "score": 58.1,
     "heat": 74.0,
     "verdict": "Middling on the measures that last.",
     "rank": 4
@@ -31818,6 +32046,7 @@
      "volatility": "red"
     },
     "conviction": 57.6,
+    "score": 57.6,
     "heat": 55.0,
     "verdict": "Middling on the measures that last.",
     "rank": 5
@@ -31922,6 +32151,7 @@
      "volatility": "green"
     },
     "conviction": 53.8,
+    "score": 53.8,
     "heat": 36.0,
     "verdict": "Middling on the measures that last.",
     "rank": 6
@@ -32042,6 +32272,7 @@
      "volatility": "green"
     },
     "conviction": 52.0,
+    "score": 52.0,
     "heat": 69.0,
     "verdict": "Middling on the measures that last.",
     "rank": 7
@@ -32118,6 +32349,7 @@
      "volatility": "amber"
     },
     "conviction": 51.5,
+    "score": 51.5,
     "heat": 31.0,
     "verdict": "Middling on the measures that last.",
     "rank": 8
@@ -32250,6 +32482,7 @@
      "volatility": "amber"
     },
     "conviction": 50.7,
+    "score": 50.7,
     "heat": 2.0,
     "verdict": "Middling on the measures that last.",
     "rank": 9
@@ -32314,6 +32547,7 @@
      "volatility": "amber"
     },
     "conviction": 50.4,
+    "score": 50.4,
     "heat": 12.0,
     "verdict": "Middling on the measures that last.",
     "rank": 10
@@ -32402,6 +32636,7 @@
      "volatility": "green"
     },
     "conviction": 49.8,
+    "score": 49.8,
     "heat": 17.0,
     "verdict": "Middling on the measures that last.",
     "rank": 11
@@ -32466,6 +32701,7 @@
      "volatility": "amber"
     },
     "conviction": 49.3,
+    "score": 49.3,
     "heat": 21.0,
     "verdict": "Middling on the measures that last.",
     "rank": 12
@@ -32626,6 +32862,7 @@
      "volatility": "red"
     },
     "conviction": 49.0,
+    "score": 49.0,
     "heat": 83.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 13
@@ -32750,6 +32987,7 @@
      "volatility": "green"
     },
     "conviction": 48.8,
+    "score": 48.8,
     "heat": 93.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 14
@@ -32910,6 +33148,7 @@
      "volatility": "red"
     },
     "conviction": 47.9,
+    "score": 47.9,
     "heat": 64.0,
     "verdict": "Middling on the measures that last.",
     "rank": 15
@@ -33038,6 +33277,7 @@
      "volatility": "green"
     },
     "conviction": 46.9,
+    "score": 46.9,
     "heat": 88.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 16
@@ -33198,6 +33438,7 @@
      "volatility": "amber"
     },
     "conviction": 45.9,
+    "score": 45.9,
     "heat": 40.0,
     "verdict": "Middling on the measures that last.",
     "rank": 17
@@ -33358,6 +33599,7 @@
      "volatility": "red"
     },
     "conviction": 45.5,
+    "score": 45.5,
     "heat": 50.0,
     "verdict": "Middling on the measures that last.",
     "rank": 18
@@ -33518,6 +33760,7 @@
      "volatility": "amber"
     },
     "conviction": 43.3,
+    "score": 43.3,
     "heat": 45.0,
     "verdict": "Weak on the measures that last.",
     "rank": 19
@@ -33678,6 +33921,7 @@
      "volatility": "amber"
     },
     "conviction": 40.5,
+    "score": 40.5,
     "heat": 98.0,
     "verdict": "Weak on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 20
@@ -33838,6 +34082,7 @@
      "volatility": "red"
     },
     "conviction": 36.3,
+    "score": 36.3,
     "heat": 7.0,
     "verdict": "Weak on the measures that last.",
     "rank": 21
@@ -33902,6 +34147,7 @@
      "volatility": "green"
     },
     "conviction": 65.3,
+    "score": 65.3,
     "heat": 77.0,
     "verdict": "Middling on the measures that last. Strong, but hot lately \u2014 some of this is recent momentum.",
     "rank": 1
@@ -33972,6 +34218,7 @@
      "volatility": "green"
     },
     "conviction": 60.4,
+    "score": 60.4,
     "heat": 23.0,
     "verdict": "Middling on the measures that last.",
     "rank": 2
@@ -34046,6 +34293,7 @@
      "volatility": "green"
     },
     "conviction": 58.4,
+    "score": 58.4,
     "heat": 41.0,
     "verdict": "Middling on the measures that last.",
     "rank": 3
@@ -34120,6 +34368,7 @@
      "volatility": "amber"
     },
     "conviction": 57.5,
+    "score": 57.5,
     "heat": 86.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 4
@@ -34214,6 +34463,7 @@
      "volatility": "amber"
     },
     "conviction": 55.5,
+    "score": 55.5,
     "heat": 95.0,
     "verdict": "Middling on the measures that last. Running hot on recent gains \u2014 be cautious.",
     "rank": 5
@@ -34276,6 +34526,7 @@
      "volatility": "green"
     },
     "conviction": 54.2,
+    "score": 54.2,
     "heat": 59.0,
     "verdict": "Middling on the measures that last.",
     "rank": 6
@@ -34354,6 +34605,7 @@
      "volatility": "green"
     },
     "conviction": 50.9,
+    "score": 50.9,
     "heat": 50.0,
     "verdict": "Middling on the measures that last.",
     "rank": 7
@@ -34428,6 +34680,7 @@
      "volatility": "amber"
     },
     "conviction": 45.2,
+    "score": 45.2,
     "heat": 68.0,
     "verdict": "Middling on the measures that last.",
     "rank": 8
@@ -34502,6 +34755,7 @@
      "volatility": "red"
     },
     "conviction": 38.3,
+    "score": 38.3,
     "heat": 14.0,
     "verdict": "Weak on the measures that last.",
     "rank": 9
@@ -34576,6 +34830,7 @@
      "volatility": "red"
     },
     "conviction": 37.6,
+    "score": 37.6,
     "heat": 32.0,
     "verdict": "Weak on the measures that last.",
     "rank": 10
@@ -34650,6 +34905,7 @@
      "volatility": "red"
     },
     "conviction": 34.8,
+    "score": 34.8,
     "heat": 5.0,
     "verdict": "Weak on the measures that last.",
     "rank": 11
