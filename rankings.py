@@ -68,6 +68,10 @@ BENCHMARKS = {
   "Index Nifty 500": None,
 }
 EXCLUDE_PLANWORDS = ["idcw","dividend","payout","reinvest","bonus","regular"]
+# benchmark must be the PLAIN broad index, not a smart-beta / factor variant
+BENCH_EXCLUDE = ["value","momentum","quality","alpha","low vol","low volatility","volatility",
+                 "equal weight","equal-weight","esg","enhanced","factor","edge","multicap","next 50",
+                 "top 10","top 15","top 20","200","1d","tri "]
 
 STATUS_CHECKED = "2026-07-19"
 STATUS_OVERRIDES = {
@@ -107,12 +111,17 @@ def discover():
     bench={}
     for cat,pat in BENCHMARKS.items():
         if not pat: continue
+        cands=[]
         for s in allschemes:
             name=(s.get("schemeName") or ""); low=norm(name)
             if "direct" not in low or "growth" not in low: continue
             if any(w in low for w in EXCLUDE_PLANWORDS): continue
+            if any(w in low for w in BENCH_EXCLUDE): continue          # skip Value 50 / Momentum 50 / etc.
             if all(k in low for k in pat):
-                bench[cat]=(str(s.get("schemeCode")), name.split(" - ")[0].strip()); break
+                cands.append((str(s.get("schemeCode")), name.split(" - ")[0].strip(), len(low)))
+        if cands:
+            cands.sort(key=lambda c: c[2])                            # shortest name = plainest index fund
+            bench[cat]=(cands[0][0], cands[0][1])
     return buckets, bench, len(allschemes)
 
 def fetch_nav(code):
